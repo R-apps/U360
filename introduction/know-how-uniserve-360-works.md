@@ -26,7 +26,7 @@ This article explains the end-to-end process so you can understand how the syste
 1. **Template Design**\
    The template is structured using layout components such as Document, Group, Page, Layer, and Objects and is designed by adding branding elements, sections, headers, footer, and inserting text, tables, charts, barcodes, and data fields.\
    **Example:**\
-   A bank designs one savings account statement template. Each customer receives the same layout, but the balances, transactions, and dates are different.
+   A bank uses a single savings account statement template. All customers receive the same layout, while balances, transactions, and dates vary for each customer.
 2. **Configuring Input Data Source**\
    The template is connected with customer data. Data is received from systems like core banking, policy admin, billing, etc.\
    Formats can be XML, JSON, DB, Text, etc.
@@ -52,7 +52,7 @@ This article explains the end-to-end process so you can understand how the syste
 &#x20;     The system applies business logic, merges data with the template, and generates the final output.
 
 &#x20;      **Example:** A bank runs a monthly batch for 1.2 million credit card statements and generates PDF   \
-&#x20;      statements, email and SMS alerts for minimum due.
+&#x20;      statements, email, and SMS alerts for minimum due.
 
 7. **Multi-Format Output**\
    Once processed, output can be generated in multiple formats:

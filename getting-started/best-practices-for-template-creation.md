@@ -26,7 +26,7 @@ These are some of the best practices that we recommend following when creating a
 * Static/Dynamic content
 * Conditional sections
 
-<mark style="color:yellow;"><\<IMAGE>> - Sample image displaying all parts of the template</mark>
+<mark style="color:green;">**<\<IMAGE>> - Sample image displaying all parts of the template**</mark>
 
 2. Keeping the template design simple. A well-organized layout improves readability and reduces rendering time.  Avoid heavy backgrounds or too many decorative elements.
 3. Before designing complex layouts,
@@ -43,8 +43,8 @@ Since the input identifiers and tags are case-sensitive, handle bulk input files
 
 4. Preview the created template with multiple data sets. It helps catch alignment and overflow issues.
 5. When working with dynamic objects, map the data cautiously.&#x20;
-6. Follow your organization's standards for font, color, logos, and other UI standards, to maintain a unified customer experience across channels.
-7. Use business rules for layout switching, enabling/disabling layers/pages, and other carefully.&#x20;
+6. Follow your organization's standards for font, color, logos, and other UI standards to maintain a unified customer experience across channels.
+7. Use business rules for layout switching, enabling/disabling layers/pages, and other things carefully.&#x20;
 8. Always create a new version before making changes.\
    Name versions clearly along with the user's name. For example:
 
