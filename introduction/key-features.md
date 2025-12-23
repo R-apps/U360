@@ -24,12 +24,12 @@ Common elements include Text blocks, Images, Tables, Buttons, Containers, and se
 
 #### **Dynamic Content Support**
 
-The designer allows you to pull in data fields from backend systems.  Insert placeholders for customer data such as name, ID, account number, and transaction details, exactly where you want in the template. \
+The designer allows you to pull in data fields from backend systems.  Insert placeholders for customer data such as name, ID, account number, and transaction details exactly where you want in the template. \
 The fields are replaced automatically when the communication is generated.
 
 #### **AI Text Assist**
 
-The designer includes a built-in AI feature that helps you refine and improve any text used in your template. If you are unsure about your wording, the AI analyzes the context, tone, and language, and then suggests clearer and more suitable alternatives. This feature is designed for users who want to insert accurate, well-written text without manually rewriting every line.
+The designer includes a built-in AI feature that helps you refine and improve any text used in your template. If you are unsure about your wording, the AI analyzes the context, tone, and language and then suggests clearer and more suitable alternatives. This feature is designed for users who want to insert accurate, well-written text without manually rewriting every line.
 
 #### Dynamic Variable Detection with AI
 
@@ -51,7 +51,7 @@ You can apply brand colors, fonts, headers, and footers. This ensures every comm
 
 #### **Flexible Layering**&#x20;
 
-Layering allows multiple layouts to exist within a single template. We can chooses the right layer(s) based on input flags or business rules.\
+Layering allows multiple layouts to exist within a single template. We can choose the right layer(s) based on input flags or business rules.\
 This reduces effort, keeps templates clean, and ensures that documents stay consistent across channels.
 
 #### **Role-Based Access**
@@ -153,12 +153,12 @@ Clickable hyperlinks, personalized images, and dynamic elements can be added to 
 #### Lead Capture and Campaign Tracking
 
 Emails or PDFs with embedded campaigns can capture customer clicks.\
-UniServe360 records and indexes these interactions and triggers follow-up messages helping convert interest into leads.
+UniServe360 records and indexes these interactions and triggers follow-up messages, helping convert interest into leads.
 
 #### **Customer Profiling for Targeted Messaging**
 
-Based on customer demographics and behaviour, UniServe360 selects relevant marketing content.\
-For example, age + gender + plan type + available white space = targeted image/message is displayed.\
+Based on customer demographics and behavior, UniServe360 selects relevant marketing content.\
+For example, age + gender + plan type + available white space = a targeted image/message is displayed.\
 This improves campaign effectiveness and lead quality.
 
 #### **Single View for CSR Agents**

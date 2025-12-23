@@ -30,11 +30,11 @@ After a successful login, the platform lands you on the Template Designer, where
 
 Alternatively, you can use your Google account to log in.
 
-In the case, the Admin creates a user account, the credentials will be shared to the user.
+In the case where the Admin creates a user account, the credentials will be shared with the user.
 
 ### <mark style="color:orange;">Queries</mark>
 
-* <mark style="color:orange;">Anyone can sign up and use. Is there any trial period or any features/functionalities enablement only for subscribed users?</mark>
-* <mark style="color:orange;">Currently, Google sign in is not working. Will this sign in option be there in the future?</mark>
+* <mark style="color:orange;">Anyone can sign up and use it. Is there any trial period or any features/functionalities enablement only for subscribed users?</mark>
+* <mark style="color:orange;">Currently, Google sign-in is not working. Will this sign-in option be there in the future?</mark>
 * <mark style="color:orange;">After registering, do we get any welcome email as such?</mark>
 

@@ -56,9 +56,9 @@ Use interactive drawing objects to design actionable and user-responsive templat
 
 Interactive drawing objects are best suited for digital-first communications such as onboarding forms, service requests, and consent documents. They are commonly used in banking, insurance, and enterprise communications where customer confirmation, choices, or inputs are required—such as consent forms, service requests, onboarding documents, and applications.
 
+<table><thead><tr><th width="171" valign="top">Interactive Object </th><th valign="top">When to Use</th><th valign="top">Example</th></tr></thead><tbody><tr><td valign="top">Button</td><td valign="top">Use when you want the user to perform an action</td><td valign="top">A <strong>“Submit"</strong> button in a pre-verification insurance form</td></tr><tr><td valign="top">Checkbox</td><td valign="top">Use when users can choose more than one option</td><td valign="top">Accepting terms and conditions and Opting in for notifications</td></tr><tr><td valign="top">Dropdown</td><td valign="top">Use when space is limited and the user must select one option from many</td><td valign="top">To select Account Type:<br>Savings | Current | Credit Card | Loan</td></tr><tr><td valign="top">Element</td><td valign="top">Use elements to logically group objects or control layout structure</td><td valign="top">Grouping all KYC-related fields under one section</td></tr><tr><td valign="top">Input Field</td><td valign="top">Use when users has to provide information</td><td valign="top">Input fields to enter an insuree's details, such as Name, PAN, Aadhaar, etc.</td></tr><tr><td valign="top">Radio Button</td><td valign="top">Use radio buttons when choices are mutually exclusive</td><td valign="top">A bank sends an interactive credit card statement and asks to confirm how they prefer to receive future statements.<br>○ Email only<br>○ Physical copy by post<br>○ Both email and physical copy</td></tr></tbody></table>
 
-
-> **Recommended Usage Guidelines**
+> **Recommendations**:
 >
 > * Use **dropdowns** for controlled choices
 > * Use **checkboxes** for acknowledgements
