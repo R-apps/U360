@@ -21,16 +21,16 @@ All the objects are available in the left pane.&#x20;
 
 To insert an object, simply click it. When you do, the platform opens up its basic display properties in the **Object** tab on the header menu, as you see here.&#x20;
 
-<mark style="color:green;">**<\<IMAGE - Shape's basic properties>>**</mark>
+<mark style="color:green;">**<\<IMAGE - Shape's basic properties under the menu>>**</mark>
 
 After you place the object on the designer, use these properties to quickly adjust its look and feel.
+
+To rename and access its properties, double-click the object on the canvas or in the Layers tab&#x20;
 
 To view additional properties of an object, click the **Properties** tab in the right pane. \
 The **Property Editor** displays the respective object properties. Set the object's properties as per your requirement.
 
 <mark style="color:$success;">**<\<Click to view object properties>>**</mark>
-
-These are the objects available:
 
 ### Drawing Objects
 
@@ -42,7 +42,7 @@ Click <mark style="color:$success;">**\<icon>**</mark> to view all the shapes av
 
 <mark style="color:$success;">**<\<All shapes>>**</mark>
 
-To use a shape, select it and draw to use it in the template at the required position.
+To use a shape, select it and draw it in the template at the required position.
 
 </details>
 
@@ -66,45 +66,21 @@ Interactive drawing objects are best suited for digital-first communications suc
 
 </details>
 
-<details>
-
-<summary>Line</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Arrow</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Rectangle</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Ellipse</summary>
-
-
-
-</details>
-
 ### Images
 
 <details>
 
 <summary>Image</summary>
 
+The **Image** object (<mark style="color:green;">**\<icon>**</mark>) is used to add visual elements such as logos, icons, banners, or QR codes to a communication template.&#x20;
 
+It is commonly used for headers with brand logos, QR codes for payments, or icons for key information.
+
+To upload the image, double-click the object on the canvas. For a static image, use the "Browse" option, and for a dynamic image, select the data object from the listed input data.
+
+To insert a hyperlink to the object, either use a static URL or link to a dynamic data object.
+
+<mark style="color:green;">**<\<IMAGE - PROPERTIES>>**</mark>
 
 </details>
 
@@ -112,27 +88,43 @@ Interactive drawing objects are best suited for digital-first communications suc
 
 <details>
 
-<summary>Text</summary>
+<summary><strong>Text</strong></summary>
 
+Use the **Rich Text** object to display formatted text and embed dynamic data within a paragraph without affecting the surrounding content. It supports mixed content such as static text, variables, and basic formatting in a single block.
 
-
-</details>
-
-### Tables
-
-<details>
-
-<summary>Table</summary>
-
-
+It is useful when you need to insert dynamic values like customer name, account number, or balance within sentences, such as in personalized banking statements or letters, while keeping the text structure intact.
 
 </details>
 
+### Table
+
 <details>
 
-<summary>Complex Object</summary>
+<summary><strong>Table</strong></summary>
 
+A **Table** object is used to display structured, row-and-column data in a clear and organized format. It is ideal for presenting grouped information.&#x20;
 
+Use it when the data has a consistent structure.&#x20;
+
+Use **the Data Association** property to map it with the complex object to insert the required data in the table.&#x20;
+
+**Example:** Loan repayment schedules, Premium breakdowns in insurance documents, etc.
+
+</details>
+
+### Complex Object
+
+<details>
+
+<summary><strong>Complex Object</strong></summary>
+
+A **Complex object** represents a group of related data objects that repeat together as a unit. It is used when multiple fields must be rendered collectively based on input data.
+
+Use complex objects when displaying repeating data blocks that contain multiple attributes.
+
+**Example:** Monthly transaction blocks in credit card statements, EMI schedules grouped by account, and such others.
+
+**Defining a complex object**: Select the object
 
 </details>
 
