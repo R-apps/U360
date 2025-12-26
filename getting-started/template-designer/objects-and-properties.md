@@ -124,7 +124,13 @@ Use complex objects when displaying repeating data blocks that contain multiple 
 
 **Example:** Monthly transaction blocks in credit card statements, EMI schedules grouped by account, and such others.
 
-**Defining a complex object**: Select the object
+**Defining a complex object**: Select the object and choose the relevant XML tag (identifier) that represents the table. Map the header, body (data), and footer tags, and define the required rows and columns to align with the input data.
+
+You can view all created complex objects under **Data Mapper > RAW > Input > Complex**.
+
+Each new complex object is created with an incremental index.
+
+To rename a complex object, click <mark style="color:green;">**\<icon>**</mark> and enter a meaningful name for easy identification. For more information, [click here](../template-management/creating-a-template/working-with-complex-objects.md)
 
 </details>
 
@@ -132,17 +138,45 @@ Use complex objects when displaying repeating data blocks that contain multiple 
 
 <details>
 
-<summary>Charts</summary>
+<summary><strong>Charts</strong></summary>
 
+A **Chart** object visually represents numeric data to help users quickly understand trends, comparisons, or distributions.
 
+Use charts when visual insight is more effective than tabular data.
+
+**Example:** Spending category breakdowns, Month-wise balance trends, and others.
+
+To use the chart object,&#x20;
+
+* Point your cursor at the desired position in the template and click <mark style="color:green;">**\<icon>**</mark> in the left pane.&#x20;
+* Select the chart type (Line chart, Bar chart, Pie chart, Donut, Dual chart) and select the chart sub type, if applicable. As you select, it gives an instant preview.\
+  <mark style="color:green;">**<\<IMAGE>>**</mark>
+* Next, map the simple/complex data object to define from where it should pull the data. \
+  To map,&#x20;
+  * click **Data Association**. Click '+' under actions and give it a name.
+  * Next, under the legend, click <mark style="color:green;">**\<icon>**</mark> and select the source object and element.
+  * Select the legend color and make "Show Points" to 'True', to make it visible.
+* Then, select the output chart type and set each property (legends, Title, X-axis/Y-axis labels) to define how it should appear in the template.
+
+<mark style="color:green;">**<\<IMAGE>>**</mark>
 
 </details>
 
 <details>
 
-<summary>Barcodes</summary>
+<summary><strong>Barcodes</strong></summary>
 
+The **Barcode** object is used to add scannable codes to a template for identification, tracking, or payment processing.
 
+Use barcodes when documents need to be scanned or tracked.
+
+**Example:** Document tracking IDs, Branch or account identifiers, and more.
+
+**Using a Barcode**: To add a bar code,&#x20;
+
+* Click <mark style="color:green;">**\<icon>**</mark> in the left pane, an object appears on the canvas.
+* Double-click it to configure. The settings here allow precise control over how the barcode appears and behaves in the final output.\
+  **General** - Select the barcode type from the available list of categories.
 
 </details>
 
