@@ -23,18 +23,18 @@ Each element serves a specific purpose and helps you structure complex, high-vol
 
 Let's look at each element.
 
-#### **1. Document**&#x20;
+#### **Document**&#x20;
 
 The **Document** is the topmost container of your template. It defines the overall output structure, such as a complete statement, policy document, notice, bill, or letter.\
 Always - every template starts with a document.
 
 **When to use?**
 
-Use it to define the highest-level structure of any customer communication.&#x20;
+Every template you create serves as a document.&#x20;
 
 **Example**: Monthly bank statement, credit card welcome kit, insurance policy schedule, and other.
 
-#### **2. Group**
+#### **Group**
 
 A **Group** is a logical section within the Document, using which you can organize the document into manageable sections. \
 It helps divide the content into meaningful segments based on business logic or data requirements. Each Group can contain one or more Pages.
@@ -46,12 +46,51 @@ Use Groups when your template has:
 * Multiple sections
 * Conditional blocks
 
+**Example**: Think of an **Insurance Policy Document** where you have to include primary policy information, Terms & Conditions and Surrender rules, benefit illustration, etc. As each of these flow across the pages, you can consider grouping these pages for easy access and identification.
 
+#### Page
 
-1. **Page** - is divided into **Layers**. You can add as many Layers as needed to manage layout and control visibility.
-2. **Layer** - helps you handle different parts of the template independently with full control, so you can organize the template effectively.
-3. **Objects -** such as text, images, tables, lines, shapes, barcodes, and mapped data fields—are placed on Layers. These are the actual elements that appear in the final output. \
-   To understand the objects available in UniServe 360, [click here](template-designer/objects-and-properties.md)
+A **Page** represents a physical or digital page in the output document.
+
+Pages allow you to add as many Layers as needed to manage layout and control page visibility.
+
+"Page 1" is available by default. Add as many pages as needed for your communication template.
+
+**Example:** In an Insurance Renewal Notice, you can use pages like this:
+
+* Page 1: Renewal Summary
+* Page 2: Premium Breakup
+* Conditional Page: “No Claim Bonus” details (use conditions to show only if applicable)
+
+#### Layer
+
+A **Layer** sits inside a Page. Layers work like transparent sheets stacked on top of each other.
+
+Layers helps you handle different parts of the template independently with full control using business conditions, so you can organize the template effectively.
+
+**Example**: In a Bank Statement, you can organize communication like this:
+
+* Layer 1: Header with logo and branch details
+* Layer 2: Customer Summary
+* Layer 3: Advertisements or Offers (visible only for select segments)
+* Layer 4: Regulatory Disclosures (only for accounts with foreign remittances)
+
+#### Objects
+
+**Objects** are the individual content elements placed on Layers. They are the actual items that customers see in the final document.&#x20;
+
+These include text, images, barcodes, shapes, tables, signatures, and dynamic fields mapped to input data. To understand the objects available in UniServe 360, [click here](template-designer/objects-and-properties.md).&#x20;
+
+Objects can be shown or hidden based on rules - the most granular level of visibility.
+
+**Example**:&#x20;
+
+* **Text Objects** – Customer Name, Account Number, Policy Number
+* **Image Object** – Bank Logo, Branch Stamp, Customer Photo
+* **Dynamic Data Fields** – Balance, EMI Amount, Premium Due
+* **Tables** – Transaction list, EMI schedule, Claim history
+* **Barcodes / QR Codes** – Policy reference, payment link
+* **Shapes/Lines** – Section dividers in statements
 
 These form the basic structure of every design. This structure makes it easier to manage layout and control what appears in the output.&#x20;
 
@@ -59,10 +98,10 @@ This is how a template hierarchy look:
 
 <mark style="color:$success;">**<\<IMAGE - TEMPLATE HEIRACRCHY>>**</mark>
 
-Visibility can be controlled at both the Layer and Object level. These controls may be fixed or driven by business rules.
+> Visibility can be controlled at both the Layer and Object level. These controls may be fixed or driven by business rules.
 
 {% hint style="info" %}
 The **Input Data**, **Properties**, and **Layers** tabs appear by default, in the right pane.&#x20;
 
-The **Layers** tab is always available. If any other tab do not show up by default, you can turn it on by navigating to **View** menu by enabling the required option.
+The **Layers** tab is always available. If any other tab do not show up by default, you can turn it on by navigating to **View** menu and enabling the required option.
 {% endhint %}

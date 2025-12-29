@@ -17,6 +17,8 @@ layout:
 
 # Configuring Input
 
+Input configuration is required
+
 Configure these settings for batch processes.
 
 To define input, access the **Input** tab in the **Template Settings** wizard.

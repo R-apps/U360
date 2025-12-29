@@ -275,7 +275,7 @@ To define, select the default (Level1) and select its value in the Properties.\
 
 </details>
 
-Enable "**Content Authoring**" only when you want to let your users change the content at text /image level without working with the template directly.  --> <mark style="color:orange;">Karu</mark>
+Enable "**Content Authoring**" only when you want to let your users change the content at text /image level without working with the template directly.  --> <mark style="color:orange;">Check with</mark> <mark style="color:orange;">Karu</mark>
 
 If enabled, specify the design workflow and select the server for batch processing.&#x20;
 

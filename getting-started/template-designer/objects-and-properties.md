@@ -182,8 +182,21 @@ Use barcodes when documents need to be scanned or tracked.
 
 <details>
 
-<summary>Frame</summary>
+<summary><strong>Frame</strong></summary>
 
+A **Frame** object is used to group and hold multiple objects together within a defined boundary. It helps organize the layout and maintain alignment of related elements.
 
+Frames are useful when you want to move, resize, or control a set of objects as a single unit. Use a frame when multiple elements must stay together and follow the same layout rules.
+
+**Example**: Grouping account summary fields in bank statements, holding customer address blocks, etc.
+
+**Using a Frame**: Select the object in the left pane and draw it in the required position on the canvas. Every time you add a frame, it is referred as Frame1, Frame2, and so on. Double-click it to give it a meaningful name and define its presence within the template and while processing.&#x20;
+
+<mark style="color:green;">**<\<IMAGE>>**</mark>
+
+Map it to a global template by specifying the template, group, page, and layer.\
+<mark style="color:green;">**<\<IMAGE  - Global template mapping>>**</mark>\
+\
+To set its position and appearance, access its properties in the property editor.
 
 </details>
