@@ -26,7 +26,6 @@
     * [Conditions List](getting-started/template-management/conditions-and-actions/conditions-list.md)
     * [Actions List](getting-started/template-management/conditions-and-actions/actions-list.md)
   * [Testing a Template](getting-started/template-management/testing-a-template.md)
-  * [Downloading a Template](getting-started/template-management/downloading-a-template.md)
   * [Exporting a Template](getting-started/template-management/exporting-a-template.md)
   * [Sharing a Template](getting-started/template-management/sharing-a-template.md)
   * [Accessing Existing Templates](getting-started/template-management/accessing-existing-templates.md)

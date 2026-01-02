@@ -73,7 +73,7 @@ For additional pages, in the right pane, expand the **Pages** section and click 
 
 Now, let's explore designing a template that contains a Header, Footer, and Body.&#x20;
 
-1. First, create a basic template structure (E.g., Header, Footer, etc.,) using the drawing objects. \
+1. First, create a basic template structure (E.g., Header, Body, etc.,) using the drawing objects. \
    Add logo, name, copyrights, contact information, and other branding elements in these sections. \
    To add these elements, use the drawing objects, image, and more. \
    You can even use individual layers for Header and Footer for more control.\
@@ -85,23 +85,18 @@ Now, let's explore designing a template that contains a Header, Footer, and Body
 
 {% hint style="info" %}
 * To know more about objects and their properties, [click here](../../template-designer/objects-and-properties.md)
-* If you want to insert a dynamic variable inside a paragraph without replacing or disturbing the surrounding text, use a **Rich Text** object and press **Ctrl + Insert** on your keyboard to map and place the variable.
+* If you want to insert a dynamic variable inside a paragraph without replacing or disturbing the surrounding text, use the **Rich Text** object and press **Ctrl + Insert** on your keyboard to map and place the variable.
 {% endhint %}
 
-&#x20;       Likewise, complete all the data to be inserted in the "Body" section. If the template includes more\
-&#x20;       than one page, design the Body (main content) section in all the pages.
+Likewise, complete all the data to be inserted in the "Body" section. If the template includes more\
+than one page, design the Body (main content) section in rest of the pages too.
+
+Similarly, map the footer section.&#x20;
+
+> Mapping any  to input data is not mandatory. You can skip this step if the footer is static or if the template does not include a footer section.
 
 This completes the template designing process.
 
-### Step 5:&#x20;
+Once the template is ready, add business rules. For more information, [click here](../conditions-and-actions/).
 
-Once the template is ready, add business rules. To know how to add, [click here](../conditions-and-actions/).
-
-### Step 8: Testing the Template
-
-### Step 7: Version Check in
-
-### Step 8: Processing
-
-
-
+The next steps before you send communication to your users include, [testing](../testing-a-template.md), [version check-in](../../version-control.md), and processing the template.

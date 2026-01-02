@@ -36,5 +36,9 @@ To test a template,
 * Upload the test data source file (XML, JSON, DB, or Text file)
 * Expand **More Settings** to select index and output format
 
-Click **Process** to run the template with the uploaded data. After&#x20;
+Click **Process** to run the template with the uploaded data. Post processing, the processed template is downloaded in PDF to your default local storage.
+
+{% hint style="info" %}
+When uploading sample data, ensure it covers all relevant conditions and business rules. This helps verify that the template processes data accurately and behaves as expected across different scenarios.
+{% endhint %}
 
