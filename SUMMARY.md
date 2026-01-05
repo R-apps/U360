@@ -4,7 +4,7 @@
 
 * [UniServe 360 Overview](README.md)
 * [Key Features](introduction/key-features.md)
-* [User Registration](introduction/user-registration.md)
+* [Logging in to UniServe 360](introduction/logging-in-to-uniserve-360.md)
 * [Know How UniServe 360 Works](introduction/know-how-uniserve-360-works.md)
 
 ## GETTING STARTED

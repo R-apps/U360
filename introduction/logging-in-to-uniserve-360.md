@@ -15,16 +15,16 @@ layout:
     visible: false
 ---
 
-# User Registration
+# Logging in to UniServe 360
 
 New to UniServe 360? Get started by creating an account.
 
 Register to create an account. Before creating your account, make sure you have a valid email ID. \
 Enter your email and password to register.&#x20;
 
-<mark style="color:$success;"><< IMAGE >></mark>
+<mark style="color:$success;">**<< IMAGE >>**</mark>
 
-Now, access the URL-[http://172.16.0.55:8888/uniserveapp](http://172.16.0.55:8888/uniserveapp) to log into UniServe 360.
+Now, access the URL - [http://172.16.0.55:8888/uniserveapp](http://172.16.0.55:8888/uniserveapp) to log into UniServe 360.
 
 After a successful login, the platform lands you on the Template Designer, where you can create and manage templates quickly and effectively.
 

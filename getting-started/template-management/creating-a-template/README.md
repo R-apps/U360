@@ -99,4 +99,4 @@ This completes the template designing process.
 
 Once the template is ready, add business rules. For more information, [click here](../conditions-and-actions/).
 
-The next steps before you send communication to your users include, [testing](../testing-a-template.md), [version check-in](../../version-control.md), and processing the template.
+The next steps include, [testing](../testing-a-template.md), [version check-in](../../version-control.md), and processing the template.

@@ -46,15 +46,14 @@ Use Groups when your template has:
 * Multiple sections
 * Conditional blocks
 
-**Example**: Think of an **Insurance Policy Document** where you have to include primary policy information, Terms & Conditions and Surrender rules, benefit illustration, etc. As each of these flow across the pages, you can consider grouping these pages for easy access and identification.
+**Example**: Think of an **Insurance Policy Document** where you have to include primary policy information, Terms & Conditions and Surrender rules, benefit illustration, etc. As these information flow across the pages, you can consider grouping these pages for easy access and identification.
 
 #### Page
 
-A **Page** represents a physical or digital page in the output document.
+A **Page** represents a physical or digital page in the output document.&#x20;
 
-Pages allow you to add as many Layers as needed to manage layout and control page visibility.
-
-"Page 1" is available by default. Add as many pages as needed for your communication template.
+Pages allow you to add as many Layers as needed to manage layout and control page visibility. \
+"Page 1" is available by default.
 
 **Example:** In an Insurance Renewal Notice, you can use pages like this:
 

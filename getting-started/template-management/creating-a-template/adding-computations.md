@@ -64,7 +64,7 @@ This is often used to merge the tables by adding row(s). Let's see how to create
 Make sure to define the complex objects with the table data. Then only you can create a complex object.
 
 * Access the **Data Mapper** tab in the right pane and navigate to **COMPUTED**. Then, click 'S' to create a simple object.&#x20;
-* Give it a name, select the Type, and select the number of columns. <mark style="color:orange;">Accordingly, the system pulls the tables available with the given number of columns.</mark> Then, click **Ok**.
+* Give it a name, select the Type, and select the number of columns. Accordingly, the system pulls the tables that match the defined column count. Then, click **Ok**.
 *   In the **Computed Complex Object Settings,**
 
     * Click **Add Row** and select the complex object to be merged.
