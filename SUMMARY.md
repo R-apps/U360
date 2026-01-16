@@ -35,15 +35,3 @@
   * [Batch Configurations](getting-started/output-generation/batch-configurations.md)
 * [Distribution Process](getting-started/distribution-process.md)
 * [Importing a Document](getting-started/importing-a-document.md)
-
-## ADMINISTRATION
-
-* [Admin Controls](administration/admin-controls.md)
-* [User Management](administration/user-management/README.md)
-  * [Creating a User](administration/user-management/creating-a-user.md)
-  * [Mapping Roles & Permissions](administration/user-management/mapping-roles-and-permissions.md)
-  * [Manage Users](administration/user-management/manage-users.md)
-
-***
-
-* [Queries](queries.md)
