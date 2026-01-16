@@ -31,6 +31,7 @@
   * [Accessing Existing Templates](getting-started/template-management/accessing-existing-templates.md)
 * [Version Control](getting-started/version-control.md)
 * [Output Generation](getting-started/output-generation/README.md)
+  * [On-Demand Document Generation](getting-started/output-generation/on-demand-document-generation.md)
   * [Batch Configurations](getting-started/output-generation/batch-configurations.md)
 * [Distribution Process](getting-started/distribution-process.md)
 * [Importing a Document](getting-started/importing-a-document.md)

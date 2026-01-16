@@ -123,13 +123,18 @@ These statements encourage real-time engagement.
 Customers or CSRs can request statements anytime through self-service portals or CRM. UniServe360 pulls indexed data instantly, maps it to the template, and generates the document on the fly.\
 This reduces storage costs and speeds up response time.
 
+#### Batch Processing
+
+UniServe 360 allows you to generate a large number of documents in a single run using one template and multiple records of input data. Instead of processing documents one by one, the system processes all records together as a batch.
+
 #### Multilingual Output
 
 The platform supports Unicode, allowing statements in any language. Output can be fully translated or delivered in dual-language formats based on customer preference.
 
-#### <mark style="color:yellow;">**Dynamic White Space Marketing**</mark>
+#### **Dynamic White Space Marketing**
 
-<mark style="color:yellow;">Unused space on statements can display targeted marketing messages.</mark>\ <mark style="color:yellow;">Using rules and customer demographics (age, gender, location), UniServe360 selects suitable images or messages from the marketing repository.</mark>
+Unused space on statements can display targeted marketing messages.\
+<mark style="color:orange;">Using rules and customer demographics (age, gender, location), UniServe360 selects suitable images or messages from the marketing repository.</mark>
 
 #### Flexible Data Presentment
 
@@ -142,15 +147,16 @@ Templates can show:
 
 All configurations are managed through UniServe360 layering feature.
 
-#### <mark style="color:yellow;">Seamless System Integration</mark>
+#### Seamless System Integration
 
-<mark style="color:yellow;">During processing, UniServe360 indexes metadata so other systems can reuse it.</mark>\ <mark style="color:yellow;">It integrates with SMS gateways (SMSC), email systems (SMTP), CRM tools, and payment gateways.</mark>
+During processing, UniServe360 indexes metadata so other systems can reuse it.\
+<mark style="color:orange;">It integrates with SMS gateways (SMSC), email systems (SMTP), CRM tools, and payment gateways.</mark>
 
 #### **Interactive Hyperlinks and Personalization**
 
 Clickable hyperlinks, personalized images, and dynamic elements can be added to make statements more engaging and action-oriented.
 
-#### Lead Capture and Campaign Tracking
+#### **Lead Capture and Campaign Tracking**
 
 Emails or PDFs with embedded campaigns can capture customer clicks.\
 UniServe360 records and indexes these interactions and triggers follow-up messages, helping convert interest into leads.

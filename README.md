@@ -85,9 +85,3 @@ Let's look at few use cases how UniServe 360 helps different business verticals.
 Working with UniServe 360 Designer is simple.&#x20;
 
 Log in through your browser, create a template, and use the drag-and-drop editor to add content and structure. Changes are saved centrally so all users access the latest version.
-
-> ### Best Practices
->
-> * Keep layouts simple and readable.
-> * Test templates with multiple datasets before publishing.
-> * Use version comments to track the purpose of changes.
