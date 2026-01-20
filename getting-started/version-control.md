@@ -28,7 +28,7 @@ With Version Control, you can:
 * Continue work without server connectivity
 * Review earlier versions and restore them when required
 
-> **Note:** Any checked-in version can be marked as the active version for processing.
+> **Note:** You can make one or more versions active at a time.
 
 #### Adding a Template to Version Control
 

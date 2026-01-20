@@ -22,16 +22,23 @@ layout:
 Create layouts by simply dragging and placing elements on the canvas.\
 Common elements include Text blocks, Images, Tables, Buttons, Containers, and sections.
 
+#### **Local and Global Templates**
+
+UniServe 360 supports Local and Global templates to help enterprises manage templates efficiently while maintaining consistency across communications.
+
+**Global templates** hold common layouts, branding, and approved content that are reused across teams and use cases. Once created, global templates can be referenced by multiple local templates.
+
+**Local templates** build on global templates and are specific to a business function, product, or use case; allowing controlled customization wherever needed.
+
 #### **Dynamic Content Support**
 
-The designer allows you to pull in data fields from backend systems.  Insert placeholders for customer data such as name, ID, account number, and transaction details exactly where you want in the template. \
-The fields are replaced automatically when the communication is generated.
+Instead of maintaining multiple static templates, UniServe 360 supports **dynamic inserts** to vary text, values, or sections at runtime based on data and rules. During document generation, the system evaluates input data and business logic, then inserts the appropriate content in real time.
 
 #### **AI Text Assist**
 
 The designer includes a built-in AI feature that helps you refine and improve any text used in your template. If you are unsure about your wording, the AI analyzes the context, tone, and language and then suggests clearer and more suitable alternatives. This feature is designed for users who want to insert accurate, well-written text without manually rewriting every line.
 
-#### Import Template Design with AI-Assisted Variable Detection
+#### **Import Template Design with AI-Assisted Variable Detection**
 
 UniServe 360 supports importing an existing document design as a base template. The built-in AI feature scans the imported content and intelligently identifies dynamic fields such as names, dates, amounts, or account numbers that are likely to change per customer. These detected variables are highlighted and suggested for mapping, reducing the manual effort.
 
@@ -42,14 +49,9 @@ This capability helps teams onboard templates faster and accelerates the transit
 Create components like headers, footers, banners, disclaimers, or format styles once and reuse them across templates.\
 This reduces design time and keeps all templates consistent.
 
-#### **Version Control**
-
-The designer stores every version of your template.\
-You can track updates, restore an older version, or see who made a change and when.
-
 #### **Brand-Style Controls**
 
-You can apply brand colors, fonts, headers, and footers. This ensures every communication looks consistent.&#x20;
+Apply brand colors, fonts, headers, and footers to ensure every communication looks consistent.&#x20;
 
 #### **Flexible Layering**&#x20;
 
@@ -59,6 +61,12 @@ This reduces effort, keeps templates clean, and ensures that documents stay cons
 #### **Role-Based Access**
 
 Administrators can control who can view, edit, review, or publish templates.
+
+#### **Version Control**
+
+Create and manage multiple versions of a template while preserving a complete history of changes. Each time a template is updated and checked in, a new version is created and stored. You can track updates, restore earlier versions, or see who made a change and when.
+
+Unlike systems that allow only one active version, UniServe 360 supports multiple versions of the same template to run simultaneously. This helps regulated industries such as banking and insurance, where documents must reflect the exact terms, disclosures, and branding that were valid at the time of issuance.
 
 #### **Preview Before Publishing**
 
@@ -86,7 +94,7 @@ Enterprises often have several business units (for example, savings accounts, cu
 
 #### Robust Data Management Engine
 
-UniServe360 accepts inputs from various systems in formats like JSON, XML, database, and text files.\
+UniServe360 accepts inputs from various systems in formats like JSON, XML, database, delimiter files, and APIs.\
 Its data management module handles:
 
 * Data transformation (converting from one form to another)
@@ -108,22 +116,21 @@ UniServe360 supports statement delivery through:
 * SMS notifications
 * Mobile apps
 * Interactive HTML5 statements
+* <mark style="color:orange;">Shortlink messages</mark>
 
-#### Real-time Engagement
+#### **Interactive Statements**
 
-HTML5-based interactive statements can:
+To encourage real-time engagement, UniServe 360 supports **HTML5-based interactive statements** that transform traditional documents into rich, engaging digital experiences.&#x20;
 
-* Play videos
-* Enable online payments
-* Allow ticket submission
-* Support click-based upsell and cross-sell actions
+This allows high level of personalization allowing you to embed interactive elements such as videos, links, charts, and call-to-action buttons. Content can change in real time using business rules, ensuring each customer sees information that is relevant to them.
 
-These statements encourage real-time engagement.
+They are responsive, device-friendly, and well suited for web and mobile delivery.
 
-#### **On-Demand Document Generation**
+#### **Real-time Document Generation**
 
-Customers or CSRs can request statements anytime through self-service portals or CRM. UniServe360 pulls indexed data instantly, maps it to the template, and generates the document on the fly.\
-This reduces storage costs and speeds up response time.
+UniServe 360 enables real-time document generation, eliminating the need to store large volumes of static PDFs. The system generate communications on demand using the template version and metadata that were valid at the time.
+
+When a customer request pops up, UniServe360 pulls data instantly, maps it to the template, and generates the document on the fly. This approach reduces storage costs while still allowing users to access historical documents instantly and accurately whenever needed.
 
 #### Batch Processing
 
