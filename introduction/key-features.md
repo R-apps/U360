@@ -31,9 +31,11 @@ The fields are replaced automatically when the communication is generated.
 
 The designer includes a built-in AI feature that helps you refine and improve any text used in your template. If you are unsure about your wording, the AI analyzes the context, tone, and language and then suggests clearer and more suitable alternatives. This feature is designed for users who want to insert accurate, well-written text without manually rewriting every line.
 
-#### Dynamic Variable Detection with AI
+#### Import Template Design with AI-Assisted Variable Detection
 
-UniServe 360 includes an AI-driven capability that automatically identifies dynamic variables in an imported document. This reduces manual effort by detecting and highlighting fields that need to be mapped, helping you prepare the template faster and with fewer errors.
+UniServe 360 supports importing an existing document design as a base template. The built-in AI feature scans the imported content and intelligently identifies dynamic fields such as names, dates, amounts, or account numbers that are likely to change per customer. These detected variables are highlighted and suggested for mapping, reducing the manual effort.
+
+This capability helps teams onboard templates faster and accelerates the transition from static documents to fully dynamic, data-driven communications.
 
 #### **Reusable Components**
 
