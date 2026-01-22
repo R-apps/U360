@@ -48,13 +48,13 @@ Keep the "Input Data" tab enabled in the right pane for easy access.
 In the **Input Data** tab, browse and upload the input file (XML/JSON/DB/Text File) based on the data source type selected in the template settings. Once added, the data gets displayed and these \
 (Text File-elements / JSON -keys / XML - tags) are referred to as "Data Objects."
 
-<mark style="color:$success;">**<\<IMAGE>>**</mark>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Input Data &#x26; Data Objects.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Step 4: Design the Template
 
 In the **Layers** tab, a default structure is available - a Group (Group1) with a Page (Page1) and a Layer (Layer1) within it.&#x20;
 
-<mark style="color:$success;">**<\<IMAGE>>**</mark>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Default Template Structure.png" alt="" width="224"><figcaption></figcaption></figure></div>
 
 For single page templates, you can straightaway proceed with designing the template. The template you design will automatically sit in the Page 1 in the Group 1. \
 You can add as many layers as required.&#x20;
@@ -63,12 +63,11 @@ But if the template includes two or more pages, maintain a separate page for eac
 
 For additional pages, in the right pane, expand the **Pages** section and click '+'.
 
-<mark style="color:$success;">**<\<IMAGE>>**</mark>
-
 {% hint style="info" %}
 * While structuring the template, place different sections in separate layers for better clarity. This helps you control visibility when generating output.
-* You can rename the layers and pages for easy recognition. To rename a page, click <mark style="color:$success;">\<Edit></mark> icon. Rename it and make sure it is set to 'True' to keep it active.\
-  <mark style="color:$success;">**<\<IMAGE>>**</mark>
+*   You can rename the layers and pages for easy recognition. To rename a page, click ![](<../../../.gitbook/assets/Edit Page Name.png>) icon. Rename it and make sure it is set to 'True' to keep it active.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rename Page.png" alt="" width="372"><figcaption></figcaption></figure></div>
 {% endhint %}
 
 Now, let's explore designing a template that contains a Header, Footer, and Body.&#x20;
@@ -93,7 +92,7 @@ than one page, design the Body (main content) section in rest of the pages too.
 
 Similarly, map the footer section.&#x20;
 
-> Mapping any  to input data is not mandatory. You can skip this step if the footer is static or if the template does not include a footer section.
+> Mapping the footer to input data is not mandatory. You can skip this step if the footer is static or if the template does not include a footer section. The same applies to any other static sections in the document.
 
 This completes the template designing process.
 

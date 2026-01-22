@@ -93,9 +93,9 @@ Objects can be shown or hidden based on rules - the most granular level of visib
 
 These form the basic structure of every design. This structure makes it easier to manage layout and control what appears in the output.&#x20;
 
-This is how a template hierarchy look:
+This is how a template hierarchy look in UniServe360:
 
-<mark style="color:$success;">**<\<IMAGE - TEMPLATE HEIRACRCHY>>**</mark>
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Template Hierarchy.png" alt=""><figcaption></figcaption></figure></div>
 
 > Visibility can be controlled at both the Layer and Object level. These controls may be fixed or driven by business rules.
 
