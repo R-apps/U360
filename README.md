@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
-
 # UniServe 360 Overview
 
 UniServe Web Designer is a modern cloud-native platform which helps you design regulatory communication templates and layouts without any IT dependency. It is fast, accessible, and ideal for businesses that need to update communication templates quickly and consistently. All the processing happens behind the scenes (on the server) while the browser gives you an easy-to-use WYSIWYG interface.

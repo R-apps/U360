@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
-
 # On-Demand Document Generation
 
 UniServe 360 allows users to generate documents instantly for a single customer or transaction, exactly when it is needed. It helps generate documents in real time using the same approved templates and rules.

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
-
 # Creating a Template
 
 Make sure your have the requirements list handy and follow these steps to create a new template:
@@ -98,4 +81,4 @@ This completes the template designing process.
 
 Once the template is ready, add business rules. For more information, [click here](../conditions-and-actions/).
 
-The next steps include, [testing](../testing-a-template.md), [version check-in](../../version-control.md), and processing the template.
+The next steps include, [testing](../testing-a-template.md), [version check-in](../version-control.md), and processing the template.

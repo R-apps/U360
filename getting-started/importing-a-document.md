@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
-
 # Importing a Document
 
 The **Import Document** feature lets you bring an existing document (in PDF) into UniServe 360 and use it as the base design for your template. The platform converts the imported file into an editable layout, allowing you to overlay objects, map data fields, and rebuild the template quickly without designing everything from scratch. It

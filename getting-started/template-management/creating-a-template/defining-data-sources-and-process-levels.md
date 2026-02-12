@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
-
 # Defining Data Sources and Process Levels
 
 Let's understand the processing levels for different data source types.
@@ -279,4 +262,4 @@ Enable "**Content Authoring**" only when you want to let your users change the c
 
 If enabled, specify the design workflow and select the server for batch processing.&#x20;
 
-To manage batch configurations, click <mark style="color:green;">**\<icon>**</mark>. [Click here](../../output-generation/batch-configurations.md) to know more about batch configurations.
+To manage batch configurations, click <mark style="color:green;">**\<icon>**</mark>. [Click here](../../template-processing/high-volume-document-generation/setting-up-the-environment.md) to know more about batch configurations.

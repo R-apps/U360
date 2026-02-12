@@ -1,21 +1,4 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
-
-# Accessing Existing Templates
+# Working with Existing Templates
 
 Templates are stored either in the local path or in the server. Templates that are stored in the local path are accessible only by the [Template owner](#user-content-fn-1)[^1], while the templates stored in the server are accessible by all users in the domain.
 

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
-
 # Know How UniServe 360 Works
 
 UniServe 360 works as a **template-driven** customer communication platform. It takes **input data**, processes it through **business logic**, and generates **personalized outputs**.
