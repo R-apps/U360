@@ -30,8 +30,6 @@ Start with a small batch, verify the output and indexing, and only then scale to
 
 > <mark style="color:orange;">Queries</mark>
 >
-> 1. <mark style="color:orange;">How the Job status, delivery status, logs, and error messages are reviewed? - Reports</mark>
-
-
+> 1. <mark style="color:orange;">How the Job status, delivery status, logs, and error messages are reviewed? -</mark> **Reports**
 
 Once all these are ready,&#x20;
