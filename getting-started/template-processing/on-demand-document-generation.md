@@ -18,5 +18,5 @@ Here's how it works:
 * The final document is delivered in the required format (such as PDF) and made available to the user or the calling system.
 
 {% hint style="info" %}
-Make sure the template is checked in and set as the active version.
+Make sure the template is checked in and is set as the active version.
 {% endhint %}

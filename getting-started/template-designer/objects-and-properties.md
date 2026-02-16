@@ -115,7 +115,7 @@ Each new complex object is created with an incremental index. To rename a comple
 
 <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Rename Complex Object.png" alt=""><figcaption></figcaption></figure></div>
 
-For more information, [click here](../template-management/creating-a-template/working-with-complex-objects.md)
+For more information, [click here](../template-design-and-management/creating-a-template/working-with-complex-objects.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 # Setting up the environment
 
-**Batch Configurations** help you define how and where UniServe 360 should connect when running batch jobs. Here's where you control server access, database connectivity, and processing behavior for large-volume document generation.&#x20;
+An **Environment** is where you control server access, database connectivity, and processing behavior for large-volume document generation.&#x20;
 
 Batch configurations include server (to run batch jobs reliably, securely, and at scale) and database configurations (to fetch data). Set this up once per environment (QA, UAT, production, or client-specific) and reuse it across batch processes.
 
@@ -46,6 +46,8 @@ Click **Test Connection** to check the setup works correctly.
 Alternatively, you can choose to upload these configurations in JSON format.&#x20;
 
 To upload, click <img src="../../../.gitbook/assets/Batch Configurations - Import Icon.png" alt="" data-size="original"> and upload the JSON file.
+
+The environments created are listed as servers in the Template settings.
 
 ### Manage Environments
 

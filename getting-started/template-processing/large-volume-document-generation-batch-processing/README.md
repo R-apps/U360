@@ -1,6 +1,6 @@
-# High Volume Document Generation
+# Large-Volume Document Generation (Batch Processing)
 
-**Batch processing** in UniServe 360 lets you generate and distribute large volumes of documents such as statements, notices, or bulk PDFs in one run.&#x20;
+**Batch processing** in UniServe 360 lets you generate large volumes of documents such as statements, notices, or bulk PDFs in one run. **Batch Configurations** help you define how and where UniServe 360 should connect when running batch jobs.&#x20;
 
 ### Checklist and Prerequisites
 
@@ -15,12 +15,12 @@ Before running batches, make sure the following are in place:
   * Required output filters (PDF, AFP, HTML, PS) are added as plugins,
   * FGTs are created for File Level, Level1, and Level2, as needed, and
   * An accessible output path&#x20;
-* Client and Channel Configuration
+* Client and Channel Configuration&#x20;
   * Primary and Dependent clients are registered in UniServe 360.
   * Required channels (Print, Email, SMS, WhatsApp, or Direct Print) are configured.
 * Indexing
   * Job schemas for primary and dependent clients are available.
-  * Custom fields are mapped using global Data Variables.
+  * Custom fields are mapped using global Data Variables, if required.
 
 {% hint style="info" %}
 **Quick Tip**:
@@ -30,8 +30,7 @@ Start with a small batch, verify the output and indexing, and only then scale to
 
 > <mark style="color:orange;">Queries</mark>
 >
-> 1. <mark style="color:orange;">How the Job status, logs, and error messages are reviewed?</mark>
-> 2. <mark style="color:orange;">How the delivery status is validated across configured channels?</mark>
+> 1. <mark style="color:orange;">How the Job status, delivery status, logs, and error messages are reviewed? - Reports</mark>
 
 
 

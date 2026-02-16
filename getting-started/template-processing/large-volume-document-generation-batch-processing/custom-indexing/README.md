@@ -17,25 +17,25 @@ Use custom indexing when you
 To add custom index,&#x20;
 
 * Go to **Settings** > **Distribution Options**. Expand and select **Custom Index**.\
-  ![](<../../../.gitbook/assets/Custom Index - Navigation.png>)
+  ![](<../../../../.gitbook/assets/Custom Index - Navigation.png>)
 * Expand it and select **Configure** (+) at the required processing level (File level/Level 1). \
   The **Custom Indexing** configuration screen appears.
-* In the **Template Repository** pane, select **Add Template** (![](<../../../.gitbook/assets/Custom Index - Add Template Icon.png>)). Enter a template name and click **OK**.\
-  ![](<../../../.gitbook/assets/Custom Index - Creating a template.png>)
+* In the **Template Repository** pane, select **Add Template** (![](<../../../../.gitbook/assets/Custom Index - Add Template Icon.png>)). Enter a template name and click **OK**.\
+  ![](<../../../../.gitbook/assets/Custom Index - Creating a template.png>)
 * Expand **Template Information** and select the created template to access the configuration tabs on the right:\
   &#x20;             **Field setting** - define what to capture\
   &#x20;             **Composite setting** - Specify where the data goes
-  * In the **Field setting**, map global objects to index fields or create custom fields based on business needs. To map,
+  * In the **Field setting**, map global objects for indexing to fields or customize fields based on business needs. To map,
     * Expand the **Defined** section&#x20;
     * Give the field a name, select the data type, and select the expected value. Add as many fields as needed. \
-      &#x20;![](<../../../.gitbook/assets/Custom Indexing - Field setting (1).png>)
+      &#x20;![](<../../../../.gitbook/assets/Custom Indexing - Field setting (1).png>)
     * Similarly add&#x20;
       * custom fields -  for business-specific data&#x20;
       * reserved fields - for predefined or system-generated values.
-  * To define where and how the indexed data is stored,&#x20;
+  * To index the fields,&#x20;
     * Switch to **Composite Setting** tab and select **Add Composition Group** (+)
-    * Enter the group name and select the template type (XML/TXT/DB)
+    * Enter the group name and select the template type (XML/TXT/DB).&#x20;
     * <mark style="color:orange;">Should this template type be matched with the input data (source data file)?</mark>\
-      ![](<../../../.gitbook/assets/Custom Index - New composite group.png>)
-    *
+      ![](<../../../../.gitbook/assets/Custom Index - New composite group.png>)
 
+Finally, click **Ok**. This completes your custom indexing.
