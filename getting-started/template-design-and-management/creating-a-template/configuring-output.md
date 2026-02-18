@@ -1,3 +1,3 @@
 # Configuring Output
 
-#### Batch Configurations
+For output configuration, refer to [batch processing](../../processing-templates/batch-processing/).

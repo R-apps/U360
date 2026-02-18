@@ -262,4 +262,4 @@ Enable "**Content Authoring**" only when you want to let your users change the c
 
 If enabled, specify the design workflow and select the server for batch processing.&#x20;
 
-To manage batch configurations, click <mark style="color:green;">**\<icon>**</mark>. [Click here](../../processing-templates/large-volume-document-generation-batch-processing/setting-up-the-environment.md) to know more about batch configurations.
+To manage batch configurations, click <mark style="color:green;">**\<icon>**</mark>. [Click here](../../processing-templates/batch-processing/setting-up-the-environment.md) to know more about batch configurations.
