@@ -29,7 +29,7 @@ Follow this four-step process to set up a new SMS profile, and ensure you save t
 
 * In the **SMS Settings** dialog, select **New** and give the profile unique name and select **Ok**. Then, select it from the **Profile Name**.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Create SMS profile.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Create SMS profile.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -51,7 +51,7 @@ In the **SMS Server Details** section:
 * Enter the **IP address** and **Port number** of the SMS server.
 * Enter the **User name** and **Password** to authenticate with the SMS gateway.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/SMS Profile setup.png" alt="" width="479"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/SMS Profile setup.png" alt="" width="479"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -67,7 +67,7 @@ If the sender number is already defined at the document level and indexed as a d
 * Type the SMS content in the **Message** area. To insert dynamic data for personalized messages, use **Meta Data**, select the required data object, and click **Insert**.
 * Select **Multilingual** to localize the content.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/SMS profile name selection - Message content.png" alt="" width="449"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/SMS profile name selection - Message content.png" alt="" width="449"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

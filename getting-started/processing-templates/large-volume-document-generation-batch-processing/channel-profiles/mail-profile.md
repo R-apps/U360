@@ -32,7 +32,7 @@ Follow this three-step process to set up a new Mail profile, and ensure you save
 * In the **Mail Settings** dialog, click **Create mail profile**.
 * Enter a **Profile Name** that clearly identifies the purpose of the profile.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Create Mail Profile.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Create Mail Profile.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -45,7 +45,7 @@ In the **Mail Settings** section, enter the following:
 * Email Subject (Is this the manual entry field or a drop-down?)
 * Select the Time Zone.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Mail Profile - Mail Settings.png" alt="" width="478"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Mail Profile - Mail Settings.png" alt="" width="478"><figcaption></figcaption></figure></div>
 
 #### Optional Settings
 
@@ -57,7 +57,7 @@ Use optional settings only if you want to specify to which email address users c
   * Number of lines
 * Click **Ok** to apply the configuration.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Mail Profile - Optional Settings.png" alt="" width="480"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Mail Profile - Optional Settings.png" alt="" width="480"><figcaption></figcaption></figure></div>
 
 #### Message Settings (Compose email)
 
@@ -72,7 +72,7 @@ To compose an email message,
 * Select **New** and compose the message in the body.
 * For personalized content, use dynamic variables. Place your cursor at the desired position and select the data object.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Mail Profile - Message Body.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Mail Profile - Message Body.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 After composing, **Save** your email message.
 {% endtab %}
@@ -95,7 +95,7 @@ The Platform's in-built AI composes email message for you. To use,
 
 Then, select **Generate**. The AI model generates the content in HTML and displays it in the **Content Preview** pane.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Mail Profile - Auto Content AI.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Mail Profile - Auto Content AI.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Make necessary changes, if needed. Then, select **Import** to have it in the message body. Remove the tags and personalize, if needed.&#x20;
 
@@ -138,7 +138,7 @@ In the **SMTP Mail Settings** section,&#x20;
   * Select the **Encryption Type** (TLS / STARTTLS / SSL)
   * Select the **Authentication type** and enter the **Username** and **Password**&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Mail Profile - SMTP settings.png" alt="" width="479"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Mail Profile - SMTP settings.png" alt="" width="479"><figcaption></figcaption></figure></div>
 
 After setting up the mail profile, select **Ok** to save and close. The created profile now appears in the **Mail Profiles** list.
 {% endstep %}
@@ -146,8 +146,8 @@ After setting up the mail profile, select **Ok** to save and close. The created 
 
 ### Manage Mail Profiles
 
-To view a mail profile settings, click **Edit** (![](<../../.gitbook/assets/image (8).png>))
+To view a mail profile settings, click **Edit** (![](<../../../../.gitbook/assets/image (8).png>))
 
-To view the email message, click **Mail Body** (![](<../../.gitbook/assets/image (9).png>))
+To view the email message, click **Mail Body** (![](<../../../../.gitbook/assets/image (9).png>))
 
-To delete an unwanted mail profile, click **Delete** (![](<../../.gitbook/assets/image (10).png>))
+To delete an unwanted mail profile, click **Delete** (![](<../../../../.gitbook/assets/image (10).png>))

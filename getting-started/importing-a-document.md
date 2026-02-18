@@ -1,10 +1,10 @@
 # Importing a Document
 
-The **Import Document** feature lets you bring an existing document (in PDF) into UniServe 360 and use it as the base design for your template. The platform converts the imported file into an editable layout, allowing you to overlay objects, map data fields, and rebuild the template quickly without designing everything from scratch. It
+The **Import Document** feature lets you bring an existing document (in PDF) into UniServe 360 and use it as the base design for your template. The platform converts the imported file into an editable layout, allowing you to overlay objects, map data fields, and rebuild the template quickly without designing everything from scratch. This
 
-* Saves time by reusing an existing statement or letter format.
-* Preserves branding, layout, and structure from the original document.
-* Reduces design effort for repetitive or standard customer communications.
+* saves time by reusing an existing statement or letter format
+* preserves branding, layout, and structure from the original document.
+* reduces design effort for repetitive or standard customer communications.
 
 Let's see importing a document.
 

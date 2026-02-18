@@ -16,12 +16,12 @@ Same document - different profiles, different channels.
 
 Click the respective links to understand how to set up a channel-specific profile.
 
-{% content-ref url="setting-up-sms-profile.md" %}
-[setting-up-sms-profile.md](setting-up-sms-profile.md)
+{% content-ref url="sms-profile.md" %}
+[sms-profile.md](sms-profile.md)
 {% endcontent-ref %}
 
-{% content-ref url="setting-up-mail-profile.md" %}
-[setting-up-mail-profile.md](setting-up-mail-profile.md)
+{% content-ref url="mail-profile.md" %}
+[mail-profile.md](mail-profile.md)
 {% endcontent-ref %}
 
 {% content-ref url="print-profile.md" %}
