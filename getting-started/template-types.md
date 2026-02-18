@@ -33,7 +33,7 @@ Use Regular Templates when:
 
 #### Global Template
 
-A reusable template, designed to be shared across multiple templates. It usually contains common sections that remain consistent such as branding blocks, disclaimers, regulatory text, etc.&#x20;
+A static reusable template, designed to be shared across multiple templates. It usually contains common sections that remain consistent such as branding blocks, disclaimers, regulatory text, etc.&#x20;
 
 Use Global Templates when:
 
@@ -50,7 +50,7 @@ A Child Template holds the document-specific content&#x20;
 
 While the Master Template acts as base frame, child templates focus only on what changes.&#x20;
 
-Use Master-Child templates when one child template can work with multiple masters or vice-versa.
+Prefer using Master-Child templates when working collaboratively for a quick Turnaround Time.
 
 **Example**:&#x20;
 
@@ -73,4 +73,3 @@ Use Merge Template at runtime to merge the required child(s) and master to produ
 > <mark style="color:orange;">**Queries:**</mark>
 >
 > 1. <mark style="color:orange;">What are Label templates and when they are used?</mark>
-> 2. <mark style="color:orange;">What's the difference between Master and Global Templates?</mark>
