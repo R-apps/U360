@@ -17,5 +17,7 @@ layout:
     visible: true
 ---
 
-# UNISERVE 360
+# Settings
 
+The Administrator will have privileges to configure the application settings.\
+To access, navigate to the Settings menu.
