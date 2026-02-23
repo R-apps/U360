@@ -38,6 +38,32 @@ To create an organization,
 
 The organization gets created and appears in the Organizations list with the status "Active".&#x20;
 
+To activate/deactivate an organization, select **Edit** (![](../.gitbook/assets/image.png)), change the status and select **Save**.&#x20;
+
+### Roles
+
+To create a role,
+
+* Select **Roles** from the menu and select **Create Role.**&#x20;
+* Enter a unique name and brief description. Then, select **Save**.
+
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Create Roles.png" alt="" width="498"><figcaption></figcaption></figure></div>
+
+The role gets created and appears in the Roles list with the status "Active".&#x20;
+
+To change a role's status to active/inactive, select **Edit** (![](../.gitbook/assets/image.png)), change the status and select **Save**.&#x20;
+
+### Set Access Permissions to Role
+
+To grant access to a role,
+
+* Select **RoleToModule** from the menu and select **Create Role To Module.**&#x20;
+* Select the role and select the module(s) to define which all modules the selected role can access.
+
+Then, select **Save**.
+
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Create RoleToModule.png" alt="" width="500"><figcaption></figcaption></figure></div>
+
 
 
 
