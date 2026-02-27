@@ -76,7 +76,7 @@ By default, each newly added header is marked as a **Primary Key**. Ensure you s
 
 Then, click **Next** to move to the next step.
 
-<figure><img src="../../.gitbook/assets/Data Import - Schedule Import Setting.png" alt=""><figcaption></figcaption></figure>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Data Import - Schedule Import Setting.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -84,7 +84,7 @@ Then, click **Next** to move to the next step.
 
 Enter the file path and select the file type. Then, click **Next** to continue.
 
-!\[]\(../assets/images/Schedule Import Setting-2.png)
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Schedule Import Setting- Step2.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -98,9 +98,9 @@ If required, enable the following options:
 * Import only files that contain headers
 * Skip mandatory fields that contain blank values
 
-!\[]\(../assets/images/Schedule Import Setting-3.png)
-
 Finally, click **Save** to save your schedule import settings.
+
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Schedule Import Setting- Step3.png" alt=""><figcaption></figcaption></figure></div>
 
 After saving, the scheduled import runs automatically and keeps your data consistently updated.
 {% endstep %}
@@ -114,4 +114,6 @@ A sample API request with the API method, end-point URL, a sample request and re
 
 To use this reference request, use **Copy To Clipboard** option.
 
-To view the data uploaded, [click here](/broken/pages/3b389b97dd082835ffdbc21eae5fe073d9282e76)
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Data Import - APIs.png" alt=""><figcaption></figcaption></figure></div>
+
+To view the data uploaded, [click here](view_data.md).
