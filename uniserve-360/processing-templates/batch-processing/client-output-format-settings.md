@@ -12,7 +12,7 @@ A job schema is created for each registered client. These job schemas are update
 * Select a client from the list:
   * **Primary Client** – Process Client
   * **Dependent Clients** – Print, Mail, SMS, WhatsApp, Hybrid (SMS & Email) and others\
-    ![](<../../../../.gitbook/assets/Primary and Secondary Clients (1).png>)
+    ![](<../../../.gitbook/assets/Primary and Secondary Clients (1).png>)
 * Expand the selected client to configure mappings at different levels (File level, Level 1, Level 2). For each level, three configuration settings are available:
   * **Reserved:** Lists system-defined fields and are automatically populated during processing. \
     No manual mapping is required. Values are stored in the corresponding job table or entity.
@@ -24,6 +24,6 @@ A job schema is created for each registered client. These job schemas are update
 
 This allows precise control over how metadata is captured and stored for each client and processing level.&#x20;
 
-Let's see how to configure each client:
+
 
 <br>
