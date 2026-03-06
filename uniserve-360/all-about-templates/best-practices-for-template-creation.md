@@ -1,15 +1,18 @@
 # Best Practices for Template Creation
 
-These are some of the best practices that we recommend following when creating a template.
+These are some of the best practices that we recommend you to following when creating a template.
 
-1. Creating separate layers for the following makes maintenance easier and avoids frequent layout changes.
+1. Placing different sections of a template in separate layers makes maintenance easier and avoids frequent layout changes. \
+   For example, if the template contains
 
 * Header/Footer
 * Branding blocks
 * Static/Dynamic content
 * Conditional sections
 
-<mark style="color:green;">**<\<IMAGE>> - Sample image displaying all parts of the template**</mark>
+consider having them in individual layers, and later control the layer visibility based on the requirement.
+
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Layers with different sections (Sample image).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 2. Keeping the template design simple. A well-organized layout improves readability and reduces rendering time.  Avoid heavy backgrounds or too many decorative elements.
 3. Before designing complex layouts,
@@ -31,7 +34,7 @@ Since the input identifiers and tags are case-sensitive, handle bulk input files
 8. Always create a new version before making changes.\
    Name versions clearly along with the user's name. For example:
 
-&#x20;                       “v2 – Added new address field - John”\
-&#x20;                       “v3 – Updated billing summary table - Mathew”
+&#x20;              “v2 – Added new address field - John”\
+&#x20;              “v3 – Updated billing summary table - Mathew”
 
 A template should behave consistently, regardless of the delivery channel.

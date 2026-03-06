@@ -58,7 +58,7 @@ To change a role's status to active/inactive, select **Edit** (![](<../../.gitbo
 To grant access to a role,
 
 * Select **RoleToModule** from the menu and select **Create Role To Module.**&#x20;
-* Select the role and select the module(s) to define which all modules the selected role can access.
+* Select the role, then choose the module(s) to grant access to users assigned that role.
 
 Then, select **Save**.
 

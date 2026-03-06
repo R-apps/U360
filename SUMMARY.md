@@ -46,6 +46,8 @@
         * [Hybrid Profile](uniserve-360/processing-templates/batch-processing/channel-profiles/hybrid-profile.md)
   * [Importing a Document](uniserve-360/importing-a-document.md)
   * [Application Administration](uniserve-360/application-administration/README.md)
+    * [Process Management](uniserve-360/application-administration/process-management/README.md)
+      * [Multi-Processing Templates](uniserve-360/application-administration/process-management/multi-processing-templates.md)
     * [User Management](uniserve-360/application-administration/user-management.md)
     * [Tenant Management](uniserve-360/application-administration/tenant-management.md)
     * [Application Configuration](uniserve-360/application-administration/application-configuration.md)

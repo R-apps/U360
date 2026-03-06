@@ -37,6 +37,4 @@ To create a FGT,
 
 You can create multiple FGTs at Level 1 and Level 2 to control output behavior for different document sections.
 
-> <mark style="color:orange;">File level / Level1 -</mark>&#x20;
->
-> <mark style="color:orange;">Actual / Virtual - when and where to be used?</mark>
+> <mark style="color:orange;">File level / Level1 -</mark> \ <mark style="color:orange;">Actual / Virtual - when and where to be used?</mark>
