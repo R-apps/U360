@@ -48,6 +48,8 @@
   * [Application Administration](uniserve-360/application-administration/README.md)
     * [Process Management](uniserve-360/application-administration/process-management/README.md)
       * [Multi-Processing Templates](uniserve-360/application-administration/process-management/multi-processing-templates.md)
+      * [Proforma Processing for MPTs](uniserve-360/application-administration/process-management/proforma-processing-for-mpts.md)
+      * [Failover Management](uniserve-360/application-administration/process-management/failover-management.md)
     * [User Management](uniserve-360/application-administration/user-management.md)
     * [Tenant Management](uniserve-360/application-administration/tenant-management.md)
     * [Application Configuration](uniserve-360/application-administration/application-configuration.md)

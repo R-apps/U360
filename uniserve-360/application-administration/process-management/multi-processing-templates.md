@@ -19,44 +19,129 @@ layout:
 
 # Multi-Processing Templates
 
-A **Multi-Processing Template (MPT)** allows UniServe to process a template using multiple processors or workers. This improves throughput during large batch processing.
+UniServe supports multi-processing to improve processing performance.
 
-### Prerequisites
+Multi-processing allows multiple processors (workers) to process the same template simultaneously. This approach distributes the workload across processors, reducing the processing time when handling large volumes of data.
+
+In this setup:
+
+* A **Multi-Processing Template (MPT)** defines how many processors and workers are used.
+* Each processor handles a portion of the processing workload.
+* Processing runs in parallel to improve throughput.
+
+For instance, if a template processes a large batch of communication records, multiple workers can process different records simultaneously.
+
+### Creating a Multi-Processing Template
+
+#### Prerequisites
 
 Before creating an MPT, ensure the following:
 
-1. The template must be active and available on the server. \
-   [Click here](../../all-about-templates/template-design-and-management/version-control.md) to understand how to add a template to version control.
-2. The template must be mapped to a spool path for processing. To map,
-   * In **Template Designer**, open the **Tools** menu.
-   * Select **Template Settings**. Alternatively, press <kbd><mark style="color:$primary;">**CTRL+ALT+D**<mark style="color:$primary;"></kbd>.
-   *   Select the **Spool** tab and configure the required spool path for the template.\
-       <<mark style="color:orange;">Image - not available in Thin Client</mark>><br>
+* The template must be active and available on the server. \
+  [Click here](../../all-about-templates/template-design-and-management/version-control.md) to understand how to add a template to version control.
+*   The template must be mapped to a spool path for processing. To map,
 
-       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/unknown.jpeg" alt="" width="349"><figcaption></figcaption></figure></div>
+    * In **Template Designer**, open the **Tools** menu.
+    * Select **Template Settings**. Alternatively, press <kbd><mark style="color:$primary;">**CTRL+ALT+D**<mark style="color:$primary;"></kbd>.
+    * Select the **Spool** tab and configure the required spool path for the template.
 
-### Configuring an MPT for User Process
+
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/unknown.jpeg" alt="" width="349"><figcaption></figcaption></figure></div>
+
+### Configuring MPTs for User and Daemon Process
+
+<details>
+
+<summary>Configuring MPT for User Process</summary>
+
+### Configuring MPT for User Process
 
 To create an MPT,
 
-* Select the IP address of the current system where processing will run.
+* Select the **IP address** of the current system where processing will run.
 * Under the **Process** field, right-click the IP address and select **Configure**. \
-  The **Process Configuration** dialog box appears.
-* Select **User Process**. The available processors appear in the right pane.
-* Select the required processor(s).
-* Enable the processor in the **Use** field.
-  *   Enter the number of **workers** in the text box. Workers define the number of parallel processing instances.
+  The **Process Configuration** dialog appears.
+* Under the **Process Management**, select **User Process**. The available processors appear in the right pane.
+*   Select the required processor(s) and enter the number of workers for selected processor(s).\
+    (Workers define the number of parallel processing instances)<br>
 
-      7. Right-click **User Process** and select **Create**.
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="406"><figcaption></figcaption></figure></div>
 
-      The **Create Multi-Processing Template** dialog box appears.
+{% hint style="info" %}
+Based on the processors to be used during processing the template, the same must be enabled in the **Use** field.&#x20;
+{% endhint %}
 
-      8. Enter the **Template Name**.
-      9. Enter a **Description**.
-      10. Click **OK**.
+* Right-click **User Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
+*   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
 
-      The MPT is created and appears under **User Process**.
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="284"><figcaption></figcaption></figure></div>
+* The template is created and appears under "User Process" in the **Process Configuration** dialog.&#x20;
+*   Right click the created MPT and assign Processors. Then, click **Upload**.<br>
 
-      11. Right-click the newly created template.
-      12. Select **Save**.
-      13. Click **Upload**.
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="514"><figcaption></figcaption></figure></div>
+
+The template configuration is uploaded to the server. You can now use the MPT for batch processing.
+
+To modify processor settings, right-click it and set the processor count as required.&#x20;
+
+To remove an MPT, right-click it and select **Remove**.
+
+{% hint style="info" %}
+The processor count depends on the number of processors available on the system.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>Configuring MPT for Daemon Process</summary>
+
+### Configuring MPT for Daemon Process
+
+A daemon process runs continuously in the background to process templates automatically.
+
+To configure an MPT to run in Daemon Process, first create an MPT.
+
+To create an MPT,
+
+* Select the **IP address** of the current system where processing will run.
+*   Under the **Process** field, right-click the **IP address** and select **Configure**. \
+    The **Process Configuration** dialog appears.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="385"><figcaption></figcaption></figure></div>
+* Under the **Process Management**, select **Daemon Process**. The available processors appear in the right pane.
+* Select the required processor(s) and enter the number of workers for selected processor(s).\
+  (Workers define the number of parallel processing instances)
+
+{% hint style="info" %}
+Based on the processors to be used during processing the template, the same must be enabled in the **Use** field.&#x20;
+{% endhint %}
+
+* Right-click **Daemon Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
+*   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+
+The template is created and listed under **Daemon Process**.
+
+To select an MPT for processing,
+
+* Select Daemon Process and select the template to process from the drop-down list.
+*   Specify the maximum number of processing instances. Set this value to '**0'**, to allow unlimited processing instances.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="405"><figcaption></figcaption></figure></div>
+
+Select **Upload** and then select **Ok**.
+
+The template configuration is uploaded to the server. You can now use the MPT for batch processing.
+
+To modify processor settings, right-click it and set the processor count as required.&#x20;
+
+To remove an MPT, right-click it and select **Remove**.
+
+{% hint style="info" %}
+The processor count depends on the number of processors available on the system.
+{% endhint %}
+
+</details>
