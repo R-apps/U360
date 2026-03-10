@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Process Management
+# Processing Modes
 
 **Process Manager** allows you to start template processing without launching the full UniServe application interface. You can run processing in the following modes:
 
@@ -31,18 +31,4 @@ The below table helps you understand when to use each processing mode.
 
 {% hint style="info" %}
 Processing in different modes depends on the requirement and operational setup.
-{% endhint %}
-
-Using Process Manager, you can:
-
-* Configure a **MPT**
-* Configure a **User Process**
-* Configure a **Daemon Process**
-
-Process Manager also supports [**MPTs**](multi-processing-templates.md) (Multi-Processing Templates), which allow multiple processors to handle template processing simultaneously for improved performance.
-
-The process configuration includes Primary and Secondary clients, as defined in the Environment Configuration. While creating a configuration, specify the template name, description, and select the template from the server template list.
-
-{% hint style="info" %}
-**Users with permissions to manage MPTs and failover routing can only access and configure.**
 {% endhint %}

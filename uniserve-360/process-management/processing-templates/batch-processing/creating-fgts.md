@@ -10,9 +10,9 @@ To create a FGT,
   * Expand **Distribution Options**, and then select **File Generation Templates**.
   * Expand **Level 1,** and then select **Add** (+) in the **Actual** item. The platform creates an FGT \
     titled "Actual1." \
-    ![](<../../../.gitbook/assets/FGTs without data.png>)\
-    Select **Edit** (![](<../../../.gitbook/assets/Edit FGT.png>)) and give the FGT a meaningful name for easy identification.\
-    <img src="../../../.gitbook/assets/Edit FGT Dialog.png" alt="" data-size="original">
+    ![](<../../../../.gitbook/assets/FGTs without data.png>)\
+    Select **Edit** (![](<../../../../.gitbook/assets/Edit FGT.png>)) and give the FGT a meaningful name for easy identification.\
+    <img src="../../../../.gitbook/assets/Edit FGT Dialog.png" alt="" data-size="original">
   * Select **Actual1;** its configurable properties appear on the right.
     * **Filter** - select the required output format (PDF, PS, HTML, HTML5).\
       (Only formats that are already added as plugins appear in this list.)
@@ -28,12 +28,12 @@ To create a FGT,
     * **Embedded images** - Check this property to include images in the output (recommended for print). Keep it unchecked to exclude images.
     * **Tray settings** - Use this property to define tray-switching commands that are embedded in the output file for print processing.
     * **Size validation** - Check this and add the condition to verify the processed file size\
-      ![](<../../../.gitbook/assets/FGT - Size validation.png>)
+      ![](<../../../../.gitbook/assets/FGT - Size validation.png>)
     * **Watermark settings** - Use this property to include a watermark (text/image) in the generated output.\
-      ![](<../../../.gitbook/assets/FGT - watermark.png>)
+      ![](<../../../../.gitbook/assets/FGT - watermark.png>)
     * **Advance settings** - Use this property for output-specific options. These options vary based on selected output format.\
       For example, if the output format is PDF, you can add encryption and digital signatures at desired positions in the document, as required.\
-      ![](<../../../.gitbook/assets/FGT - Advance settings.png>)
+      ![](<../../../../.gitbook/assets/FGT - Advance settings.png>)
 
 You can create multiple FGTs at Level 1 and Level 2 to control output behavior for different document sections.
 

@@ -38,16 +38,17 @@ For instance, if a template processes a large batch of communication records, mu
 Before creating an MPT, ensure the following:
 
 * The template must be active and available on the server. \
-  [Click here](../../all-about-templates/template-design-and-management/version-control.md) to understand how to add a template to version control.
+  ([Click here](../all-about-templates/template-design-and-management/version-control.md) to understand how to add a template to version control)
 *   The template must be mapped to a spool path for processing. To map,
 
     * In **Template Designer**, open the **Tools** menu.
-    * Select **Template Settings**. Alternatively, press <kbd><mark style="color:$primary;">**CTRL+ALT+D**<mark style="color:$primary;"></kbd>.
+    * Select **Template Settings**. Alternatively, press <kbd><mark style="color:$primary;">CTRL+ALT+D<mark style="color:$primary;"></kbd>.
     * Select the **Spool** tab and configure the required spool path for the template.
 
 
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/unknown.jpeg" alt="" width="349"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/unknown.jpeg" alt="" width="349"><figcaption></figcaption></figure></div>
+* Required processors must be available.
 
 ### Configuring MPTs for User and Daemon Process
 
@@ -66,7 +67,7 @@ To create an MPT,
 *   Select the required processor(s) and enter the number of workers for selected processor(s).\
     (Workers define the number of parallel processing instances)<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="406"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="406"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Based on the processors to be used during processing the template, the same must be enabled in the **Use** field.&#x20;
@@ -75,11 +76,11 @@ Based on the processors to be used during processing the template, the same must
 * Right-click **User Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
 *   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="284"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="284"><figcaption></figcaption></figure></div>
 * The template is created and appears under "User Process" in the **Process Configuration** dialog.&#x20;
 *   Right click the created MPT and assign Processors. Then, click **Upload**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="514"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5).png" alt="" width="514"><figcaption></figcaption></figure></div>
 
 The template configuration is uploaded to the server. You can now use the MPT for batch processing.
 
@@ -109,7 +110,7 @@ To create an MPT,
 *   Under the **Process** field, right-click the **IP address** and select **Configure**. \
     The **Process Configuration** dialog appears.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="385"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6).png" alt="" width="385"><figcaption></figcaption></figure></div>
 * Under the **Process Management**, select **Daemon Process**. The available processors appear in the right pane.
 * Select the required processor(s) and enter the number of workers for selected processor(s).\
   (Workers define the number of parallel processing instances)
@@ -121,7 +122,7 @@ Based on the processors to be used during processing the template, the same must
 * Right-click **Daemon Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
 *   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
 
 The template is created and listed under **Daemon Process**.
 
@@ -130,7 +131,7 @@ To select an MPT for processing,
 * Select Daemon Process and select the template to process from the drop-down list.
 *   Specify the maximum number of processing instances. Set this value to '**0'**, to allow unlimited processing instances.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="405"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (9).png" alt="" width="405"><figcaption></figcaption></figure></div>
 
 Select **Upload** and then select **Ok**.
 
@@ -145,3 +146,4 @@ The processor count depends on the number of processors available on the system.
 {% endhint %}
 
 </details>
+
