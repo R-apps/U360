@@ -23,26 +23,6 @@ When UniServe 360 processes communications, it uses several system components to
 
 Here's a quick view of the elements involved in this process:
 
-<table><thead><tr><th width="183">Process Element</th><th>Description</th></tr></thead><tbody><tr><td><strong>Template</strong></td><td>A design that defines how output documents or messages are generated</td></tr><tr><td><strong>Process Manager</strong></td><td>A system component used to configure and manage template processing</td></tr><tr><td><strong>Processor</strong></td><td>A system resource responsible for executing template processing tasks</td></tr><tr><td><strong>Worker</strong></td><td>A processing instance that handles part of the workload</td></tr><tr><td><strong>MPT</strong></td><td>A configuration that enables parallel template processing</td></tr><tr><td><strong>Failover</strong></td><td>A mechanism that transfers processing to a secondary server if the primary server fails</td></tr></tbody></table>
+<table><thead><tr><th width="173">Process Element</th><th>Description</th></tr></thead><tbody><tr><td><strong>Template</strong></td><td>A design that defines how output documents or messages are generated</td></tr><tr><td><strong>Process Manager</strong></td><td>A system component used to configure and manage template processing</td></tr><tr><td><strong>Processor</strong></td><td>A system resource responsible for executing template processing tasks</td></tr><tr><td><strong>Worker</strong></td><td>A processing instance that handles part of the workload</td></tr><tr><td><strong>MPT</strong></td><td>A configuration that enables parallel template processing</td></tr><tr><td><strong>Failover</strong></td><td>A mechanism that transfers processing to a secondary server if the primary server fails</td></tr></tbody></table>
 
-Understanding how these components work together helps you configure processing more effectively, especially when using **multi-processing templates**.
-
-
-
-
-
-
-
-Using Process Manager, you can:
-
-* Configure a **MPT**
-* Configure a **User Process**
-* Configure a **Daemon Process**
-
-Process Manager also supports [**MPTs**](multi-processing-templates.md) (Multi-Processing Templates), which allow multiple processors to handle template processing simultaneously for improved performance.
-
-The process configuration includes Primary and Secondary clients, as defined in the Environment Configuration. While creating a configuration, specify the template name, description, and select the template from the server template list.
-
-{% hint style="info" %}
-**Users with permissions to manage MPTs and failover routing can only access and configure.**
-{% endhint %}
+Understanding how these components work together helps you configure processing more effectively, especially when using multi-processing templates.

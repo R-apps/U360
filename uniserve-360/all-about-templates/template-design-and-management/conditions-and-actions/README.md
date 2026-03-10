@@ -19,8 +19,10 @@ Let's look at adding conditions.
 To add a condition,&#x20;
 
 * Go to **Tools** > **Condition Manager**. The **Condition Definition** wizard appears.&#x20;
-* In the **Available Conditions** pane, click '+'. Enter the condition name and select the level (File/Level1)
-* Now, define the condition. In the **Atomic Condition Definition** wizard,
+*   In the **Available Conditions** pane, click '+'. Enter the condition name and select the level (File/Level1)<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure></div>
+* Now, define the condition.
   * Give the condition a unique name
   * Select the source (simple object/complex object). Based on the source selected, its datatype is auto populated.
   * Select the operator (condition)
@@ -29,23 +31,21 @@ To add a condition,&#x20;
 
 Then, click **Ok** to add.
 
-To know the available list of conditions, [click here](conditions-list.md).
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (32).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<mark style="color:green;">**<\<IMAGE>>**</mark>
+To know the available list of conditions, [click here](conditions-list.md).
 
 The defined condition is now available under "Available Conditions". Click it, the condition you defined is available in the Group1 along with the condition's expression preview.
 
-<mark style="color:green;">**<\<IMAGE>>**</mark>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (33).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 To check with multiple conditions, you can define conditions(s) within the group by clicking '+'. \
 Then select the operands (AND/OR/NOT). \
 For example, to check a combination of two conditions or a single condition, define conditions to build an expression like this: \[(Condition 1 **AND** Condition 2) **OR** (Condition 3)]
 
-<mark style="color:green;">**<\<IMAGE>>**</mark>&#x20;
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (34).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Similarly, you can check a group of conditions with another group using the required operands and you can add as many conditions as required.
-
-<mark style="color:green;">**<\<IMAGE>>**</mark>
 
 {% hint style="info" %}
 As you define the conditions, the expression is displayed instantly. If you do not see the expression, click on the condition in the left pane to get the final expression of your condition.
@@ -95,7 +95,11 @@ Go to **Settings** > **Distributive Options** > **Define Actions** tab.
   Now, define the action to be performed. To define,&#x20;
   * select the Action Type,
   * Define the parameters if required and&#x20;
-  * Execution Mode (Continue / Break)
+  * Execution Mode (_Continue_ - performs action and proceeds further / _Break_ - performs action without proceeding further)
 
-&#x20;        <mark style="color:green;">**<\<IMAGE>>**</mark>
+&#x20;        Similarly, define necessary pre and post actions to be performed.<br>
+
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+&#x20;
 

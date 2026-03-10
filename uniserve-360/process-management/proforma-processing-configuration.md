@@ -29,6 +29,6 @@ To enable an MPT for proforma processing,&#x20;
 * Select the check box under the **Proforma** column.
 *   Then, click **Ok**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Now, the selected MPT can be used for proforma processing.

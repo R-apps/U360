@@ -40,7 +40,7 @@ This is a pre-defined format that lets you define what the message should look l
 
 For **Standard** templates, preview and continue to **Save** the template.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 For **Rich Card** templates, these additional steps are involved:
 
@@ -49,9 +49,9 @@ For **Rich Card** templates, these additional steps are involved:
   * For the available asset, select it and click **Insert**
   *   For a new asset, use **Upload asset** and give it a tag for easy identification. After uploading, select it and click **Insert** to use it in the template.
 
-      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div>
+      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure></div>
+      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 > To preview the uploaded media, click **Preview**. Use **Replace** to change the image.
 
@@ -62,7 +62,7 @@ For **Rich Card** templates, these additional steps are involved:
 
 To add interactive buttons that appear with the message, click **Add Button** and define the actions, as illustrated here.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Include as many buttons as you need.
 
@@ -76,7 +76,7 @@ All the RCS templates created to date are available here.
 
 To view, go to **Template Management** > **RCS Template** > **View Template**
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To preview a template, hover on it and click **View**.
 

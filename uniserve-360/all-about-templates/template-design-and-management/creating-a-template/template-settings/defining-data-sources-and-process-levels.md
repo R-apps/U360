@@ -8,7 +8,7 @@ Let's understand the processing levels for different data source types.
 
 **Step 1**: Select the Process Data Source Type as "Text Files". &#x20;
 
-**Step 2**:  Click <mark style="color:green;">\<icon></mark> to define the data source. In the **Text Extractor** wizard, expand the Text Extractor to locate the entity.&#x20;
+**Step 2**:  Click ![](<../../../../../.gitbook/assets/image (6).png>) to define the data source. In the **Text Extractor** wizard, expand the Text Extractor to locate the entity.&#x20;
 
 Example: A bank has a large text file containing all credit card statements for the month.
 
@@ -67,6 +67,8 @@ Use:\
 &#x20;    **Line Count**, when the section always begins after a fixed number of lines, with no unique \
 &#x20;    text to search for.
 
+<div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
 Here's a quick reference to understand what Type to select and when to enable Match Case/Match word:
 
 <table><thead><tr><th width="214" valign="top">Type</th><th valign="top">When to Use</th><th valign="top">Example</th></tr></thead><tbody><tr><td valign="top">Identifier</td><td valign="top">When a section contains a unique text pattern that can be searched</td><td valign="top">Parent account details always begin with the label “CUSTOMER ACCOUNT DETAILS”.</td></tr><tr><td valign="top">Identifier + <br>Match Case/Match Word</td><td valign="top">When the system should only match exact text</td><td valign="top">Transaction rows contain <strong>“DEBIT”</strong> in uppercase. Using Match Case ensures the system doesn’t pick <strong>“Debit”</strong> or <strong>“debit”</strong>.</td></tr><tr><td valign="top">Line Count</td><td valign="top">When the file uses a fixed layout, and the next section always begins after a set number of lines.</td><td valign="top">A sub-account record always begins <strong>5 lines below</strong> the parent record. Set Line Count = 5 to capture the sub-account details.</td></tr></tbody></table>
@@ -112,9 +114,9 @@ Entity Two --> Transactions\
 Entity Three --> Rewards details\
 Entity Four --> EMI details
 
-<mark style="color:green;">**<\<IMAGE - Adding a new entity>>**</mark>
+<div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-As you add entity, they are created in a hierarchical model acting as Parent & Sub accounts. &#x20;
+As you add entity, they are created in a hierarchical model acting as Parent & Sub accounts.
 
 Once created, define the properties for each entity and click **OK** to continue.
 
@@ -124,9 +126,9 @@ Once created, define the properties for each entity and click **OK** to continue
 {% endhint %}
 
 **Step 3**: Define process levels. To define, select the default (Level1) and select its value in the Properties.\
-<mark style="color:green;">**<\<IMAGE - Level 1 Processing>>**</mark>\
+<img src="../../../../../.gitbook/assets/image (10).png" alt="" data-size="original">\
 If your data source has another level inside it, click '+' to add another level for processing and specify its properties.  \
-<mark style="color:green;">**<\<IMAGE - Level 2 Processing>>**</mark>\
+![](<../../../../../.gitbook/assets/image (11).png>)\
 Follow the same process to define all the levels.
 
 </details>
@@ -245,8 +247,7 @@ For JSON files, '{' becomes the identifier or you can specify the line count.
 
 **Step 3**: Define process levels.&#x20;
 
-To define, select the default (Level1) and select its value in the Properties.\
-<mark style="color:green;">**<\<IMAGE - Level 1 Processing>>**</mark>
+To define, select the default (Level1) and select its value in the Properties.
 
 </details>
 
@@ -258,8 +259,4 @@ To define, select the default (Level1) and select its value in the Properties.\
 
 </details>
 
-Enable "**Content Authoring**" only when you want to let your users change the content at text /image level without working with the template directly.
-
-If enabled, specify the design workflow and select the server for batch processing.&#x20;
-
-To manage batch configurations, click <mark style="color:green;">**\<icon>**</mark>. [Click here](../../../process-management/processing-templates/batch-processing/setting-up-the-environment.md) to know more about batch configurations.
+Enable "**Content Authoring**" only when you want to let your users change the content at text /image level without working with the template directly. If enabled, specify the design workflow.

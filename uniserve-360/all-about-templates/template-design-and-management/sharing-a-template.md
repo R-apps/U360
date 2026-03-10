@@ -5,7 +5,7 @@ UniServe 360 environment. It helps ensure collaboration, reuse, and controlled a
 
 This feature lets you share your template with others in your domain.
 
-<mark style="color:orange;">Authorized users can view or work on the shared template based on the permissions assigned.</mark>
+Authorized users can view or work on the shared template based on the permissions assigned.
 
 #### When to Use?
 
@@ -18,7 +18,10 @@ Share a template when you want to:
 > #### Best Practices
 >
 > * Use clear naming and versioning before sharing
-> * <mark style="color:orange;">Review access permissions to avoid unintended changes</mark>
+
+To share a template, select **Share** in the **Menu** tab. Select the user(s) and click **Apply**.&#x20;
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:orange;">**Queries**</mark>
 

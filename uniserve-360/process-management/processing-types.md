@@ -34,7 +34,7 @@ This approach is used
 
 In single-server processing, all template processing activities occur on a single server instance.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Since the processing occurs sequentially, only one processing stream handles the workload at a time.
 
@@ -50,4 +50,4 @@ This approach helps improve processing efficiency when working with large batche
 
 #### How it Works?
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure></div>

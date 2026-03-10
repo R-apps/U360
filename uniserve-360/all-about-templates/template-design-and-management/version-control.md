@@ -20,13 +20,13 @@ When a template is ready, you can add it to Version Control.
 To add a template to version contro&#x6C;**,**&#x20;
 
 1. Save the template locally.
-2. Go to **Version Control > Check In**.
+2. Go to **Version Control > Check In**. Alternatively, press <kbd><mark style="color:$primary;">Alt+I<mark style="color:$primary;"></kbd>
 3. Add comments describing the changes for clarity and traceability. \
    E.g., "Initial commit," "Updated UI," or "Fixed bug #123."
 4. Mark this version as the active one (optional).
 5. Then, click **Check In** to complete the action.
 
-<mark style="color:green;">**<\<IMAGE>>**</mark>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (36).png" alt="" width="318"><figcaption></figcaption></figure></div>
 
 Each check-in automatically creates a new version of the template. Once added, the template is stored on the server and becomes available for controlled access.
 
@@ -34,7 +34,9 @@ Each check-in automatically creates a new version of the template. Once added, t
 
 Every checked-in update is stored as a separate version. You can view the version history of the currently opened template. To view the version history of a template, open it in the editor and go to **Version Control** > **Show History**. It displays the version number, checked-in date, status, comments, and actions to read or make it active.
 
-<mark style="color:green;">**<\<IMAGE>>**</mark>
+Alternatively, press <kbd><mark style="color:$primary;">Alt+E<mark style="color:$primary;"></kbd>
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (37).png" alt="" width="561"><figcaption></figcaption></figure></div>
 
 #### Setting a Version Active
 

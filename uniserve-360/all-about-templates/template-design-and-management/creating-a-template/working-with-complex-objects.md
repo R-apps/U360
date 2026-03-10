@@ -7,15 +7,17 @@ Think of a monthly transactional statement, which includes multiple transactions
 
 Let's look at defining a complex object that uses the table data,&#x20;
 
-* &#x20;select the "Complex Object" from the left pane. \
-  &#x20; <mark style="color:green;">**<\<IMAGE>>**</mark>\
-  Click <mark style="color:$success;">\<icon></mark> to define the node. Select to map the table in the input data to which the object                  refers to.\
-  &#x20; <mark style="color:green;">**<\<IMAGE>>**</mark>\
+*   &#x20;select the "Complex Object" from the left pane. <br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure></div>
+* Click ![](<../../../../.gitbook/assets/image (23).png>) to define the node. Select to map the table in the input data to which the object                  refers to.\
+  &#x20; ![](<../../../../.gitbook/assets/image (24).png>)\
   Click **Ok**.
-* Now, expand the **Main** and map the Header to the Header row of the table. To map, go to                 Identifier and click <mark style="color:$success;">\<icon></mark>. It displays the mapped table. Expand it and select the table header. \
-  &#x20;Then, click **Ok** to map. \
-  &#x20;  <mark style="color:green;">**<\<IMAGE>>**</mark>\
-  For columns in the table, check the number of columns in the mapped table and use '+' icon in                  the Header row to add the required number of columns. Select each column and specify its                 data type, column type, field to which the column should map to, and lookup (in case of DB). \
+*   Now, expand the **Main** and map the Header to the Header row of the table. To map, go to                 Identifier and click <mark style="color:$success;">\<icon></mark>. It displays the mapped table. Expand it and select the table header. \
+    &#x20;Then, click **Ok** to map.&#x20;
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure></div>
+* For columns in the table, check the number of columns in the mapped table and use '+' icon in                  the Header row to add the required number of columns. Select each column and specify its                 data type, column type, field to which the column should map to, and lookup (in case of DB). \
   Similarly, configure and map the other columns in the Header.&#x20;
 
 Follow the same process for **Body** and **Footer** as well. Select the node, define the params and                map them to the table data.

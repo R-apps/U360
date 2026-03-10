@@ -6,9 +6,13 @@ Make sure your have the requirements list handy and follow these steps to create
 
 To create a template from scratch,&#x20;
 
-* Log in to access the UniServe 360 Designer and click **New Template.**
+* Log in to access the UniServe 360 Designer and click **New Template.** \
+  Alternatively, press <kbd><mark style="color:$primary;">Shift+N<mark style="color:$primary;"></kbd>
 * Give the template a unique name
 * Select the page size and orientation
+* Select the [template type](../../template-types.md) (Regular / Global / Master / Child / Merge)
+
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
 
 This creates a template and opens up the designer.&#x20;
 
@@ -18,9 +22,9 @@ Before you start working with the template, specify the following for the system
 
 To specify, go to **Settings** menu > **Template Settings**
 
-* [**Input**](configuring-input.md) (data source)
+* [**Input**](template-settings/configuring-input.md) (data source)
 * [**Process**](./#process) (processing levels)
-* [**Output**](configuring-output.md) (Expected output type generation)
+* [**Output**](template-settings/configuring-output.md) (Expected output type generation)
 
 ### Step 3: Input the Data
 
@@ -63,7 +67,8 @@ Now, let's explore designing a template that contains a Header, Footer, and Body
 2. Next, we will create one or more layers for the Body section based on the requirement. Before heading to this section, understand the [simple objects](working-with-simple-objects.md) and [complex objects](working-with-complex-objects.md) and how to handle them
    1. Use drawing objects to create different sections in the body and set their look and feel using the respective properties.
    2. Then, to insert simple data such as mobile number or customer name from the input file, simply drag each field onto the template, positioning it as needed.
-   3. Next, if your template involves any table, insert the table at the desired location in the template. Click it and access its properties to design the table as required. Once the table is ready, click the Data Association (<mark style="color:$success;">**\<icon>**</mark>) and select the required complex object. Click **Ok** to map.
+   3. Next, if your template involves any table, insert the table at the desired location in the template. Click it and access its properties to design the table as required. Once the table is ready, click the **Data Association** (![](<../../../../.gitbook/assets/image (2).png>)) and select the required complex object. \
+      Click **Ok** to map.
 
 {% hint style="info" %}
 * To know more about objects and their properties, [click here](/broken/pages/fTxZeyNdL3b3hrAJQcmn)

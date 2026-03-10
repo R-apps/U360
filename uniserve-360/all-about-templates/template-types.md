@@ -66,10 +66,4 @@ A Merge Template, merges Master and Child Templates to generate a full document.
 
 Use Merge Template at runtime to merge the required child(s) and master to produce the final document.
 
-#### Label Templates
-
-<>
-
-> <mark style="color:orange;">**Queries:**</mark>
->
-> 1. <mark style="color:orange;">What are Label templates and when they are used?</mark>
+> Based on the selected template type, the designer provides access only to the relevant drawing objects. For example, if the template type is “Global,” only the drawing objects required to design a global template will be available.

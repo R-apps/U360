@@ -23,3 +23,5 @@ Use this for interactive statements or digital communications like email stateme
 #### How to Export?
 
 To export a template, go to **Template** > **Export**, and select the template to be exported in required format.&#x20;
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>

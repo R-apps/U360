@@ -6,28 +6,28 @@ This article explains the end-to-end process so you can understand how the syste
 
 ### **How It Works**&#x20;
 
-1. **Template Design**\
+1. **Creating the Template**\
    The template is structured using layout components such as Document, Group, Page, Layer, and Objects and is designed by adding branding elements, sections, headers, footer, and inserting text, tables, charts, barcodes, and data fields.\
    **Example:**\
    A bank uses a single savings account statement template. All customers receive the same layout, while balances, transactions, and dates vary for each customer.
 2. **Configuring Input Data Source**\
    The template is connected with customer data. Data is received from systems like core banking, policy admin, billing, etc.\
    Formats can be XML, JSON, DB, Text, etc.
-3. **Data Mapping**\
+3. **Mapping Data** \
    Input data (example: Name, Account Number, Transactions) is mapped to the template objects.&#x20;
-4. **Business Rules**\
+4. **Adding Business Rules**\
    The template is personalized by adding the necessary conditions, events, and actions, defining what to show/hide, compute, or format.\
    For example:
    * Show a notification if Minimum Amount Due > 0
    * Display a promotional offer only when customer is eligible
 5. **Processing**\
-   The platform processes:
+   The processing engine applies the template to the data.
    * Simple objects
    * Complex objects (tables, repeating records)
    * Pre-actions and post-actions
 6.  **Generate Output**
 
-    When data is mapped, UniServe 360 generates the output. You can generate:
+    After mapping the data, UniServe 360 generates the output. You can generate:
 
     * Single communication (on demand)
     * Large batch jobs (thousands or millions)
