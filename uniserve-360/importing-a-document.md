@@ -15,14 +15,14 @@ To import,
 * Create a new template and define its settings.
 * Go to **Template** > **Import Document**. Browse to select the PDF file.
 * The platform displays all the pages in the document.
-* Select the page(s) to be imported.
+* Select the required page(s) to be imported.
 
 Then, click **Import**. This imports the document as individual pages in the template designer.&#x20;
 
 Then, to insert dynamic variables in the imported template, access the **Data Mapper** tab, expand \
 **RAW** >**Input** >**Simple**. Click 'S' and select the required variables from the input data, to create simple objects. Click **Ok**.&#x20;
 
-<mark style="color:green;">**<\<IMAGE>>**</mark>
+
 
 All these objects are accessible under the **Simple** tab in the RAW data.&#x20;
 
@@ -39,10 +39,12 @@ Let's see how to mark the dynamic fields manually and using AI.
 
 **Manual Process**
 
-To mark dynamically,&#x20;
+Make sure the dynamic variables (simple objects) are created&#x20;
+
+To mark dynamically, select **Design Mode** in the right pane.
 
 * First, select the page in which you want to map dynamic data.
-* Identify and dr
+* Identify the&#x20;
 *
 
 ***

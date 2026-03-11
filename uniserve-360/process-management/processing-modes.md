@@ -19,7 +19,7 @@ layout:
 
 # Processing Modes
 
-**Process Manager** allows you to start template processing without launching the full UniServe application interface. You can run processing in the following modes:
+The **Process Manager** allows you to start template processing without launching the full UniServe application interface. You can run processing in the following modes:
 
 * User Process
 * Daemon Process

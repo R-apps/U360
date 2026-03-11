@@ -19,8 +19,6 @@ layout:
 
 # Multi-Processing Templates
 
-UniServe supports multi-processing to improve processing performance.
-
 Multi-processing allows multiple processors (workers) to process the same template simultaneously. This approach distributes the workload across processors, reducing the processing time when handling large volumes of data.
 
 In this setup:
@@ -33,7 +31,15 @@ For instance, if a template processes a large batch of communication records, mu
 
 ### Creating a Multi-Processing Template
 
-#### Prerequisites
+The Process Manager controls how templates are processed within the system.
+
+Administrators can configure **MPTs** and assign processors to templates for different processing modes:
+
+* User Process
+* Daemon Process
+* Scheduled Process
+
+These configurations determine how template processing workloads are distributed across available system resources.
 
 Before creating an MPT, ensure the following:
 
@@ -67,7 +73,7 @@ To create an MPT,
 *   Select the required processor(s) and enter the number of workers for selected processor(s).\
     (Workers define the number of parallel processing instances)<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Based on the processors to be used during processing the template, the same must be enabled in the **Use** field.&#x20;
@@ -76,11 +82,11 @@ Based on the processors to be used during processing the template, the same must
 * Right-click **User Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
 *   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="284"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure></div>
 * The template is created and appears under "User Process" in the **Process Configuration** dialog.&#x20;
-*   Right click the created MPT and assign Processors. Then, click **Upload**.<br>
+*   Click the created MPT and assign Processors. Then, click **Upload**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="514"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="514"><figcaption></figcaption></figure></div>
 
 The template configuration is uploaded to the server. You can now use the MPT for batch processing.
 
@@ -150,5 +156,5 @@ The processor count depends on the number of processors available on the system.
 The process configuration includes Primary and Secondary clients, as defined in the Environment Configuration. While creating a configuration, specify the template name, description, and select the template from the server template list.
 
 {% hint style="info" %}
-**Users with permissions to manage MPTs and failover routing can only access and configure.**
+**Users with permissions to manage MPTs can only access and configure.**
 {% endhint %}

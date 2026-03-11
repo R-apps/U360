@@ -1,6 +1,6 @@
 # Know How UniServe 360 Works
 
-UniServe 360 works as a **template-driven** customer communication platform. It takes **input data**, processes it through **business logic**, and generates **personalized outputs**.
+UniServe 360 works as a template-driven customer communication platform. It takes **input data**, processes it through **business logic**, and generates **personalized outputs**.
 
 This article explains the end-to-end process so you can understand how the system works.
 
