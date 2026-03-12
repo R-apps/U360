@@ -58,6 +58,7 @@
     * [Application Configuration](uniserve-360/application-administration/application-configuration.md)
     * [User Management](uniserve-360/application-administration/user-management.md)
     * [Tenant Management](uniserve-360/application-administration/tenant-management.md)
+* [Queries](queries.md)
 * [REACH](reach/README.md)
   * [About Reach](reach/about-reach.md)
   * [Key Features](reach/key-features.md)

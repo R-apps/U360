@@ -6,7 +6,13 @@ The **Import Document** feature lets you bring an existing document (in PDF) int
 * preserves branding, layout, and structure from the original document.
 * reduces design effort for repetitive or standard customer communications.
 
-Let's see importing a document.
+Before importing a document, make sure to upload the input data and create simple objects using that data. To create simple objects, access the **Data Mapper** tab, expand **RAW** >**Input** >**Simple**. \
+Click 'S' and select the required variables from the input data, to create simple objects. \
+Click **Ok**.&#x20;
+
+
+
+All these objects are accessible under the **Simple** tab in the RAW data. To place them, you can simply drag and drop on to the template at desired positions.
 
 #### Using it as a reference layer&#x20;
 
@@ -19,16 +25,7 @@ To import,
 
 Then, click **Import**. This imports the document as individual pages in the template designer.&#x20;
 
-Then, to insert dynamic variables in the imported template, access the **Data Mapper** tab, expand \
-**RAW** >**Input** >**Simple**. Click 'S' and select the required variables from the input data, to create simple objects. Click **Ok**.&#x20;
 
-
-
-All these objects are accessible under the **Simple** tab in the RAW data.&#x20;
-
-<mark style="color:green;">**<\<IMAGE>>**</mark>
-
-To insert these variables, simply drag and drop those variables on to the template at desired positions.
 
 #### Using the Document
 
@@ -39,12 +36,14 @@ Let's see how to mark the dynamic fields manually and using AI.
 
 **Manual Process**
 
-Make sure the dynamic variables (simple objects) are created&#x20;
+Make sure the dynamic variables (simple objects) are created before proceeding.
 
-To mark dynamically, select **Design Mode** in the right pane.
+To mark manually,&#x20;
 
-* First, select the page in which you want to map dynamic data.
-* Identify the&#x20;
+* Go to the page and locate the element to be marked as dynamic
+* Draw a rectangle over the element and click it. Then, select the simple or dynamic object to be replaced&#x20;
+* Cl select the text or element in the imported document.
+*
 *
 
 ***

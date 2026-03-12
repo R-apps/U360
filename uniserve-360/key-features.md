@@ -99,7 +99,7 @@ UniServe360 supports statement delivery through:
 * SMS notifications
 * Mobile apps
 * Interactive HTML5 statements
-* <mark style="color:orange;">Shortlink messages</mark>
+* Shortlink messages
 
 #### **Interactive Statements**
 
@@ -142,7 +142,7 @@ All configurations are managed through UniServe360 layering feature.
 #### Seamless System Integration
 
 During processing, UniServe360 indexes metadata so other systems can reuse it.\
-<mark style="color:orange;">It integrates with SMS gateways (SMSC), email systems (SMTP), CRM tools, and payment gateways.</mark>
+It integrates with SMS gateways (SMSC), email systems (SMTP), CRM tools, and payment gateways.
 
 #### **Interactive Hyperlinks and Personalization**
 
