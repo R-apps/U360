@@ -11,9 +11,9 @@ To define input, access the **Input** tab in the **Template Settings** dialog. A
   * select the filename pattern, and&#x20;
   *   select if it should be applied to Daemon job. Always select "Yes" for batch jobs to process templates automatically when the data is available.<br>
 
-      <div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+      <div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 *   Now, click '+' to add the source information. Click it and specify the input path in the right pane. This tells the template from where it should pull and process data. Always enable "Sub Folder" to locate the exact file from the input path.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Then, select **Ok** to save the input configuration.

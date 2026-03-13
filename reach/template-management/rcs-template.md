@@ -40,7 +40,7 @@ This is a pre-defined format that lets you define what the message should look l
 
 For **Standard** templates, preview and continue to **Save** the template.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 For **Rich Card** templates, these additional steps are involved:
 
@@ -49,7 +49,7 @@ For **Rich Card** templates, these additional steps are involved:
   * For the available asset, select it and click **Insert**
   *   For a new asset, use **Upload asset** and give it a tag for easy identification. After uploading, select it and click **Insert** to use it in the template.
 
-      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
       <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 

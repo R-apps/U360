@@ -19,7 +19,7 @@
           * [Defining Data Sources and Process Levels](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/template-settings/defining-data-sources-and-process-levels.md)
           * [Configuring Output](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/template-settings/configuring-output.md)
           * [Global Settings](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/template-settings/global-settings.md)
-          * [Processing Server](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/template-settings/processing-server.md)
+          * [Server Settings](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/template-settings/server-settings.md)
         * [Working with Simple Objects](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/working-with-simple-objects.md)
         * [Working with Complex Objects](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/working-with-complex-objects.md)
         * [Adding Computations](uniserve-360/all-about-templates/template-design-and-management/creating-a-template/adding-computations.md)

@@ -8,7 +8,7 @@ Let's understand the processing levels for different data source types.
 
 **Step 1**: Select the Process Data Source Type as "Text Files". &#x20;
 
-**Step 2**:  Click ![](<../../../../../.gitbook/assets/image (6).png>) to define the data source. In the **Text Extractor** wizard, expand the Text Extractor to locate the entity.&#x20;
+**Step 2**:  Click ![](<../../../../../.gitbook/assets/image (6) (1).png>) to define the data source. In the **Text Extractor** wizard, expand the Text Extractor to locate the entity.&#x20;
 
 Example: A bank has a large text file containing all credit card statements for the month.
 
@@ -67,7 +67,7 @@ Use:\
 &#x20;    **Line Count**, when the section always begins after a fixed number of lines, with no unique \
 &#x20;    text to search for.
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Here's a quick reference to understand what Type to select and when to enable Match Case/Match word:
 

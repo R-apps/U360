@@ -73,7 +73,7 @@ To create an MPT,
 *   Select the required processor(s) and enter the number of workers for selected processor(s).\
     (Workers define the number of parallel processing instances)<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Based on the processors to be used during processing the template, the same must be enabled in the **Use** field.&#x20;
@@ -82,11 +82,11 @@ Based on the processors to be used during processing the template, the same must
 * Right-click **User Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
 *   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure></div>
 * The template is created and appears under "User Process" in the **Process Configuration** dialog.&#x20;
 *   Click the created MPT and assign Processors. Then, click **Upload**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="514"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="514"><figcaption></figcaption></figure></div>
 
 The template configuration is uploaded to the server. You can now use the MPT for batch processing.
 
@@ -116,7 +116,7 @@ To create an MPT,
 *   Under the **Process** field, right-click the **IP address** and select **Configure**. \
     The **Process Configuration** dialog appears.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="385"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt="" width="385"><figcaption></figcaption></figure></div>
 * Under the **Process Management**, select **Daemon Process**. The available processors appear in the right pane.
 * Select the required processor(s) and enter the number of workers for selected processor(s).\
   (Workers define the number of parallel processing instances)
@@ -128,7 +128,7 @@ Based on the processors to be used during processing the template, the same must
 * Right-click **Daemon Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
 *   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The template is created and listed under **Daemon Process**.
 

@@ -9,13 +9,12 @@ To register,&#x20;
 * Access the URL - [http://172.16.0.55:8888/uniserveapp](http://172.16.0.55:8888/uniserveapp) and select **Create an account**
 * Enter your email and password to register.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Now, select **Login** and log in to UniServe 360 designer with the created account credentials.
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
 
 After a successful login, the platform lands you on the Template Designer, where you can create and manage templates quickly and effectively.
 
-In the case where the Admin creates a user account, the credentials will be shared with the user.
-
+For the accounts created by the Administrator, credentials are shared to the user.&#x20;

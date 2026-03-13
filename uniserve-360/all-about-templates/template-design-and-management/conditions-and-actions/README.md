@@ -12,7 +12,8 @@ For example, showing a “Payment Due” message only when the outstanding amoun
 
 ### Conditions
 
-In UniServe 360, conditions are defined globally and can be called at any level (Document / Group / Page / Layer / Object) in the Template Hierarchy by defining actions.
+In UniServe 360, conditions are defined globally and can be called at any level \
+(Document / Group / Page / Layer / Object) in the Template Hierarchy by defining actions.
 
 Let's look at adding conditions.
 
@@ -97,7 +98,7 @@ Go to **Settings** > **Distributive Options** > **Define Actions** tab.
   * Define the parameters if required and&#x20;
   * Execution Mode (_Continue_ - performs action and proceeds further / _Break_ - performs action without proceeding further)
 
-&#x20;        Similarly, define necessary pre and post actions to be performed.<br>
+&#x20;        Similarly, define necessary pre and post actions to be performed.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure></div>
 

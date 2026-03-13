@@ -6,15 +6,17 @@ The **Import Document** feature lets you bring an existing document (in PDF) int
 * preserves branding, layout, and structure from the original document.
 * reduces design effort for repetitive or standard customer communications.
 
-Before importing a document, make sure to upload the input data and create simple objects using that data. To create simple objects, access the **Data Mapper** tab, expand **RAW** >**Input** >**Simple**. \
-Click 'S' and select the required variables from the input data, to create simple objects. \
-Click **Ok**.&#x20;
+Before importing a document, upload the input data and create simple objects.&#x20;
 
+To create simple objects, access the **Data Mapper** tab, expand **RAW** >**Input** >**Simple**. Click 'S' and select the required variables from the input data, to create simple objects. Then, click **Ok**.&#x20;
 
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="548"><figcaption></figcaption></figure></div>
 
-All these objects are accessible under the **Simple** tab in the RAW data. To place them, you can simply drag and drop on to the template at desired positions.
+All these objects are accessible under the **Simple** tab in the RAW data. To place them, drag and drop on to the template at desired positions.
 
-#### Using it as a reference layer&#x20;
+#### Using it as a reference layer
+
+To use the document structure, import the document.&#x20;
 
 To import,
 
@@ -25,25 +27,54 @@ To import,
 
 Then, click **Import**. This imports the document as individual pages in the template designer.&#x20;
 
+Access **Layers** panel on the right and rename the imported pages for easy understanding.&#x20;
 
-
-#### Using the Document
+#### Using it as a Document
 
 You can place text, images, tables, and dynamic fields directly on top of it. \
-Combined with AI, UniServe 360 can also detect dynamic variables automatically, further cutting down manual work.&#x20;
+Combined with AI, UniServe 360 can detect dynamic variables automatically, reducing manual effort.&#x20;
 
-Let's see how to mark the dynamic fields manually and using AI.
+Let's see marking dynamic fields manually and using AI.
 
-**Manual Process**
+#### Mapping Dynamic Fields Manually
 
-Make sure the dynamic variables (simple objects) are created before proceeding.
+To map manually,&#x20;
 
-To mark manually,&#x20;
+* Select the page in the left pane and locate the element.
+*   Draw a rectangle over the element and click it. Then, select the simple or complex data object to be replaced.<br>
 
-* Go to the page and locate the element to be marked as dynamic
-* Draw a rectangle over the element and click it. Then, select the simple or dynamic object to be replaced&#x20;
-* Cl select the text or element in the imported document.
-*
-*
+    <div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
-***
+Following this process, you can map all the dynamic elements manually.
+
+#### Mapping using AI
+
+To map using AI,
+
+* Select the pages and then select **Auto map dynamic variables with AI** in the right pane.&#x20;
+* All the dynamic data objects available are displayed. Select the required or all dynamic variables and select **Ok**.&#x20;
+*   It intelligently identifies the elements and automap them with the selected dynamic variables.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure></div>
+
+While importing, you can categorize the elements in a page into individual layers for better control. (E.g., customer profile in one layer, logo and other branding elements in another layer, etc.)
+
+To specify, switch to **Design Mode**.&#x20;
+
+* Select the page and draw a box covering the elements to be placed in a layer.&#x20;
+*   Under the Layer Properties in the right pane, enter a unique name for the layer in the right pane.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure></div>
+
+Similarly, mark the elements to place them in individual layers in the required page(s).
+
+Then, select **Import**. The document gets imported with the pages enabled and with the layers defined in each page, as shown here.
+
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+
+Expand the layer and select the data objects in it, you can view those elements on the canvas.&#x20;
+
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+
+> * In the case if any dynamic element is not detected, you can manually draw over it and select the data object type.&#x20;
+> * After importing, you can further modify it placing the required data objects.

@@ -126,7 +126,7 @@ The platform supports Unicode, allowing statements in any language. Output can b
 #### **Dynamic White Space Marketing**
 
 Unused space on statements can display targeted marketing messages.\
-<mark style="color:orange;">Using rules and customer demographics (age, gender, location), UniServe360 selects suitable images or messages from the marketing repository.</mark>
+Using rules and customer demographics (age, gender, location), UniServe360 selects suitable images or messages from the marketing repository.
 
 #### Flexible Data Presentment
 

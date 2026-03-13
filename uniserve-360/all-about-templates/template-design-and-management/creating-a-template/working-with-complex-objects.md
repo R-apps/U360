@@ -13,7 +13,7 @@ Let's look at defining a complex object that uses the table data,&#x20;
 * Click ![](<../../../../.gitbook/assets/image (23).png>) to define the node. Select to map the table in the input data to which the object                  refers to.\
   &#x20; ![](<../../../../.gitbook/assets/image (24).png>)\
   Click **Ok**.
-*   Now, expand the **Main** and map the Header to the Header row of the table. To map, go to                 Identifier and click <mark style="color:$success;">\<icon></mark>. It displays the mapped table. Expand it and select the table header. \
+*   Now, expand the **Main** and map the Header to the Header row of the table. To map, go to                 Identifier and click <img src="../../../../.gitbook/assets/image.png" alt="" data-size="original">. It displays the mapped table. Expand it and select the table header. \
     &#x20;Then, click **Ok** to map.&#x20;
 
     <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure></div>
