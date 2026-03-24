@@ -77,4 +77,5 @@ Expand the layer and select the data objects in it, you can view those elements 
 <div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
 > * In the case if any dynamic element is not detected, you can manually draw over it and select the data object type.&#x20;
-> * After importing, you can further modify it placing the required data objects.
+
+After importing, you can modify it with the required data objects.

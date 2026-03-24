@@ -21,7 +21,7 @@ layout:
 
 This section explains how administrators manage **users**, **roles,** **groups**, **security**, and **organizations**. and control users' access to different modules.
 
-To access, go to **Admin** > **User Configuration**. Alternatively, press <kbd><mark style="color:$info;">Alt+U<mark style="color:$info;"></kbd> The **User Manager** module opens in a separate tab.&#x20;
+To access, go to **Admin** > **User Configuration**. Alternatively, press <kbd><mark style="color:$primary;">Alt+U<mark style="color:$primary;"></kbd> The **User Manager** module opens in a separate tab.&#x20;
 
 The default user is **Administrator.**
 

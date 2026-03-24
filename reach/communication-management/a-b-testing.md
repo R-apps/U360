@@ -17,11 +17,11 @@ layout:
     visible: true
 ---
 
-# AB Testing
+# A/B Testing
 
 This feature in Reach helps you create two or more variants of the same communication and send them to different set of audience. Each version can differ in message content, subject line, call-to-action, or delivery timing. This setup helps you compare two or more message variants and automatically identify which one performs better before sending it to the rest of the audience.
 
-A/B testing help you validate what resonates with users for new campaigns.
+A/B testing help you validate what resonates with users for new campaigns and optimize communication strategies accordingly.
 
 ## When to Choose Single and A/B Testing
 

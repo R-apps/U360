@@ -54,7 +54,7 @@ After selecting the audience, click **Save & Continue**.
 {% step %}
 ### Template Variant Selection
 
-If you want to experiment a new communication and analyze the audience engagement, select [**A/B TESTING**](ab-testing.md), else, select **SINGLE**.
+If you want to experiment a new communication and analyze the audience engagement, select [**A/B TESTING**](a-b-testing.md), else, select **SINGLE**.
 {% endstep %}
 
 {% step %}

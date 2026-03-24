@@ -54,7 +54,7 @@ After selecting the audience, click **Save & Continue**.
 ### Compose Message
 
 * Next, select the template type (single variant or test with multiple variants using \
-  [A/B testing](ab-testing.md).
+  [A/B testing](a-b-testing.md).
 * Click **Browse Template** to select a template. When you select a template, the application automatically populates the template type, header, and communication message. However, you can personalize the message as needed. Additionally, the application provides a mobile preview of your communication message, as illustrated below.\
   \<IMAGE>
 * To change or insert variables in a message, point to your message body and click **Personalize**. Select the variable to insert, as illustrated below.\

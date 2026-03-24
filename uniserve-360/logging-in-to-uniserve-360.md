@@ -17,4 +17,4 @@ Now, select **Login** and log in to UniServe 360 designer with the created accou
 
 After a successful login, the platform lands you on the Template Designer, where you can create and manage templates quickly and effectively.
 
-For the accounts created by the Administrator, credentials are shared to the user.&#x20;
+In the case the Administrator creates a user account, the credentials will be shared with the user.
