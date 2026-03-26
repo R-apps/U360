@@ -67,9 +67,9 @@ Now, let's explore designing a template that contains a Header, Footer, and Body
 2. Next, we will create one or more layers for the Body section based on the requirement. Before heading to this section, understand the [simple objects](working-with-simple-objects.md) and [complex objects](working-with-complex-objects.md) and how to handle them
    1. Use drawing objects to create different sections in the body and set their look and feel using the respective properties.
    2. Then, to insert simple data such as mobile number or customer name from the input file, simply drag each field onto the template, positioning it as needed.
-   3.  Enter the message content. To refine or rephrase any text in the template, use our inbuilt AI. To use, select the content and click ![](<../../../../.gitbook/assets/image (6).png>), you get suggestions on the right. To insert, select a suggestion and click **ok** to replace.<br>
+   3.  Enter the message content. To refine or rephrase any text in the template, use our inbuilt AI. To use, select the content and click ![](<../../../../.gitbook/assets/image (6) (2).png>), you get suggestions on the right. To insert, select a suggestion and click **ok** to replace.<br>
 
-       <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+       <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure></div>
    4. Next, if your template involves any table, insert the table at the desired location in the template. Click it and access its properties to design the table as required. Once the table is ready, click the **Data Association** (![](<../../../../.gitbook/assets/image (2) (1) (1) (1).png>)) and select the required complex object. \
       Click **Ok** to map.
 

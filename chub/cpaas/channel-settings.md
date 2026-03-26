@@ -19,8 +19,6 @@ layout:
 
 # Channel Settings
 
-These&#x20;
-
 ### **SMS**
 
 Configure the SMS communication gateway(s) to establish a connection with the platform. This connection enables platform to send messages SMS text messages to the target audience.
@@ -31,7 +29,7 @@ Then save your gateway(s) configuration.
 
 Similarly, configure the gateway(s) utilizing for promotional communications and OTPs.
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Settings - SMS.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Settings - SMS.png" alt=""><figcaption></figcaption></figure></div>
 
 ### **Email**
 
@@ -39,7 +37,7 @@ To enable outbound email communication configure SMTP-based email gateway(s) by 
 
 To add a gateway, select **Add New Gateway** and all the gateways involved.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Settings - Email.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Settings - Email.png" alt=""><figcaption></figcaption></figure></div>
 
 Expand to setup each email gateway to connect your platform to the email gateway service. Additionally, specify "X SES Configuration Set" if email tracking is required, and choose the applicable Country to align with regional compliance policies.
 
@@ -47,7 +45,7 @@ Map each individual user using the **User List** and associated Department. Defi
 
 Use **Add** to add a user.
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Settings - Email1.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Settings - Email1.png" alt=""><figcaption></figcaption></figure></div>
 
 Then, save the setting.
 

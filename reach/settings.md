@@ -62,8 +62,6 @@ Then, save the details to connect.
 
 <div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Settings - Webpush.png" alt=""><figcaption></figcaption></figure></div>
 
-###
-
 ### **App Push**
 
 To set push notification for an app, connect your mobile application with Firebase so Reach can send app push notifications reliably without additional setup. To connect, add Firebase credentials for Reach to securely communicate with your mobile app and deliver notifications such as alerts, reminders, and updates in real time.&#x20;
@@ -158,13 +156,10 @@ Surveys help you gather feedback, usually after an interaction. Use surveys to a
 
 To use the segment columns,
 
-Select the data source (Contact Table/CSV File)
-
-Then, select the file. The application fetches the columns available in it.
-
-Choose the column(s) you prefer to use in your survey and click **Move**.&#x20;
-
-Select the column(s) in the **Selected Columns**. &#x20;
+* Select the data source (Contact Table/CSV File)
+* Then, select the file. The application fetches the columns available in it.
+* Choose the column(s) you prefer to use in your survey and click **Move**.&#x20;
+* Select the column(s) in the **Selected Columns**. &#x20;
 
 Finally, click **Save** to insert the data.
 
@@ -172,7 +167,9 @@ Finally, click **Save** to insert the data.
 
 ### **Forms**
 
-Use form(s) at specific stages of a user journey to collect users' responses or requests such as contact preferences, service interests, or feedback from the customer. These forms serve as interactive check points, enhancing user journey.
+Form(s) to collect users' responses or requests such as contact preferences, service interests, or feedback from the customer. These forms serve as interactive check points, enhancing user journey.
+
+To&#x20;
 
 
 
