@@ -9,7 +9,7 @@ To register,&#x20;
 * Access the URL - [http://172.16.0.55:8888/uniserveapp](http://172.16.0.55:8888/uniserveapp) and select **Create an account**
 * Enter your email and password to register.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 Now, select **Login** and log in to UniServe 360 designer with the created account credentials.
 

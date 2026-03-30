@@ -75,15 +75,15 @@ To create a user,
   * **Organisation**:  Select the organization from the list
   * **Role**: Select the user's role from the list
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="548"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="548"><figcaption></figcaption></figure></div>
 
 Then, select **Save**. This creates the user and appears in the users list with the status "Active".
 
 To view the created user's details, click ![](<../../.gitbook/assets/image (1) (1) (1).png>).
 
-To edit the user details, click ![](<../../.gitbook/assets/image (2) (1) (1).png>). Make necessary changes and then select **Save**.
+To edit the user details, click ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>). Make necessary changes and then select **Save**.
 
-To deactivate a user, click ![](<../../.gitbook/assets/image (3) (1).png>), and select **Yes** on the displayed confirmation dialog.
+To deactivate a user, click ![](<../../.gitbook/assets/image (3) (1) (1).png>), and select **Yes** on the displayed confirmation dialog.
 
 ### Groups
 

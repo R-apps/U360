@@ -17,5 +17,5 @@ layout:
     visible: true
 ---
 
-# Admin Portal
+# Consent Activity Logs
 

@@ -99,7 +99,7 @@ Based on the permissions assigned, you can create, edit, and manage the email te
 
 *   While searching for a template, you can choose to search by name or tags or categories. After selecting the search criteria, type in the search box, and click **Search**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 * To preview a template, click **View**.
 * To edit a template, click **Edit**.
 * To copy a template id, click **Copy**.

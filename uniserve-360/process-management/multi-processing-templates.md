@@ -73,7 +73,7 @@ To create an MPT,
 *   Select the required processor(s) and enter the number of workers for selected processor(s).\
     (Workers define the number of parallel processing instances)<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Based on the processors to be used during processing the template, the same must be enabled in the **Use** field.&#x20;

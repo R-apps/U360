@@ -17,6 +17,5 @@ layout:
     visible: true
 ---
 
-# Customer Portal
+# Consent Management
 
-To help you understand the process, let's se

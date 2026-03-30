@@ -19,7 +19,7 @@ layout:
 
 # Consent History
 
-**Consent History** is a detailed record of a your consent (e.g., opting in/out of email and revocations) with timestamped logs of all the changes you made . It acts as an audit trail for compliance and ensures that businesses use only the most recent, legally valid permissions.
+**Consent History** is a detailed record of your consent (e.g., opting in/out of email and revocations) with timestamped logs of all the changes you made to date. It acts as an audit trail for compliance and ensures that businesses use only the most recent and legally valid permissions.
 
 Consent History plays a key role in maintaining transparency and compliance. It
 
@@ -35,4 +35,10 @@ Consent history typically captures:
 * **Current status** (Active, Inactive, Deleted)
 * **Consent proof** for audit or verification
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+
+To search for a specific activity, search by its name or type.
+
+To view the consent proof for a specific activity, select **View**. This displays the consent record captured at the time the change was made.
+
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
