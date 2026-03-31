@@ -72,7 +72,7 @@ Each service shows its current status (Active or Revoked)
 In both the cases, the system asks you for the confirmation. Select **Accept** or **Revoke** in the \
 **Consent Confirmation** dialog to provide your confirmation.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 The system updates your consent status immediately.
 
@@ -82,10 +82,10 @@ This widget lists all communication channels the business is currently using to 
 
 *   Select **Enable** to opt-in and then select "Enable Channel" in the **Channel Confirmation** dialog.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 *   Select **Disable** to opt-out and then select "Disable Channel" in the **Channel Confirmation** dialog.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### Data Protection Information
 

@@ -27,6 +27,4 @@ To sign in to your account,&#x20;
 
 <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (51).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<mark style="color:orange;">Alternatively, you can sign in with your registered Gmail account.</mark>
-
 After logging in, the platform takes you to [Consent Management ](../../reach/data-management/consent-management.md)where you can manage your preferences and how your data can be used.

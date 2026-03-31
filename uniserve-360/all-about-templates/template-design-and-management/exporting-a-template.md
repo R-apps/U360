@@ -24,4 +24,4 @@ Use this for interactive statements or digital communications like email stateme
 
 To export a template, go to **Template** > **Export**, and select the template to be exported in required format.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure></div>

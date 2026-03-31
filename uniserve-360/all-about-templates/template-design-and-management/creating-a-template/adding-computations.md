@@ -28,14 +28,14 @@ Let's see how to create a simple compound object.
 * Access the **Data Mapper** tab in the right pane and navigate to **COMPUTED**. Then, click 'S' to create a simple object.&#x20;
 *   Give it a name and select the Data Type.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (26).png" alt="" width="556"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (26) (1).png" alt="" width="556"><figcaption></figcaption></figure></div>
 * In the **Compound String Composition** wizard, click '+'&#x20;
 * Select the data object, function (computation type) and configure the function settings, if required.
 * Use prefix/suffix to add a prefix or suffix to the selected data object
 
 Then. click **Compose** to view the result string.
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (27).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (27) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Similarly, you can add as many computations as required. Once done, click **Ok** to add.
 
@@ -50,7 +50,7 @@ Make sure to define the complex objects with the table data. Then only you can c
 *   In the **Computed Complex Object Settings,**
 
     * Click **Add Row** and select the complex object to be merged.
-    * To define the column association, click ![](<../../../../.gitbook/assets/image (28).png>) in the **Column Mapping** and select the column.
+    * To define the column association, click ![](<../../../../.gitbook/assets/image (28) (1).png>) in the **Column Mapping** and select the column.
     * To filter the data to be merged, click **Filtering.**
       *   In the **Filter Options**, expand the **settings** and select the entity.
 
@@ -59,10 +59,10 @@ Make sure to define the complex objects with the table data. Then only you can c
 
           Then, click **Ok** to apply filter.
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (29) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 - You can merge the tables with equal number of columns.
-- In the event, if you want to delete any row, navigate to it and simply click ![](<../../../../.gitbook/assets/image (30).png>).
+- In the event, if you want to delete any row, navigate to it and simply click ![](<../../../../.gitbook/assets/image (30) (1).png>).
 {% endhint %}
 

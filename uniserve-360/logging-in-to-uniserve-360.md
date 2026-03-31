@@ -13,7 +13,7 @@ To register,&#x20;
 
 Now, select **Login** and log in to UniServe 360 designer with the created account credentials.
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 After a successful login, the platform lands you on the Template Designer, where you can create and manage templates quickly and effectively.
 

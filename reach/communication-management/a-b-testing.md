@@ -55,7 +55,7 @@ Define how the test audience is split between the two versions. \
 **Example**: 20% for Variant A and 20% for Variant B. \
 These users receive different message versions for comparison.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -63,7 +63,7 @@ These users receive different message versions for comparison.
 
 Specify how long the system should wait before deciding the winner. This allows enough time to collect meaningful engagement data, such as clicks or responses.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -73,15 +73,15 @@ Next, to specify the winner variant criteria, select "**Send Winner Variant**" o
 
 *   **Event Category** - event to analyze the audience interest<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 *   **Event Name** - select what the event should analyze\
     \
     These event types change w.r.t. the event category.
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 *   **Select Condition** - define the condition<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 For instance, let's set the criteria to check which variant gets highest click rate. To check,
 

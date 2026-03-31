@@ -7,7 +7,7 @@ For example, assume building a template for an account statement containing the 
 To insert the customer's name in the template, locate it in the input data or data mapper\
 (e.g., \<customer\_name>), then drag and drop it on to the template.
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Similarly, drag all the simple objects on to the designer.
 
@@ -20,7 +20,7 @@ The other way around to create simple objects:
 
 The selected simple objects are displayed as "S\_\<DATAOBJECT>"
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (19) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you select the main identifier, all the simple objects are selected by default. You can uncheck the unwanted objects.
@@ -28,7 +28,7 @@ If you select the main identifier, all the simple objects are selected by defaul
 
 To modify any object's properties, open the **Data Mapper** tab and expand the **RAW > Input > Simple**. Double-click the element. The **Simple Object Properties** wizard appears.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (20) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Here, you can:
 
@@ -37,5 +37,5 @@ Here, you can:
     (e.g., trimming the extra spaces, removing duplicates, etc.) for the selected object. You can add prefix/suffix to that object if required. Then, compose it, the set expression is shown in \
     "Result string". <br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (21) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 3. Apply Transformation to encode or to decode or to transform the object value from Numbers to Words.

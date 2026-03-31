@@ -148,6 +148,6 @@ After setting up the mail profile, select **Ok** to save and close. The created 
 
 To view a mail profile settings, click **Edit** (![](<../../../../../.gitbook/assets/image (8) (1) (1) (1) (1).png>))
 
-To view the email message, click **Mail Body** (![](<../../../../../.gitbook/assets/image (9) (1) (1) (1).png>))
+To view the email message, click **Mail Body** (![](<../../../../../.gitbook/assets/image (9) (1) (1) (1) (1).png>))
 
-To delete an unwanted mail profile, click **Delete** (![](<../../../../../.gitbook/assets/image (10) (1) (1) (1).png>))
+To delete an unwanted mail profile, click **Delete** (![](<../../../../../.gitbook/assets/image (10) (1) (1) (1) (1).png>))

@@ -43,11 +43,11 @@ As you add elements, a preview appears on the right. You can switch between Expa
 
 Once done, click **SAVE & CONTINUE**. Assign the template a name, tag, category, and permissions, and then click **Save**.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The template gets created and is available under "View App Push Templates".
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To edit a template, hover over it and click **Edit**, make necessary changes, and save it.
 
@@ -103,7 +103,7 @@ To create an In-App Template,
   * **GIF**: Add a GIF file to your communication.
   *   **Button**: Insert action buttons for specific actions, in custom font color. A maximum of two buttons can be included in a notification.
 
-      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure></div>
+      <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
   * **Video**: Include video in your communication with specific dimensions and position.
   * **Carousel**: Display a series of scroll-able images within a single message.
 

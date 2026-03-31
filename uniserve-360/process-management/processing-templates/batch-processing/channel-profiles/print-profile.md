@@ -58,7 +58,7 @@ Defines actions to be applied after document generation.
 
 * Select **NONE** if no post-processing is required.
 * Use other options to merge or process output components, such as PS or PDF files. \
-  Click ![](<../../../../../.gitbook/assets/image (11) (1) (1).png>) to define post component settings for the selected component.
+  Click ![](<../../../../../.gitbook/assets/image (11) (1) (1) (1).png>) to define post component settings for the selected component.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/Print Profile - Post Component Settings.png" alt="" width="521"><figcaption></figcaption></figure></div>
 {% endstep %}

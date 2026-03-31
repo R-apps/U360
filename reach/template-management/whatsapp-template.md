@@ -61,9 +61,9 @@ Personalize your WhatsApp template as required. You can insert plain text, multi
 {% endstep %}
 {% endstepper %}
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The template is created and sent for approval.
 
@@ -73,10 +73,10 @@ All the WhatsApp templates created to date will be available here.
 
 To view, go to **Template Management** > **WhatsApp Template** > **View Template**
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To search for a template, you can choose to search by name/status/category. Type in the search box and click **Search**.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To delete a template, click **Delete**.

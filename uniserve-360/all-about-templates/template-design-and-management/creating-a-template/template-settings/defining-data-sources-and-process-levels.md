@@ -8,7 +8,7 @@ Let's understand the processing levels for different data source types.
 
 **Step 1**: Select the Process Data Source Type as "Text Files". &#x20;
 
-**Step 2**:  Click ![](<../../../../../.gitbook/assets/image (6) (1).png>) to define the data source. In the **Text Extractor** wizard, expand the Text Extractor to locate the entity.&#x20;
+**Step 2**:  Click ![](<../../../../../.gitbook/assets/image (6) (1) (1).png>) to define the data source. In the **Text Extractor** wizard, expand the Text Extractor to locate the entity.&#x20;
 
 Example: A bank has a large text file containing all credit card statements for the month.
 
@@ -114,7 +114,7 @@ Entity Two --> Transactions\
 Entity Three --> Rewards details\
 Entity Four --> EMI details
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 As you add entity, they are created in a hierarchical model acting as Parent & Sub accounts.
 
@@ -126,9 +126,9 @@ Once created, define the properties for each entity and click **OK** to continue
 {% endhint %}
 
 **Step 3**: Define process levels. To define, select the default (Level1) and select its value in the Properties.\
-<img src="../../../../../.gitbook/assets/image (10).png" alt="" data-size="original">\
+<img src="../../../../../.gitbook/assets/image (10) (1).png" alt="" data-size="original">\
 If your data source has another level inside it, click '+' to add another level for processing and specify its properties.  \
-![](<../../../../../.gitbook/assets/image (11).png>)\
+![](<../../../../../.gitbook/assets/image (11) (1).png>)\
 Follow the same process to define all the levels.
 
 </details>

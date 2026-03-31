@@ -31,7 +31,7 @@ To create a template, follow these steps:
 
 Once done, save your template.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The template gets created and is available under “View Template”.
 
@@ -41,7 +41,7 @@ To view, go to **Template Management**> **Voice Template**> **View Template**
 
 All the voice templates you created will be available here.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To preview a template, click **View**.
 
@@ -49,7 +49,7 @@ To edit the template, click **Edit**.
 
 To search for a template, you can choose to search by name/template id/PE id/category/approval date. Type in the search box and click **Search**.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To delete a template, click **Delete**.
 

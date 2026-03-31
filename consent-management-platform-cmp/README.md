@@ -67,6 +67,8 @@ Used by end users to:
 ### Key Benefits
 
 * User-friendly platform that collects consent with minimum drop offs
+* Customizable widgets to match your brand with flexible styling options
+* Enterprise-grade security with token-based authentication
 * Centralize consent across multiple systems and channels
 * Maintains a clear and auditable record of consent
 * Compliance Dashboard and Audit Readiness
