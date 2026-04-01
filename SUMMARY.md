@@ -114,6 +114,8 @@
     * [Consent Activity Logs](consent-management-platform-cmp/admin-console/consent-activity-logs.md)
     * [Customer Complaints](consent-management-platform-cmp/admin-console/customer-complaints.md)
     * [Consent APIs](consent-management-platform-cmp/admin-console/consent-apis.md)
+    * [Chatbot (Ask Abhaya)](consent-management-platform-cmp/admin-console/chatbot-ask-abhaya.md)
+    * [Callbot(Veena)](consent-management-platform-cmp/admin-console/callbot-veena.md)
   * [Customer-Facing Portal](consent-management-platform-cmp/customer-facing-portal/README.md)
     * [Logging into your account](consent-management-platform-cmp/customer-facing-portal/logging-into-your-account.md)
     * [Consent Management](consent-management-platform-cmp/customer-facing-portal/consent-management.md)
