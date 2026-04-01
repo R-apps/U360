@@ -84,7 +84,7 @@ To add a category,
 > Alternatively, you can use the default categories available on the right. To use, \
 > select and customize them as required.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Then, select **Create Category**. The category is created and appears in the \
 **Consent Categories** section.

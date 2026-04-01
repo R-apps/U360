@@ -25,6 +25,6 @@ To sign in to your account,&#x20;
 * Enter your registered mobile number and select **Send OTP**
 * Enter the OTP received to your mobile number and select **Verify OTP**
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (51).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure></div>
 
 After logging in, the platform takes you to [Consent Management ](../../reach/data-management/consent-management.md)where you can manage your preferences and how your data can be used.

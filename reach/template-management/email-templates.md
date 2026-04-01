@@ -73,7 +73,7 @@ The template then moves from "Draft" state to "Review" state. To view the templa
 
 You, as a reviewer, to review, access your notifications and click the "Review Request for Email Template" notification. The template opens in review mode with the options to comment, approve, reject, and end review.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Upon reviewing, if the template:
 

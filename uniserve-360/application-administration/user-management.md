@@ -38,7 +38,7 @@ To create an organization,
 
 The organization gets created and appears in the Organizations list with the status "Active".&#x20;
 
-To activate/deactivate an organization, select **Edit** (![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)), change the status and select **Save**.&#x20;
+To activate/deactivate an organization, select **Edit** (![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)), change the status and select **Save**.&#x20;
 
 ### Roles
 
@@ -51,7 +51,7 @@ To create a role,
 
 The role gets created and appears in the Roles list with the status "Active".&#x20;
 
-To change a role's status to active/inactive, select **Edit** (![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)), change the status and select **Save**.&#x20;
+To change a role's status to active/inactive, select **Edit** (![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)), change the status and select **Save**.&#x20;
 
 ### Set Access Permissions to Role
 
@@ -79,7 +79,7 @@ To create a user,
 
 Then, select **Save**. This creates the user and appears in the users list with the status "Active".
 
-To view the created user's details, click ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>).
+To view the created user's details, click ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>).
 
 To edit the user details, click ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>). Make necessary changes and then select **Save**.
 

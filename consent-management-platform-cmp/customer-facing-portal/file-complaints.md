@@ -31,7 +31,7 @@ To file, click ![](<../../.gitbook/assets/image (3) (1).png>)  and
 
 Then, click **Submit Complaint**.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="285"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="285"><figcaption></figcaption></figure></div>
 
 After submitting a complaint, you can track its status in "My Complaints" page.
 

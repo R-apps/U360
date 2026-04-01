@@ -26,11 +26,11 @@ The **Consent Activity Logs** provides a complete audit trail of all consent-rel
 * **Admin Activity Logs** – Configuration or consent changes made by administrators
 * **API Activity Logs** – Consent updates triggered through API integrations
 
-Switch between the Customer/Admin/API Activity tabs to view the respective activity logs.
+Example: If a customer updates his/her communication preference by disabling Email notifications, the system records the change instantly, the log captures both **old value (Enabled)** and **new value (Disabled)**, and the **source** reflects whether the action was performed via portal or API.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure></div>
+This ensures full traceability of every consent change.
 
-**Customer Consent Activity Logs:** Displays detailed records of consent changes made by or for customers. It ensures compliance and audit readiness, provides full visibility into customer consent changes, and enable data export for reporting and governance
+**Consent Activity Logs:** Displays detailed records of consent changes made by or for customers. It ensures compliance and audit readiness, provides full visibility into customer consent changes, and enable data export for reporting and governance
 
 Each activity logs includes:
 
@@ -45,5 +45,10 @@ Each activity logs includes:
 * **IP Address** – IP address from which the action was performed
 * **Consent Proof** – Proof of change in consent preference
 
-Search for or Filter the activity logs to view the required record(s)
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure></div>
 
+Switch between the Customer/Admin/API Activity tabs to view the respective activity logs.
+
+Use Search or Filter to locate the required activity logs.
+
+You can export logs in PDF or as a CSV file for reporting and governance.

@@ -1,6 +1,5 @@
 ---
 description: DPDP-Aligned Consent Governance for Enterprises
-hidden: true
 layout:
   width: default
   title:
@@ -35,7 +34,7 @@ It can operate as:
 
 by providing a way (opt-in/opt-out) for users to easily revoke or change their consent preferences any time.
 
-CMP ensures that every communication is permission-based, controlled, and compliant, while giving customers clear control over how they want to be contacted.
+CMP ensures that every communication is permission-based, controlled, and compliant, while giving customers clear control over how they want to be contacted. This enables organizations to adopt a privacy-first approach to data processing and communication.
 
 ### How it helps?
 
