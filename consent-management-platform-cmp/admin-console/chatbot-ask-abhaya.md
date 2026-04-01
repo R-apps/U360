@@ -1,5 +1,5 @@
 ---
-description: Your DPDPA 2023 Assistant
+description: Your DPDP Act Assistant
 layout:
   width: default
   title:
@@ -20,11 +20,11 @@ layout:
 
 # Chatbot (Ask Abhaya)
 
-**Ask Abhaya** is a dedicated chatbot designed to answer all your queries related to the **DPDPA 2023**.&#x20;
+**Ask Abhaya** is a dedicated chatbot designed to answer all your queries related to the **DPDP Act**.&#x20;
 
-It acts as a digital knowledge assistant that simplifies DPDPA compliance by enabling users to understand their data rights, manage consent preferences, and raise requests—all through a conversational interface. This allows users to get their queries resolved quickly without navigating away from the platform.
+It acts as a digital knowledge assistant that simplifies DPDPA compliance by enabling users to understand their data rights, consent preferences, and other - all through a conversational interface.&#x20;
 
-Ask Abhaya is available at the bottom-right corner of the **Consent Management Portal**. Click the chatbot icon to open it and start interacting. You can ask any DPDPA-related questions and get them clarified instantly.
+**Ask Abhaya** is available at the bottom-right corner of the Consent Management Portal. Click the chatbot icon (![](<../../.gitbook/assets/image (65).png>)) to open it and start interacting. You can ask any DPDPA-related questions and get them clarified  instantly without navigating away from the platform.
 
 <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="256"><figcaption></figcaption></figure></div>
 
@@ -47,7 +47,7 @@ Furthermore, if you encounter any issues while using Ask Abhaya, you can report 
 
 ### What It Does?
 
-Ask Abhaya provides accurate and detailed responses to all queries related to DPDPA 2023, including:
+Ask Abhaya provides accurate and detailed responses to all queries related to DPDP Act, including:
 
 * Key provisions of the Act,
 * When and how it was enacted in India,
@@ -57,4 +57,3 @@ Ask Abhaya provides accurate and detailed responses to all queries related to DP
 ### Why Use Ask Abhaya
 
 Ask Abhaya explains legal concepts in simple, easy-to-understand language, helping customers clearly understand their data rights and make informed decisions.
-
