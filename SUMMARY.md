@@ -123,6 +123,5 @@
     * [Consent History](consent-management-platform-cmp/customer-facing-portal/consent-history.md)
     * [Privacy Center](consent-management-platform-cmp/customer-facing-portal/privacy-center.md)
 * [CHUB](chub/README.md)
-  * [CPaaS](chub/cpaas/README.md)
-    * [Channel Settings](chub/cpaas/channel-settings.md)
-    * [Dashboard](chub/cpaas/dashboard.md)
+  * [Channel Settings](chub/channel-settings.md)
+  * [Dashboard](chub/dashboard.md)
