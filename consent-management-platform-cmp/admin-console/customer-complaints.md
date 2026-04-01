@@ -27,7 +27,7 @@ Refresh it periodically to reload the latest complaint records.
 
 You can even use search to find complaints by category.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
 Periodically mark the complaint's status here to update the customer about the progress of their complaint. To update,
 

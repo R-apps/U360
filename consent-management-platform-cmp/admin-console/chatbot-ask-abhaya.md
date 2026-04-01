@@ -26,6 +26,8 @@ It acts as a digital knowledge assistant that simplifies DPDPA compliance by ena
 
 Ask Abhaya is available at the bottom-right corner of the **Consent Management Portal**. Click the chatbot icon to open it and start interacting. You can ask any DPDPA-related questions and get them clarified instantly.
 
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="256"><figcaption></figcaption></figure></div>
+
 ### Compliance and Accuracy
 
 The chatbot:
