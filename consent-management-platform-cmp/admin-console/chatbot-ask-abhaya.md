@@ -39,14 +39,7 @@ The chatbot:
 * **Interactive Chat Support** – Responds instantly to queries entered in the chat window
 * **Context-Aware Responses** - Understands user intent and provides relevant answers
 * **Voice Enablement** – Accepts and responds to voice queries as well
-* **Multilingual Support** – Supports regional languages for wider accessibility. Currently available in 7 languages:
-  * English
-  * Hindi
-  * Telugu
-  * Kannada
-  * Marathi
-  * Odia
-  * Bengali
+* **Multilingual Support** – Supports all languages for wider accessibility
 
 Furthermore, if you encounter any issues while using Ask Abhaya, you can report them directly through the platform for prompt resolution.
 
