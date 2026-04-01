@@ -12,7 +12,7 @@ To create a template from scratch,&#x20;
 * Select the page size and orientation
 * Select the [template type](../../template-types.md) (Regular / Global / Master / Child / Merge)
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
 
 This creates a template and opens up the designer.&#x20;
 
@@ -70,7 +70,7 @@ Now, let's explore designing a template that contains a Header, Footer, and Body
    3.  Enter the message content. To refine or rephrase any text in the template, use our inbuilt AI. To use, select the content and click ![](<../../../../.gitbook/assets/image (6) (2).png>), you get suggestions on the right. To insert, select a suggestion and click **ok** to replace.<br>
 
        <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption></figcaption></figure></div>
-   4. Next, if your template involves any table, insert the table at the desired location in the template. Click it and access its properties to design the table as required. Once the table is ready, click the **Data Association** (![](<../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)) and select the required complex object. \
+   4. Next, if your template involves any table, insert the table at the desired location in the template. Click it and access its properties to design the table as required. Once the table is ready, click the **Data Association** (![](<../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>)) and select the required complex object. \
       Click **Ok** to map.
 
 {% hint style="info" %}

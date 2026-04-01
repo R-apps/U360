@@ -125,4 +125,4 @@
 * [CHUB](chub/README.md)
   * [CPaaS](chub/cpaas/README.md)
     * [Channel Settings](chub/cpaas/channel-settings.md)
-    * [Analytics](chub/cpaas/analytics.md)
+    * [Dashboard](chub/cpaas/dashboard.md)

@@ -38,4 +38,4 @@ You can raise requests for:
 All your requests are listed under **Your Privacy Requests** with status and unique request id. \
 You can monitor progress and track updates of your privacy requests.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
