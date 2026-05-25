@@ -69,6 +69,7 @@
     * [Data Import](reach/data-management/data-import.md)
     * [View\_Data](reach/data-management/view_data.md)
     * [Consent Management](reach/data-management/consent-management.md)
+    * [Rule Engine](reach/data-management/rule-engine.md)
   * [Assets Management](reach/assets-management.md)
   * [Categories](reach/categories.md)
   * [Registration Guides](reach/registration-guides/README.md)
