@@ -15,6 +15,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Consent History
@@ -41,4 +43,4 @@ To search for a specific activity, search by its name or type.
 
 To view the consent proof for a specific activity, select **View**. This displays the consent record captured at the time the change was made.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>

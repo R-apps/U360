@@ -1,4 +1,25 @@
-# Large-Volume Document Generation (Batch Processing)
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
+# Batch Processing
 
 **Batch processing** in UniServe 360 lets you generate large volumes of documents such as statements, notices, or bulk PDFs in one run. **Batch Configurations** help you define how and where UniServe 360 should connect when running batch jobs.&#x20;
 

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # UniServe 360 Overview
 
 UniServe 360 Web Designer is a browser-based tool that helps you design and update communication templates and layouts used for regulatory and customer communications. It is available in both **cloud** and **on-premises** deployments.

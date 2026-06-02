@@ -15,6 +15,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Multi-Processing Templates
@@ -73,7 +75,7 @@ To create an MPT,
 *   Select the required processor(s) and enter the number of workers for selected processor(s).\
     (Workers define the number of parallel processing instances)<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="406"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Based on the processors to be used during processing the template, the same must be enabled in the **Use** field.&#x20;
@@ -82,7 +84,7 @@ Based on the processors to be used during processing the template, the same must
 * Right-click **User Process** and select **Create**. The **Create Multi-Processing Template** dialog box appears.
 *   Enter the **Template Name** and **Description**. Then, click **OK**.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure></div>
 * The template is created and appears under "User Process" in the **Process Configuration** dialog.&#x20;
 *   Click the created MPT and assign Processors. Then, click **Upload**.<br>
 

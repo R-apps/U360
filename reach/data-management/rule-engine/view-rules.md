@@ -15,6 +15,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # View Rules
@@ -31,4 +33,4 @@ To edit a rule, select **Edit** (![Edit icon](<../../../.gitbook/assets/image (9
 
 To disable a rule, select **Disable** (![Disable icon](<../../../.gitbook/assets/image (99).png>)). Disabling a rule deactivates it but does not delete it.
 
-To delete a rule, select **Delete** (![Delete icon](<../../../.gitbook/assets/image (98).png>)).
+To delete a rule, select **Delete** (<img src="../../../.gitbook/assets/image (98).png" alt="Delete icon" data-size="line">).

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Channel Profiles
 
 Channel profiles (SMS, Email, Print) come into play after the document is generated and distributed, but before the message is actually delivered to the end user. They enable you to deliver it through the indexed channel. Each profile defines connection and delivery settings for a channel.

@@ -1,10 +1,31 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Know How UniServe 360 Works
 
 UniServe 360 works as a template-driven customer communication platform. It takes **input data**, processes it through **business logic**, and generates **personalized outputs**.
 
 This article explains the end-to-end process so you can understand how the system works.
 
-### **How It Works**&#x20;
+### **How It Works**
 
 1. **Creating the Template**\
    The template is structured using layout components such as Document, Group, Page, Layer, and Objects and is designed by adding branding elements, sections, headers, footer, and inserting text, tables, charts, barcodes, and data fields.\

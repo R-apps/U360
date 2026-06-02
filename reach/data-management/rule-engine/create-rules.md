@@ -15,6 +15,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Create Rules
@@ -28,12 +30,14 @@ Before creating a rule, ensure you have the required user permissions to access 
 #### Creating a Rule
 
 * Go to **Rule Engine** > **Create Rules**.
-* On the **Create Rule** page:
-  * Enter a unique name for the rule.
-  * Select the category.
-  * Enter a brief summary of the rule's purpose.
-  * Add a milestone if required.
-  * Leave the **Rule ID** blank for the system to generate one automatically.
+*   On the **Create Rule** page:
+
+    * Enter a unique name for the rule.
+    * Select the category.
+    * Enter a brief summary of the rule's purpose.
+    * Add a milestone if required.
+
+    Leave the **Rule ID** blank for the system to generate one automatically.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -71,7 +75,7 @@ Once your audience is defined, choose which communication channels — SMS, Emai
 To configure the channels:
 
 * Expand the **Template Mapping** section.
-* For each required channel, such as SMS, EMAIL, or WHATSAPP, click <img src="../../../.gitbook/assets/image (85).png" alt="" data-size="original"> to select your pre-configured template.
+* For each required channel, such as SMS, EMAIL, or WHATSAPP, select **Template** (<img src="../../../.gitbook/assets/image (85).png" alt="" data-size="original">) to select your pre-configured template.
 
 The system populates the relevant metadata, such as Reach Template ID, DLT Template ID, or Template Name.
 
@@ -122,4 +126,4 @@ Fallback management ensures your message is safely delivered via an alternative 
 
 Review all sections on the page and then select **Create** to publish your rule. All the published rules are listed in the [View Rules](view-rules.md) page.
 
-Click here to learn how to [execute rules](execute-rules.md).&#x20;
+After creating, learn how to [execute rules](execute-rules.md).&#x20;

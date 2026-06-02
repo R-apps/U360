@@ -15,6 +15,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Consent Management
@@ -82,7 +84,7 @@ This widget lists all communication channels the business is currently using to 
 
 *   Select **Enable** to opt-in and then select "Enable Channel" in the **Channel Confirmation** dialog.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 *   Select **Disable** to opt-out and then select "Disable Channel" in the **Channel Confirmation** dialog.<br>
 
     <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>

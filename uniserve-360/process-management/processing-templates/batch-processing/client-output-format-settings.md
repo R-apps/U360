@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Client (Output Format) Settings
 
 **Client Settings** control how runtime metadata is captured and stored in the UniServe database during document processing. When the job is executed, this information is saved automatically in the database and helps track who received what, how, and when.&#x20;
