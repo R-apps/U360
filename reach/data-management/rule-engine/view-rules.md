@@ -31,6 +31,6 @@ To view a rule, select **View** (![View icon](<../../../.gitbook/assets/image (9
 
 To edit a rule, select **Edit** (![Edit icon](<../../../.gitbook/assets/image (96).png>)).
 
-To disable a rule, select **Disable** (![Disable icon](<../../../.gitbook/assets/image (99).png>)). Disabling a rule deactivates it but does not delete it.
+To disable a rule, select **Disable** (<img src="../../../.gitbook/assets/image (99).png" alt="Disable icon" data-size="original">). Disabling a rule deactivates it but does not delete it.
 
-To delete a rule, select **Delete** (<img src="../../../.gitbook/assets/image (98).png" alt="Delete icon" data-size="line">).
+To delete a rule, select **Delete** (<img src="../../../.gitbook/assets/image (98).png" alt="Delete icon" data-size="original">).

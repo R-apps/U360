@@ -32,7 +32,6 @@ To view,&#x20;
 
 Below the filters, you can segment how your data is grouped by switching between three view tabs:
 
-* **By Milestone**: Groups and displays communication statistics based on specific project milestones (e.g., T-10 ULIP, Manual triggers).
+* **By Milestone**: Groups and displays communication statistics based on specific project milestones.
 * **By Date**: Displays the daily breakdown of SMS activities.
 * **By Month**: Aggregates data month-by-month for a higher-level trend analysis.
-
