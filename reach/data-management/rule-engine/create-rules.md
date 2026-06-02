@@ -52,11 +52,11 @@ In the **Data Retrieval** section:
 * Select the data source.
 *   Define conditions by selecting:
 
-    * a column, such as `Policy_status`,
-    * an operator, such as **Equal To**, and
-    * a value, such as `Active`.
+    * a column, (e.g., 'Policy\_status'),
+    * an operator, (e.g., 'Equal To'), and
+    * a value, (e.g., 'Active').
 
-    Use **Add New Condition** or **Add New Group** to add more criteria with `AND`/`OR` logic.
+    Use **Add New Condition** or **Add New Group** to add more criteria with AND/OR logic.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure></div>
 
