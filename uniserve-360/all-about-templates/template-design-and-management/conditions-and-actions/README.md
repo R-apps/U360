@@ -26,7 +26,7 @@ UniServe processes a template using the conditions and actions defined for it.
 
 **Business rules** in UniServe 360 are conditions or logic that control how specific parts of a template behave. They help you decide when, how, or what content should appear based on the input data.
 
-For example, showing a “Payment Due” message only when the outstanding amount is greater than zero &#x20;
+For example, showing a “Payment Due” message only when the outstanding amount is greater than zero.
 
 ### Conditions
 
@@ -101,9 +101,7 @@ Also, we can add rows for a process complex object on Group-level pre actions.
 
 Example:  After the transaction table is rendered, you can calculate and display the total debit/credit.
 
-Let's look at defining an action at different levels:
-
-1. **Document Level:**
+Let's look at defining an action at document Leve&#x6C;**:**
 
 Go to **Settings** > **Distributive Options** > **Define Actions** tab.
 
@@ -120,5 +118,10 @@ Go to **Settings** > **Distributive Options** > **Define Actions** tab.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (35) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-&#x20;
+#### &#x20;Reorder Actions with Ease
 
+The **Reorder Actions** feature allows you to change the execution sequence of actions configured. Use this feature when multiple actions are defined and you need to control the order in which they are executed.
+
+First add all required actions and then drag to reorder them to match the intended business flow. This approach is faster and easier than creating actions in the exact execution sequence from the beginning.
+
+> Reordering changes only the execution sequence of actions. The action configuration and parameters remain unchanged.
