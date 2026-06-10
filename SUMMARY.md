@@ -69,6 +69,7 @@
     * [Data Import](reach/data-management/data-import.md)
     * [View\_Data](reach/data-management/view_data.md)
     * [Consent Management](reach/data-management/consent-management.md)
+    * [Advanced Consent Management](reach/data-management/advanced-consent-management.md)
     * [Rule Engine](reach/data-management/rule-engine/README.md)
       * [Create Rules](reach/data-management/rule-engine/create-rules.md)
       * [View Rules](reach/data-management/rule-engine/view-rules.md)

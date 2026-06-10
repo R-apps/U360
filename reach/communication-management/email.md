@@ -15,6 +15,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Email
@@ -75,13 +77,13 @@ To use a predefined template, click **Browse Template** and select the required 
 
 Then, use the drag-and-drop editor to customize it to your requirement. Right-click the element in the template to modify. Make sure to use appropriate font, style, and necessary inserts, to match your brand.
 
-\<IMAGE>
+<div align="left"><figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Compose using Generative AI
 
-You can even use the Gen AI feature to draft your email message. Click <>, tell the context, specify word limit, language and click **Generate**. Preview the generated template and copy it to use.
+You can even use the Gen AI feature to draft your email message. Select **Generative AI** ![](<../../.gitbook/assets/image (109).png>), tell the context, specify word limit, language and click **Generate**. Preview the generated template and copy it to use.
 
-\<IMAGE>
+<div align="left"><figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Compose using HTML Code
 
@@ -91,11 +93,15 @@ Use HTML code to build your email template when you
 * need full control and advanced formatting not supported by drag-and-drop editor
 * have strict layout and visual guidelines
 
-To use HTML code feature, click <> and paste your complete HTML code into the editor. Ensure the HTML code is inline styled to avoid external CSS and responsive for mobile devices.
+To use HTML code feature, select '\</>' and paste your complete HTML code into the editor. Ensure the HTML code is inline styled to avoid external CSS and responsive for mobile devices.
+
+{% hint style="info" %}
+If your HTML code is not inline styled, use **Convert CSS to Inline** option before saving it.
+{% endhint %}
 
 Then, click **Save**.
 
-\<IMAGE>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 Insert dynamic fields to personalize communications, ensuring all variables are correctly mapped to the audience data.
 {% endstep %}
@@ -103,15 +109,15 @@ Insert dynamic fields to personalize communications, ensuring all variables are 
 {% step %}
 ### Preview & Test
 
-Click <> to preview the email across desktop and mobile views.
+Select **Preview** (![](<../../.gitbook/assets/image (115).png>)), to preview the email across desktop and mobile views.
 
-\<IMAGE>
+<div align="left"><figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure></div>
 
-Then, test the communication. Click  option using a working email ID.
+Then, test the communication. Select **Test Send** (![](<../../.gitbook/assets/image (117).png>))option using a working email ID.
 
-\<IMAGE>
+<div align="left"><figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure></div>
 
-After testing the communication, make changes if required, else, click **Save & Continue**. The application saves your communication with a unique communication ID.
+After testing the communication, make changes if required, else, select **Save & Continue**. The application saves your communication with a unique communication ID.
 {% endstep %}
 
 {% step %}
@@ -124,7 +130,7 @@ This adds a control layer for regulated or high-impact communications, helping y
 
 Select reviewer(s) and approver(s) and click **Save & Continue**.
 
-\<IMAGE>
+<div align="left"><figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -148,22 +154,22 @@ Advance Settings options:
 * **Override Queue Setting** – Select this to set to ‘0’ to send your communication overriding the queue. Set the Override Queue Setting to '0' to bypass the queue and send your communication directly.
 * **Apply STO** – Select STO (Send Time Optimization) to send communications when recipients are most responsive.
 
-Then, click **Broadcast** to send the communication to your audience and provide your confirmation in the displayed pop-up as the communication will be in draft mode.
+Then, select **Broadcast** to send the communication to your audience and provide your confirmation in the displayed pop-up as the communication will be in draft mode.
 {% endstep %}
 {% endstepper %}
 
 ## Manage Communications
 
-To view your email communications, navigate to **Communication Management** > **Voice** > \
-**View Communication**. The application displays the communications created by you to date along with their status. Expand the communication to view its stats.
+To view your email communications, navigate to **Communication Management** > **Email** > \
+**View Communication**. The application displays communications created by you to date along with their status. Expand the communication to view its stats.
 
-\<IMAGE>
+<div align="left"><figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure></div>
 
 Furthermore, you can choose to edit or delete these communications as required.
 
-* To view a communication, click <>.
-* To edit a communication, click ![](<../../.gitbook/assets/Edit icon.png>), and update it.
-* To execute a communication, click ![](<../../.gitbook/assets/Play or Execute icon.png>).
-* To delete a communication, click ![](<../../.gitbook/assets/Delete User.png>).
+* To view a communication, select **View** (![](<../../.gitbook/assets/image (120).png>)).
+* To edit a communication, select **Edit** (![](<../../.gitbook/assets/Edit icon.png>)). Make necessary changes and update it.
+* To execute a communication, select **Run** (![](<../../.gitbook/assets/Play or Execute icon.png>)).
+* To delete a communication, select **Delete** (![](<../../.gitbook/assets/Delete User.png>)).
 
 Executed campaigns cannot be edited.

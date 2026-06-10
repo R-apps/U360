@@ -1,5 +1,5 @@
 ---
-description: Add your business rules here
+description: Add your business logic
 layout:
   width: default
   title:
@@ -28,29 +28,33 @@ UniServe processes a template using the conditions and actions defined for it.
 
 For example, showing a “Payment Due” message only when the outstanding amount is greater than zero.
 
-### Conditions
+## Conditions
 
 In UniServe 360, conditions are defined globally and can be called at any level \
 (Document / Group / Page / Layer / Object) in the Template Hierarchy by defining actions.
 
-Let's look at adding conditions.
+#### Adding Conditions
+
+Adding a condition is a 3-step process: Add -> Define -> Configure
 
 To add a condition,&#x20;
 
 * Go to **Tools** > **Condition Manager**. The **Condition Definition** wizard appears.&#x20;
-*   In the **Available Conditions** pane, click '+'. Enter the condition name and select the level (File/Level1)<br>
+*   In the **Available Conditions** pane, select **Add Condition** (+). Enter the condition name and select the level (File/Level1)<br>
 
     <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (31) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
-* Now, define the condition.
+* Next, define the condition.
   * Give the condition a unique name
   * Select the source (simple object/complex object). Based on the source selected, its datatype is auto populated.
   * Select the operator (condition)
-  * Then, select the destination type - value (**Text**) or the data object (**Object**) and specify accordingly.
+  * Select the destination type - value (**Text**) or the data object (**Object**) and specify accordingly.
   * Enable "Evaluate always" to check this condition every time.
 
-Then, click **Ok** to add.
+&#x20;    Then, select **Ok**.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (32) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+The defined condition is listed under 'Available Conditions'.
 
 To know the available list of conditions, [click here](conditions-list.md).
 
@@ -76,14 +80,13 @@ Add all the business following these steps.&#x20;
 
 ### Actions
 
-An **action** tells the platform what to do when (default/conditional) a condition is met.\
-Actions change how an object appears or behaves in the template.&#x20;
+An **action** is a business logic that tells the platform what to do when (default/conditional) a condition is met. Actions change how an object appears or behaves in the template.&#x20;
 
-Actions can be defined at Document / Group / Page / Layer / Object &#x20;
+Actions can be defined at Document / Group / Page / Layer / Object level.
 
 In UniServe 360, **pre actions** and **post actions** are part of the rule execution flow. They help you control when an action should run while the system processes the template.
 
-**Init** - This is used to initialize a data base.
+**Init** - This is used to initialize a database.
 
 **Pre Actions** - These are run to prepare the object before it appears. They are used for:
 
@@ -101,7 +104,7 @@ Also, we can add rows for a process complex object on Group-level pre actions.
 
 Example:  After the transaction table is rendered, you can calculate and display the total debit/credit.
 
-Let's look at defining an action at document Leve&#x6C;**:**
+#### Defining Actions
 
 Go to **Settings** > **Distributive Options** > **Define Actions** tab.
 
@@ -118,10 +121,10 @@ Go to **Settings** > **Distributive Options** > **Define Actions** tab.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (35) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-#### &#x20;Reorder Actions with Ease
+#### &#x20;Reordering Actions&#x20;
 
 The **Reorder Actions** feature allows you to change the execution sequence of actions configured. Use this feature when multiple actions are defined and you need to control the order in which they are executed.
 
-First add all required actions and then drag to reorder them to match the intended business flow. This approach is faster and easier than creating actions in the exact execution sequence from the beginning.
+First add all required actions and then drag to reorder them to match the intended business flow. This approach is faster and easier than re-creating actions in the exact execution sequence.
 
 > Reordering changes only the execution sequence of actions. The action configuration and parameters remain unchanged.
