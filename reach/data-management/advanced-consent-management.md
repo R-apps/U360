@@ -27,7 +27,7 @@ Unlike standard Consent Management, which primarily identifies customers based o
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure></div>
 
-[Click here](../../consent-management-platform-cmp/) to know how to collect consent from users using our consent management portal.
+[Click here](https://help.uniservenxt.com/~/revisions/Ni2mChuLCH97NWtSyg1s/consent-management-platform-cmp/admin-console/consent-management) to know how to collect consent from users using our consent management portal.
 
 When a customer updates their communication preferences through the consent management experience, Reach automatically updates the corresponding consent record.
 
