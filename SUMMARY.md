@@ -130,4 +130,5 @@
     * [Privacy Center](consent-management-platform-cmp/customer-facing-portal/privacy-center.md)
 * [CHUB](chub/README.md)
   * [Channel Settings](chub/channel-settings.md)
+  * [Custom Parameter Configuration](chub/custom-parameter-configuration.md)
   * [Dashboard](chub/dashboard.md)
