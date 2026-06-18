@@ -59,6 +59,25 @@ Alternatively, press <kbd><mark style="color:$primary;">Alt+E<mark style="color:
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (37).png" alt="" width="561"><figcaption></figcaption></figure></div>
 
+#### Bulk Check-in
+
+Check in multiple templates at once.
+
+Instead of opening and checking in templates individually, you can select multiple templates and perform a single check-in operation.
+
+For bulk check-in,
+
+*   Select **check-in** button and select the templates.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Bulk checkin - Select templates.png" alt="" width="461"><figcaption></figcaption></figure></div>
+*   Next, select the server, and add a check-in comment.<br>
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Bulk checkin - Server selection.png" alt="" width="461"><figcaption></figcaption></figure></div>
+
+Then, select **Check-in \<n> Templates**
+
+This feature is particularly useful after template updates, migration activities, or bulk development changes where several templates need to be committed together.
+
 #### Setting a Version Active
 
 If multiple versions exist, you can explicitly choose which one should be used for processing.

@@ -27,8 +27,8 @@ Make sure your have the requirements list handy and follow these steps to create
 
 To create a template from scratch,&#x20;
 
-* Log in to access the UniServe 360 Designer and click **New Template.** \
-  Alternatively, press <kbd><mark style="color:$primary;">Shift+N<mark style="color:$primary;"></kbd>
+* Log in to UniServe 360 Web Designer
+* Select **New** > **Create.** Alternatively, press <kbd><mark style="color:$primary;">Shift+N<mark style="color:$primary;"></kbd>
 * Give the template a unique name
 * Select the page size and orientation
 * Select the [template type](../../template-types.md) (Regular / Global / Master / Child / Merge)
@@ -80,7 +80,7 @@ For additional pages, in the right pane, expand the **Pages** section and click 
 
 Now, let's explore designing a template that contains a Header, Footer, and Body.&#x20;
 
-1. First, create a basic template structure (E.g., Header, Body, etc.,) using the drawing objects. \
+1. First, create a basic template structure (E.g., Header, Body, etc.,) with the drawing objects. \
    Add logo, name, copyrights, contact information, and other branding elements in these sections. \
    To add these elements, use the drawing objects, image, and more. \
    You can even use individual layers for Header and Footer for more control.\
