@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -15,7 +16,9 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
-# Template Designer
+# Reports
 

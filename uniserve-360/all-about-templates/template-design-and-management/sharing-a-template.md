@@ -21,30 +21,39 @@ layout:
 
 # Sharing a Template
 
-The **Share** option allows you to make a template available to other users or teams within the \
-UniServe 360 environment. It helps ensure collaboration, reuse, and controlled access to communication templates.
+The **Share Templates** feature allows you to grant access to one or more users within your UniServe 360 entity. Shared users can work on the same template while the original creator continues to own and manage it.
 
-This feature lets you share your template with others in your domain.
+To prevent conflicting updates, when a shared user opens the template for editing, UniServe 360 locks the template for other shared users until the editing session ends. This locking mechanism ensures that only one version of the template is edited at a time.
 
-Authorized users can view or work on the shared template based on the permissions assigned.
+**Authenticity**: Shared users cannot reshare or delete the template, ensuring controlled collaboration and preserving template ownership.
 
-#### When to Use?
+To share a template,&#x20;
 
-Share a template when you want to:
+* Locate the template In the **Templates Dashboard**
+* Click **Actions** (![](../../../.gitbook/assets/Actions.png)) and select **Share**&#x20;
+* Add the user(s) with whom you want to share. Then, select **Share.**&#x20;
 
-* collaborate with multiple teams on the same template
-* reuse a standardized template across departments
-* allow reviewers or approvers to access the template
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/sharing a template.png" alt=""><figcaption></figcaption></figure></div>
 
-> #### Best Practices
->
-> * Use clear naming and versioning before sharing
+Shared users receive **Editor** access to the template. The selected users can now access the shared template.
 
-To share a template, select **Share** in the **Menu** tab. Select the user(s) and click **Apply**.&#x20;
+### Revoke Access
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure></div>
+As the template owner, you can review and update the list of users who have access to the template.
 
-<mark style="color:orange;">**Queries**</mark>
+To remove a user's access:
 
-1. <mark style="color:orange;">When a template is shared, will the receiver gets any notification? And when the receiver opens/makes changes to it, does the sharer gets any notification?</mark>
-2. <mark style="color:orange;">I didn't find an option to restrict the access when sharing a template. Are restrictins available? If so, how to apply?</mark>
+* Open the **Share Template** window for the required template.
+* Point to the user and select **Remove Access**.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Share Template - Permissions.png" alt="" width="287"><figcaption></figcaption></figure></div>
+
+The user can no longer access the shared template.
+
+### Best practices
+
+* Share templates only with users who need to contribute.
+* Revoke access when collaboration is complete.
+* Avoid creating duplicate templates for the same communication.
+* Inform other team members before beginning long editing sessions.
+* Use clear template names so shared templates are easy to identify.

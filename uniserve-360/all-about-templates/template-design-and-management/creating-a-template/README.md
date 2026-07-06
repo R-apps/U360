@@ -35,7 +35,12 @@ To create a template from scratch,&#x20;
 
 <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
 
-This creates a template and opens up the designer.&#x20;
+This creates a template and opens up the designer.
+
+{% hint style="info" %}
+If a template name is already in use by you or another user within the same entity, UniServe 360 notifies you and prompts you to choose a different name.\
+<img src="../../../../.gitbook/assets/Tempate name - Uniqueness.png" alt="" data-size="original">
+{% endhint %}
 
 ### Step 2: Set up Template Settings
 
@@ -73,9 +78,13 @@ For additional pages, in the right pane, expand the **Pages** section and click 
 
 {% hint style="info" %}
 * While structuring the template, place different sections in separate layers for better clarity. This helps you control visibility when generating output.
-*   You can rename the layers and pages for easy recognition. To rename a page, click ![](<../../../../.gitbook/assets/Edit Page Name.png>) icon. Rename it and make sure it is set to 'True' to keep it active.<br>
+*   You can rename the layers and pages for easy recognition. To rename a page, click ![](<../../../../.gitbook/assets/Edit Page Name.png>) icon. Rename it and make sure it is set to 'True' to keep it active.
 
     <div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Rename Page.png" alt="" width="372"><figcaption></figcaption></figure></div>
+* To reuse layers in a page, open the page, point to the layers you need and select them using <kbd>Ctrl</kbd> key. Then, copy and paste them in the target page.\
+  ![](<../../../../.gitbook/assets/Multi-layer copy paste.png>)
+* As you design a template, the page sequence may change. Instead of recreating pages, simply drag or move them into the required order. This gives you the flexibility to design first and finalize the document flow later.\
+  ![](<../../../../.gitbook/assets/Reorder Pages.png>)
 {% endhint %}
 
 Now, let's explore designing a template that contains a Header, Footer, and Body.&#x20;

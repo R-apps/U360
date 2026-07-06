@@ -36,6 +36,6 @@ Now, select **Login** and log in to UniServe 360 designer with the created accou
 
 <div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Login Page (Web Designer).png" alt=""><figcaption></figcaption></figure></div>
 
-After a successful login, the platform lands you on the Template Designer, where you can create and manage templates quickly and effectively.
+After a successful login, the platform lands you on the "My Templates" page, where you can find all the templates you created or shared with you by your peers.&#x20;
 
 In the case the Administrator creates a user account, the credentials will be shared with the user.

@@ -15,13 +15,15 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Template Types
 
 Templates in UniServe 360 are classified based on how they are used and processed.
 
-#### Regular Template
+### Regular Template
 
 A standard template, designed and processed independently. It contains layout, data mapping, business rules, all in one place; easy to manage for single-purpose communications.
 
@@ -31,7 +33,7 @@ Use Regular Templates when:
 * The template does not need to be reused across multiple documents
 * Branding and layout are unique to that document
 
-#### Global Template
+### Global Template
 
 A static reusable template, designed to be shared across multiple templates. It usually contains common sections that remain consistent such as branding blocks, disclaimers, regulatory text, etc.&#x20;
 
@@ -41,29 +43,34 @@ Use Global Templates when:
 * Branding or legal text must stay uniform
 * Updates should reflect everywhere automatically
 
-#### Master/Child Templates
+### Master-Child & Merge Templates
 
-A Master–Child template model helps you design modular templates and assemble them at runtime using [Merge Template](template-types.md#merge-templates). This approach reduces duplication, simplifies maintenance, and keeps branding consistent. Master and Child templates are maintained separately.
+The **Master-Child & Merge Template** model helps you build and manage related templates more efficiently. Instead of configuring common settings repeatedly, you can define them once in a **Master** template and reuse them across multiple **Child** and **Merge** templates.
 
-A Master Template defines the common structure shared across the documents.\
-A Child Template holds the document-specific content&#x20;
+The Master template contains the shared configurations, while Child and Merge templates inherit the applicable settings and maintain their own template-specific content.
 
-While the Master Template acts as base frame, child templates focus only on what changes.&#x20;
+This approach reduces repetitive configuration, promotes consistency, and simplifies template maintenance, especially when multiple designers work on related templates.
 
-Prefer using Master-Child templates when working collaboratively for a quick Turnaround Time.
+#### **How it works?**
 
-**Example**:&#x20;
+The **Master** template serves as the central template for shared configurations.
 
-* _Master Template_: Bank-branded statement layout with logo, footer, and regulatory text
-* _Child Templates_:
-  * Credit card statement
-  * Loan statement
-  * Account summary
+When you create Child or Merge templates from a Master template, UniServe 360 automatically inherits the applicable configurations. These inherited configurations are displayed as **read-only** in Child and Merge templates to preserve consistency and prevent accidental modifications.
 
-#### Merge Template
+Any changes made to the shared configurations in the Master template are automatically reflected in the associated Child and Merge templates.
 
-A Merge Template, merges Master and Child Templates to generate a full document. When your master and child templates are ready, create a Merge Template, load the master and add child template(s). Apply business logics, if required and then generate a single, final output.
+Configurations that are specific to a particular template can still be defined independently within the respective Child or Merge template.
 
-Use Merge Template at runtime to merge the required child(s) and master to produce the final document.
+#### Inherited configurations
 
-> Based on the selected template type, the designer provides access only to the relevant drawing objects. For example, if the template type is “Global,” only the drawing objects required to design a global template will be available.
+The following configurations can be inherited from the Master template:
+
+* Template layout
+* Actions
+* Custom Indexing
+* FGT Advanced Settings such as document properties, digital signature, encryptions and more.
+
+Inherited configurations appear as **read-only** in Child and Merge templates. This ensures that shared configurations remain consistent across all related templates.
+
+> **Note**\
+> To modify an inherited configuration, update it in the Master template. UniServe 360 automatically reflects the changes in all associated Child and Merge templates.

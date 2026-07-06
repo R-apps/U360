@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -8,7 +9,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
   metadata:
@@ -19,6 +20,5 @@ layout:
     visible: true
 ---
 
-# Import/Export
+# Add-on Features
 
-The Import/Export feature in UniServe 360 web designer helps you import/export templates individually or in bulk.&#x20;

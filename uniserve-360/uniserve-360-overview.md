@@ -21,11 +21,12 @@ layout:
 
 # UniServe 360 Overview
 
-UniServe 360 Web Designer is a browser-based tool that helps you design and update communication templates and layouts used for regulatory and customer communications. It is available in both **cloud** and **on-premises** deployments.
+UniServe 360 Web Designer is a browser-based tool that helps you design, update, and manage communication templates  for regulatory and customer communications. \
+It is available in both **cloud** and **on-premises** deployments.
 
 The Web Designer is built to support quick and consistent updates to communication templates. All processing is handled on the server, while users work through an easy-to-use WYSIWYG (What You See Is What You Get) interface in the browser. This approach makes template creation simple, accessible, and efficient for day-to-day business needs.
 
-UniServe Web Designer is a modern cloud-native platform which helps you design regulatory communication templates and layouts without any IT dependency. It is fast, accessible, and ideal for businesses that need to update communication templates quickly and consistently. All the processing happens behind the scenes (on the server) while the browser gives you an easy-to-use WYSIWYG interface.
+Design regulatory communication templates and layouts without any IT dependency. It is fast, accessible, and ideal for businesses that need to update communication templates quickly and consistently. All the processing happens behind the scenes (on the server) while the browser gives you an easy-to-use WYSIWYG interface.
 
 With UniServe 360, you can:
 

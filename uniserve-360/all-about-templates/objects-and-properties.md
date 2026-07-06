@@ -25,7 +25,7 @@ All the objects are available in the left pane.&#x20;
 
 To insert an object, simply click it. When you do, the platform opens up its basic display properties in the **Object** tab on the header menu, as you see here.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Object Properties in Menu bar.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Object Properties in Menu bar.png" alt=""><figcaption></figcaption></figure></div>
 
 After placing the object on the canvas, use these properties to quickly adjust its look and feel.
 
@@ -34,7 +34,7 @@ To rename and access its properties, double-click the object on the canvas or in
 To view additional properties of an object, click the **Properties** tab in the right pane. \
 The **Property Editor** displays the respective object properties. Set the object's properties as per your requirement.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Object Properties in Right Pane.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Object Properties in Right Pane.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Drawing Objects
 
@@ -42,9 +42,9 @@ The **Property Editor** displays the respective object properties. Set the objec
 
 <summary>Shapes</summary>
 
-Click ![](<../../../.gitbook/assets/shapes icon.png>)to view all the shapes available along with callouts, human symbols, and more.&#x20;
+Click ![](<../../.gitbook/assets/shapes icon.png>)to view all the shapes available along with callouts, human symbols, and more.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/shapes.png" alt="" width="485"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/shapes.png" alt="" width="485"><figcaption></figcaption></figure></div>
 
 To use a shape, select it and draw it in the template at the required position.
 
@@ -56,7 +56,7 @@ To use a shape, select it and draw it in the template at the required position.
 
 Use interactive drawing objects to design actionable and user-responsive templates. These objects enable user input, selection, or interaction when the output is viewed digitally (PDF, HTML, web forms).
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Interactive shapes.png" alt="" width="486"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Interactive shapes.png" alt="" width="486"><figcaption></figcaption></figure></div>
 
 Interactive drawing objects are best suited for digital-first communications such as onboarding forms, service requests, and consent documents. They are commonly used in banking, insurance, and enterprise communications where customer confirmation, choices, or inputs are required, such as consent forms, service requests, onboarding documents, and applications.
 
@@ -76,7 +76,7 @@ Interactive drawing objects are best suited for digital-first communications suc
 
 <summary>Image</summary>
 
-The **Image** object (![](<../../../.gitbook/assets/Image Object Icon.png>)) is used to add visual elements such as logos, icons, banners, or QR codes to a communication template.&#x20;
+The **Image** object (![](<../../.gitbook/assets/Image Object Icon.png>)) is used to add visual elements such as logos, icons, banners, or QR codes to a communication template.&#x20;
 
 It is commonly used for headers with brand logos, QR codes for payments, or icons for key information.
 
@@ -84,7 +84,7 @@ To upload the image, double-click the object on the canvas. For a static image, 
 
 To insert a hyperlink to the object, either use a static URL or link to a dynamic data object.
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Image Properties.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Image Properties.png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -94,7 +94,7 @@ To insert a hyperlink to the object, either use a static URL or link to a dynami
 
 <summary><strong>Text</strong></summary>
 
-Use the **Rich Text** object (![](<../../../.gitbook/assets/Rich Text Icon (1).png>)to display formatted text and embed dynamic data within a paragraph without affecting the surrounding content. It supports mixed content such as static text, variables, and basic formatting in a single block.
+Use the **Rich Text** object (![](<../../.gitbook/assets/Rich Text Icon (1).png>)to display formatted text and embed dynamic data within a paragraph without affecting the surrounding content. It supports mixed content such as static text, variables, and basic formatting in a single block.
 
 It is useful when you need to insert dynamic values like customer name, account number, or balance within sentences, such as in personalized banking statements or letters, while keeping the text structure intact.
 
@@ -106,7 +106,7 @@ It is useful when you need to insert dynamic values like customer name, account 
 
 <summary><strong>Table</strong></summary>
 
-A **Table** object (![](<../../../.gitbook/assets/Table Object Icon.png>))is used to display structured, row-and-column data in a clear and organized format. It is ideal for presenting grouped information.&#x20;
+A **Table** object (![](<../../.gitbook/assets/Table Object Icon.png>))is used to display structured, row-and-column data in a clear and organized format. It is ideal for presenting grouped information.&#x20;
 
 Use it when the data has a consistent structure.&#x20;
 
@@ -122,7 +122,7 @@ Use **the Data Association** property to map it with the complex object to inser
 
 <summary><strong>Complex Object</strong></summary>
 
-A **Complex** object (![](<../../../.gitbook/assets/Complex object icon.png>)) represents a group of related data objects that repeat together as a unit. It is used when multiple fields must be rendered collectively based on input data.
+A **Complex** object (![](<../../.gitbook/assets/Complex object icon.png>)) represents a group of related data objects that repeat together as a unit. It is used when multiple fields must be rendered collectively based on input data.
 
 Use complex objects when displaying repeating data blocks that contain multiple attributes.
 
@@ -132,11 +132,11 @@ Use complex objects when displaying repeating data blocks that contain multiple 
 
 You can view all created complex objects under **Data Mapper > RAW > Input > Complex**.
 
-Each new complex object is created with an incremental index. To rename a complex object, click<img src="../../../.gitbook/assets/Rename Complex Object icon.png" alt="" data-size="original">and enter a unique name for easy identification.&#x20;
+Each new complex object is created with an incremental index. To rename a complex object, click<img src="../../.gitbook/assets/Rename Complex Object icon.png" alt="" data-size="original">and enter a unique name for easy identification.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rename Complex Object.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Rename Complex Object.png" alt=""><figcaption></figcaption></figure></div>
 
-For more information, [click here](../template-design-and-management/creating-a-template/working-with-complex-objects.md)
+For more information, [click here](template-design-and-management/creating-a-template/working-with-complex-objects.md)
 
 </details>
 
@@ -154,17 +154,17 @@ Use charts when you want to include visual insights in a template.&#x20;
 
 To use the chart object,&#x20;
 
-* Point your cursor at the desired position in the template and click ![](<../../../.gitbook/assets/Chart icon.png>) in the left pane.&#x20;
+* Point your cursor at the desired position in the template and click ![](<../../.gitbook/assets/Chart icon.png>) in the left pane.&#x20;
 *   Select the chart type (line chart, bar chart, pie chart, donut, or dual chart) and select the chart sub type, if applicable. As you select, it gives an instant preview.<br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Chart selection &#x26; Preview.png" alt="" width="539"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Chart selection &#x26; Preview.png" alt="" width="539"><figcaption></figcaption></figure></div>
 * Next, use **Data Association** to map the chart to actual data and control what and how it should display. To map,&#x20;
-  * Click **Data Association** (![](<../../../.gitbook/assets/Settings icon.png>)). Expand the chart and click '+' to add actions. &#x20;
-  * Next, under the legend, click ![](<../../../.gitbook/assets/Settings icon.png>) and select the source object and element.
+  * Click **Data Association** (![](<../../.gitbook/assets/Settings icon.png>)). Expand the chart and click '+' to add actions. &#x20;
+  * Next, under the legend, click ![](<../../.gitbook/assets/Settings icon.png>) and select the source object and element.
   * Select the legend color and make "Show Points" to 'True', to make it visible.
 * Then, select the chart output type and set each property (Legends, Title, X-axis/Y-axis labels) to define how it should appear in the template.
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Chart configuration (1).png" alt="" width="539"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Chart configuration (1).png" alt="" width="539"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -180,7 +180,7 @@ Use barcodes when documents need to be scanned or tracked.
 
 **Using a Barcode**: To add a bar code,&#x20;
 
-* Click ![](<../../../.gitbook/assets/Barcode object icon.png>) in the left pane, an object appears on the canvas.
+* Click ![](<../../.gitbook/assets/Barcode object icon.png>) in the left pane, an object appears on the canvas.
 * Double-click it to configure. The settings here allow precise control over how the barcode appears and behaves in the final output.\
   **General** - Select the barcode type from the available list of categories.
 
@@ -202,6 +202,6 @@ Map it to a global template by specifying the template, group, page, and layer.\
 \
 To set its position and appearance, access its properties in the property editor.
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Frame object properties.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/Frame object properties.png" alt=""><figcaption></figcaption></figure></div>
 
 </details>

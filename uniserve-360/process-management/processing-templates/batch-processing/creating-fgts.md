@@ -58,4 +58,12 @@ To create a FGT,
 
 You can create multiple FGTs at Level 1 and Level 2 to control output behavior for different document sections.
 
-> <mark style="color:orange;">File level / Level1 -</mark> \ <mark style="color:orange;">Actual / Virtual - when and where to be used?</mark>
+### FGT Advanced Settings
+
+
+
+> When working with Master, Child, and Merge Templates, you can  define the required \
+> **FGT Advanced Settings** in the **Master** template and automatically inherit them in the associated Child and Merge templates.
+>
+> Inherited settings are displayed as **read-only** in Child and Merge templates to preserve the configuration defined in the Master template.\
+> <img src="../../../../.gitbook/assets/image (138).png" alt="" data-size="original">

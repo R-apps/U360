@@ -34,7 +34,7 @@ With Version Control, you can:
 
 > **Note:** You can make one or more versions active at a time.
 
-#### Adding a Template to Version Control
+### Checking in a Single Template
 
 When a template is ready, you can add it to Version Control.
 
@@ -51,15 +51,7 @@ To add a template to version contro&#x6C;**,**&#x20;
 
 Each check-in automatically creates a new version of the template. Once added, the template is stored on the server and becomes available for controlled access.
 
-### Viewing Version History
-
-Every checked-in update is stored as a separate version. You can view the version history of the currently opened template. To view the version history of a template, open it in the editor and go to **Version Control** > **Show History**. It displays the version number, checked-in date, status, comments, and actions to read or make it active.
-
-Alternatively, press <kbd><mark style="color:$primary;">Alt+E<mark style="color:$primary;"></kbd>
-
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (37).png" alt="" width="561"><figcaption></figcaption></figure></div>
-
-#### Bulk Check-in
+### Bulk Check-in
 
 Check in multiple templates at once.
 
@@ -77,6 +69,22 @@ For bulk check-in,
 Then, select **Check-in \<n> Templates**
 
 This feature is particularly useful after template updates, migration activities, or bulk development changes where several templates need to be committed together.
+
+#### Admin-controlled Bulk Check-in
+
+This allows users with 'Administrator' or 'Super Administrator' permissions to check in multiple templates at once without opening each template individually.
+
+This feature helps organizations streamline release activities by centralizing template check-in while allowing template designers to focus on development.
+
+> **Note**: Administrators can perform bulk check-in operations but cannot modify the design or content of templates unless they have been granted the required design permissions.
+
+### View Version History
+
+Every checked-in update is stored as a separate version. You can view the version history of the currently opened template. To view the version history of a template, open it in the editor and go to **Version Control** > **Show History**. It displays the version number, checked-in date, status, comments, and actions to read or make it active.
+
+Alternatively, press <kbd><mark style="color:$primary;">Alt+E<mark style="color:$primary;"></kbd>
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/version history.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Setting a Version Active
 
@@ -111,8 +119,3 @@ UniServe 360 allows you to edit templates without server access.
 * Server versions remain unchanged until you check in.
 
 This is helpful when working with limited connectivity or during isolated testing.
-
-<mark style="color:orange;">**Queries:**</mark>
-
-1. <mark style="color:orange;">Can we lock/check out a template to restrict editing?</mark>
-2. <mark style="color:orange;">When we roll back to an earlier version and make changes and commit, how does it impact the versions available next to the restored version?</mark> \ <mark style="color:orange;">(E.g., rolling back to v 5.0—make changes and check in. What version does it become, and how does it impact the versions from v 1.0 to v 4.0? Will those be overwritten?)</mark>
