@@ -21,22 +21,23 @@ layout:
 
 # Testing a Template
 
-Validate your template using sample input data before deploying it.
+Validate your template by generating and previewing multiple output formats from a single test run.
 
-The **Test Process** feature allows you to verify how a template is processed with your input data. Upload a supported data file, run the test, and review the generated output without affecting production processing.
+The **Template Testing** feature allows you to upload a sample input file (such as an XML file) and execute a test directly from the Designer interface. UniServe 360 automatically identifies the associated FGT and generates the configured output formats.
 
-UniServe 360 automatically identifies the associated **FGT** for the selected template and uses it during the test process. The generated output is displayed in the multi-output view, allowing you to review the results within the testing interface.
+### Why use Multi-output View?
 
-#### Why testing is important?
+Instead of running separate tests for each output channel, this feature allows you to treview all generated outputs from a single test execution, making template validation faster and more efficient.
 
-Testing helps you ensure that the template is production-ready and reliable. It ensures:
+This helps you:
 
-* Accurate data rendering
-* Correct application of business rules
-* Consistent layout across pages
-* Compliance with branding and regulatory requirements
+* Verify that the template renders correctly across different output formats.
+* Validate data mapping and dynamic content.
+* Reduce the number of test executions.
+* Identify formatting issues early.
+* Improve template quality before deployment.
 
-#### How to test?
+#### How to test a template?
 
 To test a template,
 
@@ -48,6 +49,15 @@ Then, select **Start Test Process**.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Testing Template - Input Data.png" alt=""><figcaption></figcaption></figure></div>
 
+After completing the test run, UniServe 360 displays the test result, as shown in the illustration below.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Test Process Result (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+* To download the document, select **Download** **File** (![](<../../../.gitbook/assets/Download Doc icon.png>))
+* To view, the document, select **View** (![](<../../../.gitbook/assets/View icon.png>)).
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/View Test Process Result (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 When uploading sample data, ensure it covers all relevant conditions and business rules. This helps verify that the template processes data accurately and behaves as expected across different scenarios.
 {% endhint %}
@@ -58,13 +68,3 @@ When uploading sample data, ensure it covers all relevant conditions and busines
 > * Review the generated output carefully before deploying the template.
 > * Repeat the test after updating layouts, business rules, or dynamic content.
 > * Validate both static and dynamic sections of the template.
-
-<mark style="color:red;">Q: what exactly does "multiple outputs" mean in UniServe 360?</mark>
-
-* <mark style="color:red;">Multiple output formats generated from the same test (for example, PDF, HTML, Email, SMS preview)?</mark>
-
-&#x20;      <mark style="color:red;">or</mark>
-
-* &#x20;<mark style="color:red;">Multiple documents/records generated from the uploaded input file (for example, if the XML contains 100 customer records, you can preview outputs for multiple customers in one testing session)?</mark>
-
-<mark style="color:red;">Can we capture the Test Process result?</mark>
