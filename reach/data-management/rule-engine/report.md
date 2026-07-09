@@ -28,7 +28,7 @@ To view,&#x20;
 * Go to **Data Management** > **Rule Engine** > **Report** > **\<channel\_type (e.g.,SMS)>**
 * Use the filters located at the top of the dashboard. Select the department, choose a specific date range and then select **Apply Filters** button.&#x20;
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (3).png" alt="Image of SMS report in rule engine"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="Image of SMS report in rule engine"><figcaption></figcaption></figure></div>
 
 Below the filters, you can segment how your data is grouped by switching between three view tabs:
 

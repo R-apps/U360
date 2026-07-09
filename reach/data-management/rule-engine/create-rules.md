@@ -23,7 +23,7 @@ layout:
 
 ### Steps to create a rule
 
-Before creating a rule, ensure you have the required user permissions to access the Rule Engine module.
+Before creating a rule, ensure you have the required user permissions to access the **Rule Engine** module.
 
 {% stepper %}
 {% step %}
@@ -36,10 +36,11 @@ Before creating a rule, ensure you have the required user permissions to access 
     * Select the category.
     * Enter a brief summary of the rule's purpose.
     * Add a milestone if required.
+    * Select the database and tables from where the customer data is available
 
     Leave the **Rule ID** blank for the system to generate one automatically.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -65,6 +66,16 @@ In the **Data Retrieval** section:
 {% hint style="info" %}
 Select **Format SQL** or press <kbd>Ctrl+Shift+F</kbd> / <kbd>Cmd+Shift+F</kbd> on Mac to check the query structure and ensure the syntax is correct and easy to read.
 {% endhint %}
+
+* After writing query, use **Test Query** to validate it. After validating the SQL query, UniServe Reach retrieves and displays the matching records for verification.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+###
+
+
 {% endstep %}
 
 {% step %}
@@ -127,3 +138,28 @@ Fallback management ensures your message is safely delivered via an alternative 
 Review all sections on the page and then select **Create** to publish your rule. All the published rules are listed in the [View Rules](view-rules.md) page.
 
 After creating, learn how to [execute rules](execute-rules.md).&#x20;
+
+```jsonl
+{
+   "to": "9876543210",
+   "msg_category": "TR",
+   "message": "Reminder: John, Your ULIP policy 12345 is due on 2027-11-30. 
+   Pay Rs 30000 to keep your life cover active and your investments growing. 
+   Pay now: https://<customer_URL> T&C Apply. ABCD Ltd. (Formerly ABC)",
+   "short_link": "Y",  
+   "custom_dlr_data": "IND12345",
+   "channel": "SMS",
+   "custom_params":{
+        "source_application":"ABCD",
+		"service_request":"SR12345",
+		"policy_number":"123456789",
+		"application_number":"ABCD12345",
+		"client_id":"57645675",
+		"advisor_code":"84576456",
+		"csc_code":"8567689578956",
+		"sap_code":"867568978956",
+		"name":"John",
+		"department":"Testing"
+ } 
+}
+```
