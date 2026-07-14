@@ -15,13 +15,15 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Admin Console
 
-The Admin Console is the control center used by enterprises to configure, manage, and monitor consent across users, services, and communication channels.&#x20;
+The **Admin Console** enables organizations to configure and manage the Consent & Privacy Governance Platform.
 
-You can
+You (Administrators) can
 
 * Set up or modify consent policies
 * Manage services and communication preferences
@@ -29,7 +31,7 @@ You can
 
 Use the Admin Console to:
 
-* **Consent Category Configuration**: Create and manage categories (for example, loan offers, insurance products). Services vary for each business and each service can have its own consent requirement. The Administrator create, enable, and manage the required categories the business have to collect the customers consent.
+* **Consent Category Configuration**: Create and manage categories (for example, loan offers, insurance products). Services vary for each organization and each service can have its own consent requirement. The Administrator can create, enable, and manage the required categories the organization have to collect the consent from customers.
 * **Consent rule management**: Define how consent should be captured and applied:
   * Opt-in or opt-out settings
   * Default consent behavior when no response is received

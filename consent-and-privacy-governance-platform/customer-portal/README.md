@@ -1,10 +1,11 @@
 ---
+description: Privacy Preference Center
 layout:
   width: default
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -19,9 +20,9 @@ layout:
     visible: true
 ---
 
-# Customer-Facing Portal
+# Customer Portal
 
-A **customer-facing portal** is a self-service interface where customers can view, manage, and update their communication preferences, consent choices, and data-sharing settings.
+This **customer-facing portal** is a self-service interface where customers can view, manage, and update their communication preferences, consent choices, and data-sharing settings.
 
 The portal gives customers greater control over their personal data by allowing them to review and update their privacy preferences at any time. It also helps organizations stay compliant with data privacy regulations.
 
