@@ -33,7 +33,7 @@ To create a template from scratch,&#x20;
 * Select the page size and orientation
 * Select the [template type](../../template-types.md) (Regular / Global / Master / Child / Merge)
 
-<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
 
 This creates a template and opens up the designer.
 

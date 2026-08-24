@@ -16,8 +16,8 @@ layout:
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
 ---
 
-# Data Discovery & Classification
+# AI Recommendations
 

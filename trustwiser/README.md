@@ -1,5 +1,5 @@
 ---
-description: DPDP-Aligned Consent Governance for Enterprises
+description: DPDP-Aligned Consent & Privacy Governance Platform
 layout:
   width: default
   title:
@@ -16,9 +16,11 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: false
 ---
 
-# Consent Management Platform (CMP)
+# TrustWiser
 
 ### What's CMP?
 

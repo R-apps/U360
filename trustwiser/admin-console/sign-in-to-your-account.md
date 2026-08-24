@@ -16,7 +16,7 @@ layout:
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
 ---
 
 # Sign in to Your Account

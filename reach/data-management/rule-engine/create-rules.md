@@ -40,7 +40,7 @@ Before creating a rule, ensure you have the required user permissions to access 
 
     Leave the **Rule ID** blank for the system to generate one automatically.
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
