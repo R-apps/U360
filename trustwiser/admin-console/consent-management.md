@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: false
 ---
 
 # Consent Management
@@ -180,7 +182,7 @@ To rearrange, hover over a partner and use this icon (![](<../../.gitbook/assets
 
 <details>
 
-<summary><strong>Event Subscribers (External Systems)</strong></summary>
+<summary><del><strong>Event Subscribers (External Systems</strong></del><strong>)</strong></summary>
 
 Register external systems that uses this CMP for their customers' consent. While registering, configure [web hook endpoint URLs](#user-content-fn-1)[^1] to enable external systems to receive real-time events such as consent updates, withdrawals, and more.
 

@@ -17,9 +17,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: false
 ---
 
-# Signing into your account
+# Sign in to Your Account
 
 To sign in to your account,&#x20;
 

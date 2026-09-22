@@ -17,17 +17,21 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: false
 ---
 
 # Importing a Document
 
-The **Import Document** feature lets you bring an existing document (in PDF) into UniServe 360 and use it as the base design for your template. The platform converts the imported file into an editable layout, allowing you to overlay objects, map data fields, and rebuild the template quickly without designing everything from scratch. This
+The **Import Document** feature lets you bring an existing PDF into ABC as the base design for your template. ABC converts the file into an editable layout, letting you overlay objects and map data fields so you can build templates without starting from scratch.
 
-* saves time by reusing an existing statement or letter format
-* preserves branding, layout, and structure from the original document.
-* reduces design effort for repetitive or standard customer communications.
+Benefits:
 
-Before importing a document, upload the input data and create simple objects.&#x20;
+* Save time: Reuse existing statement or letter formats instantly.
+* Preserve design integrity: Keep the original branding, layout, and structure intact.
+* Reduce effort: Streamline design work for repetitive or standard customer communications.
+
+Before importing a document, upload your input data and create simple objects.&#x20;
 
 To create simple objects, access the **Data Mapper** tab, expand **RAW** >**Input** >**Simple**. Click 'S' and select the required variables from the input data, to create simple objects. Then, click **Ok**.&#x20;
 
