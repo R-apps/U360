@@ -15,6 +15,10 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: false
 ---
 
 # Consent APIs
@@ -27,4 +31,4 @@ There are separate APIs to manage customers' consent preferences.&#x20;
 
 **Consent Status API**: This enable external systems can read a customer's current consent preference with a single API call.
 
-**Consent Details API**: This API provides read-only access for all customer consents. This fetches records from the database. when API is called.
+**Consent Details API**: This API provides read-only access for all customer consents. This fetches records from the database when API is called.
