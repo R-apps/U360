@@ -18,8 +18,8 @@ layout:
   actions:
     visible: false
   anchors:
-    visible: false
+    visible: true
 ---
 
-# DPIA Questionnaries
+# Privacy Foundation
 

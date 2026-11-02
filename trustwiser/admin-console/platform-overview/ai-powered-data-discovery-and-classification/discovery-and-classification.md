@@ -119,9 +119,27 @@ To run classification across all available data sources:
 
 ### View classification history
 
-Use the history to review earlier runs and track classification activity over time.
+Use classification history to review earlier runs and track classification activity over time.
 
-To review previous classification runs, select **History**.&#x20;
+To review previous classification runs, select **History**.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Classification - Version History.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+Select a version to view its detailed report.
+
+#### **Compare classification versions**
+
+You can compare any two versions of an individual data source's classification history to identify differences between their results.
+
+* Select the two versions you want to compare.
+* Select **Compare**.
+* Review the differences between the selected versions. You can view the combined results or the full results for further analysis.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Classification - Compare versions.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+#### **Delete classification versions**
+
+You can delete versions that are no longer required. Review the selected version before deleting it.
 
 <mark style="color:$warning;">Queries:</mark>
 

@@ -29,7 +29,7 @@ Data Discovery & Classification. Selected sources are displayed with basic infor
 Use this page to control which configured enterprise data sources are available for classification. \
 You can add data sources from Enterprise Connectivity, view their details, open the corresponding configuration in Enterprise Connectivity, or remove a source from the Data Discovery & Classification list.
 
-<figure><img src="../../../../.gitbook/assets/Data Discovery &#x26; Classification - Datasources.png" alt=""><figcaption></figcaption></figure>
+<div align="left" data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Data Discovery &#x26; Classification - Datasources.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Manage Data Sources
 
