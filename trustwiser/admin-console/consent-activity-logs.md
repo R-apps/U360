@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -15,6 +16,10 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: false
 ---
 
 # Consent Activity Logs

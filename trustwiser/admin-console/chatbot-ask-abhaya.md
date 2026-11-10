@@ -1,5 +1,6 @@
 ---
 description: Your DPDP Act Assistant
+hidden: true
 layout:
   width: default
   title:
