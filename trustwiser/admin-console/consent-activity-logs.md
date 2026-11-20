@@ -24,18 +24,13 @@ layout:
 
 # Consent Activity Logs
 
-The **Consent Activity Logs** provides a complete audit trail of all consent-related actions and updates. The dashboard gives a quick summary of consent activity:
-
-* **Total Records** – Total number of consent-related entries across all categories
-* **Customer Activity Logs** – Actions performed by or on behalf of customers
-* **Admin Activity Logs** – Configuration or consent changes made by administrators
-* **API Activity Logs** – Consent updates triggered through API integrations
+The **Consent Activity Logs** provides a complete audit trail of all consent-related actions and updates. This displays detailed records of consent changes made by or for customers, providing full visibility into customer consent changes, and enable data export for reporting and governance.
 
 Example: If a customer updates his/her communication preference by disabling Email notifications, the system records the change instantly, the log captures both **old value (Enabled)** and **new value (Disabled)**, and the **source** reflects whether the action was performed via portal or API.
 
 This ensures full traceability of every consent change.
 
-**Consent Activity Logs:** Displays detailed records of consent changes made by or for customers. It ensures compliance and audit readiness, provides full visibility into customer consent changes, and enable data export for reporting and governance
+**Consent Activity Logs**&#x20;
 
 Each activity logs includes:
 

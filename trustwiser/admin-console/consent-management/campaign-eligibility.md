@@ -21,5 +21,5 @@ layout:
     visible: true
 ---
 
-# Privacy Operations
+# Campaign Eligibility
 

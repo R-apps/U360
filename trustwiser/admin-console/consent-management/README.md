@@ -27,7 +27,7 @@ Use this section to customize what appears on the customer-facing portal.&#x20;
 
 You (The Client) can configure widgets, categories, response patterns, integrations, and communication channels based on your business requirements, and control which consent and data preference options are presented to users.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
 
 > For each consent type, you can control the section's visibility (enable or disable).&#x20;
 
@@ -52,11 +52,11 @@ Then, select **Create Field.** The field gets created and is displayed in the \
 > Alternatively, you can use the default field types available on the right. To use, \
 > select and customize them as required.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 You can manage the field and control its visibility even from here.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
 Similarly, as many field as you require to display your customer profile information.
 
@@ -65,7 +65,7 @@ Similarly, as many field as you require to display your customer profile informa
 * Fields are labeled **Visible** when the _Visible to customer_ option is enabled; otherwise, they are labeled **Hidden**.
 {% endhint %}
 
-You can also rearrange fields based on how you want them to appear to users. To rearrange, hover over a field and use this icon (![](<../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.
+You can also rearrange fields based on how you want them to appear to users. To rearrange, hover over a field and use this icon (![](<../../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.
 
 </details>
 
@@ -88,14 +88,14 @@ To add a category,
 > Alternatively, you can use the default categories available on the right. To use, \
 > select and customize them as required.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Then, select **Create Category**. The category is created and appears in the \
 **Consent Categories** section.
 
 Similarly, add all the categories for which the customers consent is required.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Manage and control the category visibility from here.&#x20;
 
@@ -104,7 +104,7 @@ Categories are labelled with their default status (Enabled/Disabled)
 {% endhint %}
 
 You can also rearrange categories based on how you want them to appear to users. \
-To rearrange, hover over a category and use this icon (![](<../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.&#x20;
+To rearrange, hover over a category and use this icon (![](<../../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.&#x20;
 
 </details>
 
@@ -125,13 +125,13 @@ To add a channel,
 
 > Alternatively, you can pick a default channel from the right pane and customize it as required.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
 
 Then, select **Create Channel**. The channel is created and appears in the **Channels** section.
 
 Repeat the same steps to add all the communication channels you currently use.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
 
 Manage and control channel visibility from here.
 
@@ -140,7 +140,7 @@ Channels are labelled with their default status (Enabled/Disabled)
 {% endhint %}
 
 You can also rearrange channels based on how you want them to appear to users. \
-To rearrange, hover over a channel and use this icon (![](<../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.&#x20;
+To rearrange, hover over a channel and use this icon (![](<../../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.&#x20;
 
 </details>
 
@@ -161,13 +161,13 @@ To add a data sharing partner,
 
 > Alternatively, you can pick a default partner from the right pane and customize it as required.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>
 
 Then, select **Add Partner**. The partner is created and appears in the **Data Sharing Partners** section.
 
 Repeat the same steps to add all the partners who uses your customer data with consent.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
 
 Manage and control partner visibility from here.
 
@@ -176,7 +176,7 @@ Partners are labelled with their default status (Enabled/Disabled)
 {% endhint %}
 
 You can also rearrange these partners based on how you want them to appear to users. \
-To rearrange, hover over a partner and use this icon (![](<../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.&#x20;
+To rearrange, hover over a partner and use this icon (![](<../../../.gitbook/assets/image (34).png>)) to drag and place it in the required position.&#x20;
 
 </details>
 
@@ -197,7 +197,7 @@ To register an external system,
 
 > Alternatively, you can pick a default event subscriber from the right pane and specify how we send consent events to them.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (13).png" alt="" width="544"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (13).png" alt="" width="544"><figcaption></figcaption></figure></div>
 
 Then, select **Add Web Hook**. The system adds the external system and appears in the \
 **Event Subscribers** section.
@@ -220,12 +220,12 @@ This request format is used by CMS to send consent updates to the configured eve
 
 Supported identifier values: PHONE\_CALL, EMAIL, SMS, WHATSAPP
 
-* For more information, click ![](<../../.gitbook/assets/image (14).png>) in the Event Subscribers section.
+* For more information, click ![](<../../../.gitbook/assets/image (14).png>) in the Event Subscribers section.
 {% endhint %}
 
 Configured external systems are labelled with the consent events (that you are passing through its endpoint URL) and the authentication type for easy identification.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
 
 Manage event subscribers from here. You can disable, edit, or delete an event subscriber.
 
@@ -245,11 +245,11 @@ To add an integration,
 * Specify the API endpoint URL
 * Mark it "Active" to keep this integration method active
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (16).png" alt="" width="347"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (16).png" alt="" width="347"><figcaption></figcaption></figure></div>
 
 Then, select **Create Integration**. The added integration method appears in the main section.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 The added integrations are labelled with the authentication type and base url for easy identication.
@@ -276,36 +276,36 @@ You can even customize the appearance of each widget to match your brand, ensuri
 To configure a widget,
 
 * Select **Create Widget**
-* First, click![](<../../.gitbook/assets/image (18).png>) and rename the widget
+* First, click![](<../../../.gitbook/assets/image (18).png>) and rename the widget
 *   Select the section(s) to be displayed in this widget. As you select, you see a live preview to the right. This helps you to view how it appears on desktop and mobile devices. <br>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure></div>
 *   Now, to style your widget, switch to the **Appearance** tab. You can select an available preset mode or you can create a custom preset.&#x20;
 
     *   If you apply an available preset, see how it appears in the preview.\
         &#x20;
 
-        <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure></div>
+        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure></div>
     *   For custom style, select **New** to create a new preset.
 
         * Enter the basic details like preset name and description
         * Select the Primary color and Text color
         * Specify the labels for Grant and Revoke actions
 
-        <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (21).png" alt="" width="432"><figcaption></figcaption></figure></div>
+        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (21).png" alt="" width="432"><figcaption></figcaption></figure></div>
 
         * In the **Sections** tab, for each section, define the title, button position, helper text, and footer summary label.
 
-        <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (22).png" alt="" width="427"><figcaption></figcaption></figure></div>
+        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (22).png" alt="" width="427"><figcaption></figcaption></figure></div>
 
         * In the **Custom CSS** tab, define all the elements in the available code with standard CSS selectors. Then, select **Preview** to view how the element appears.
 
-        <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (23).png" alt="" width="432"><figcaption></figcaption></figure></div>
+        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (23).png" alt="" width="432"><figcaption></figcaption></figure></div>
 
         * Then, select **Create Mode**. This custom preset is then listed in the custom presets from where you can select to apply it to the widget.
     * Now, apply this preset to the widget and see its preview.
 
-    <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 This is how you can customize the widget's appearance.
 
@@ -317,7 +317,7 @@ Next, **save** the widget.&#x20;
 
 Then, publish it to display in the customer-facing portal. To publish, select **Publish** and specify the version and a short description.&#x20;
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (25).png" alt="" width="253"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (25).png" alt="" width="253"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 * Whenever you edit this widget, publish it with incremented version number and specify the changes made to it. This helps you track the changes made in each version.
@@ -326,17 +326,17 @@ Then, publish it to display in the customer-facing portal. To publish, select **
 
 View all the widgets created to date in the **Consent Widgets** dashboard.
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Manage Widgets
 
 * The latest version of the widget will be active by default. You can select a previous version of it, if required.
 * View its analytics like clicks, impressions, and CTR for each widget.
-* Click <img src="../../.gitbook/assets/image (26).png" alt="" data-size="original"> to make changes and publish it as a new version.
-* Click ![](<../../.gitbook/assets/image (28).png>) to unpublish the widget.
-* Click ![](<../../.gitbook/assets/image (29).png>) to view its analytics
-* Click ![](<../../.gitbook/assets/image (30).png>) to preview it.
-* Click ![](<../../.gitbook/assets/image (31).png>) to delete the widget.
+* Click <img src="../../../.gitbook/assets/image (26).png" alt="" data-size="original"> to make changes and publish it as a new version.
+* Click ![](<../../../.gitbook/assets/image (28).png>) to unpublish the widget.
+* Click ![](<../../../.gitbook/assets/image (29).png>) to view its analytics
+* Click ![](<../../../.gitbook/assets/image (30).png>) to preview it.
+* Click ![](<../../../.gitbook/assets/image (31).png>) to delete the widget.
 
 </details>
 

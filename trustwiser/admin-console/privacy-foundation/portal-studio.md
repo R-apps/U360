@@ -53,7 +53,7 @@ The builder allows you to customize the portal's pages, add components, configur
 
 {% stepper %}
 {% step %}
-**Portal Pages**
+#### **Portal Pages**
 
 The Page dropdown in the left panel lists the available pages.\
 ![](<../../../.gitbook/assets/Portal - pages.png>)&#x20;
@@ -67,7 +67,7 @@ After defining the required pages, configure components in each page.&#x20;
 {% endstep %}
 
 {% step %}
-**Adding and Configuring Components**&#x20;
+#### **Adding and Configuring Components**&#x20;
 
 The **Components** tab provides the available components that you can add to a portal page. Select the page and then select component(s) to be displayed in the selected page.
 
@@ -79,7 +79,7 @@ As you select the component or configure, every change is live previewed in the 
 {% endstep %}
 
 {% step %}
-**Customize the portal appearance**
+#### **Customize the portal appearance**
 
 Use the controls available in the builder to customize and review the portal layout.
 
@@ -92,7 +92,7 @@ Use the controls available in the builder to customize and review the portal lay
 {% endstep %}
 
 {% step %}
-**Save and publish the portal**
+#### **Save and publish the portal**
 
 After completing the configuration:
 
@@ -102,11 +102,11 @@ After completing the configuration:
 {% endstep %}
 {% endstepper %}
 
-The portal dashboard displays the publishing status and version of each portal, helping administrators track its configuration and deployment state.
+The platform publishes the portal and the portal appears in the portal dashboard displays the publishing status and version of each portal, helping administrators track its configuration and deployment state.
 
 ### Map Business Objects to Customer Portals
 
-Mapping ensures that each business object is associated with the appropriate customer-facing portal. It helps organizations manage different user groups through separate portals while maintaining a consistent privacy management experience.
+Mapping ensures that each [business object](../platform-overview/business-objects.md) is associated with the appropriate customer-facing portal. It helps organizations manage different user groups through separate portals while maintaining a consistent privacy management experience.
 
 To configure,&#x20;
 
